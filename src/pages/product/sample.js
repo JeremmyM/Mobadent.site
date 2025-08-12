@@ -171,7 +171,7 @@ const ProductPage = (props) => {
                 <Accordion
                   type="plus"
                   customStyle={styles}
-                  title="Envíos, cambios y garantías"
+                  title="Envios y Facilidades de Pago"
                 >
                   <p className={styles.information}>{product.shipping}</p>
                 </Accordion>
