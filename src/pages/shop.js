@@ -157,7 +157,7 @@ const ShopPage = () => {
             <Breadcrumbs
               crumbs={[
                 { link: '/', label: 'Inicio' },
-                { link: '/catalogo', label: 'Catálogo' },
+                //{ link: '/catalogo', label: 'Catálogo' },
                 { label: 'Productos' },
               ]}
             />

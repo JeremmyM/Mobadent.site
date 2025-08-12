@@ -61,7 +61,7 @@ const IndexPage = () => {
       {/* New Arrivals */}
       <div className={styles.newArrivalsContainer}>
         <Container>
-          <Title name={'Novedades'} link={'/shop'} textLink={'ver todo'} />
+          <Title name={'Descubre Nuestros Productos'} link={'/shop'} textLink={'ver todo'} />
           <ProductCardGrid
             spacing={true}
             showSlider
@@ -80,11 +80,11 @@ const IndexPage = () => {
             altImage={'imagen de resina y adhesivos'}
             miniImage={'/highlightmin.png'}
             miniImageAlt={'mini imagen de resina'}
-            title={'Restauración estética'}
-            description={`Resinas, adhesivos y accesorios seleccionados por odontólogos socios de MOBADENT para resultados predecibles.`}
-            textLink={'comprar ahora'}
-            link={'/shop'}
-          />
+            title={'Servicio técnico especializado en equipos dentales'}
+            description={`Mantenimiento, reparación y calibración de equipos odontológicos, realizado por nuestro ingeniero biomédico para garantizar un funcionamiento óptimo y seguro.`}
+            textLink={'CONTACTAR AHORA'}
+            link={'https://wa.me/593960044111?text=Hola, quisiera recibir informacion sobre el servicio tecnico para equipos dentales.'}
+            />
         </Container>
       </div>
 

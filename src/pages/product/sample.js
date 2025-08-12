@@ -139,7 +139,7 @@ const ProductPage = (props) => {
                     Añadir al carrito
                   </Button>
                 </div>
-                <div
+                {/*<div
                   className={styles.wishlistActionContainer}
                   role="presentation"
                   onClick={() => setIsWishlist(!isWishlist)}
@@ -152,7 +152,7 @@ const ProductPage = (props) => {
                   >
                     <Icon symbol="heartFill" />
                   </div>
-                </div>
+                </div>*/}
               </div>
 
               <div className={styles.description}>
