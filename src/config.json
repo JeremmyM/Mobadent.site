@@ -1,176 +1,111 @@
 {
   "currencyList": [
-    { "value": "AUS", "label": "Australia (AUS $)" },
-    { "value": "CAD", "label": "Canada (CAD $)" },
-    { "value": "USD", "label": "United States (US $)" },
-    { "value": "EUR", "label": "Germany (EUR €)" },
-    { "value": "HKD", "label": "Hong Kong (HKD $)" }
+    { "value": "USD", "label": "Dólares (US $)" }
   ],
   "languageList": [
-    { "value": "english", "label": "English" },
-    { "value": "german", "label": "Deutsch" },
-    { "value": "mandarin", "label": "普通话" }
+    { "value": "spanish", "label": "Español" }
   ],
   "social": {
-    "facebook": "https://www.facebook.com/MatterDesign/",
-    "instagram": "https://www.instagram.com/p/CVwMlChIWmW",
-    "twitter": "https://twitter.com/hellomatter",
-    "youtube": "https://www.youtube.com/channel/UCEOu94Haa--QmltsSawflXg"
+    "facebook": "https://www.facebook.com/mobadent",
+    "instagram": "https://www.instagram.com/mobadent_ec",
+    "whatsapp": "https://wa.me/593999999999"
   },
   "paymentOptions": {
     "visa": true,
     "mastercard": true,
-    "amex": true
+    "amex": false
   },
   "footerLinks": [
     {
-      "subTitle": "Info",
+      "subTitle": "Mobadent",
       "links": [
         {
-          "text": "About Us",
+          "text": "Sobre nosotros",
           "link": "/about"
         },
         {
-          "text": "Journal",
+          "text": "Blog",
           "link": "/blog"
         },
         {
-          "text": "Privacy Policy",
+          "text": "Política de privacidad",
           "link": "/support#policy"
         }
       ]
     },
     {
-      "subTitle": "Support",
+      "subTitle": "Soporte",
       "links": [
         {
-          "text": "FAQ",
+          "text": "Preguntas frecuentes",
           "link": "/faq"
         },
         {
-          "text": "Contact Us",
+          "text": "Contáctanos",
           "link": "/support#contact"
         },
         {
-          "text": "Shipping & Returns",
+          "text": "Envíos y devoluciones",
           "link": "/support#returns"
-        },
-        {
-          "text": "How to use this theme",
-          "link": "/how-to-use"
         }
       ]
     }
   ],
   "headerLinks": [
     {
-      "menuLabel": "Shop",
+      "menuLabel": "Productos",
       "menuLink": "/shop",
       "category": [
         {
-          "categoryLabel": "woman",
+          "categoryLabel": "Consumibles",
           "submenu": [
-            {
-              "menuLabel": "All clothing",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "sweatshirts & hoodies",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "jackets",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "trousers",
-              "menuLink": "/shop"
-            }
+            { "menuLabel": "Guantes", "menuLink": "/shop" },
+            { "menuLabel": "Jeringas", "menuLink": "/shop" },
+            { "menuLabel": "Torundas", "menuLink": "/shop" }
           ]
         },
         {
-          "categoryLabel": "men",
+          "categoryLabel": "Instrumental",
           "submenu": [
-            {
-              "menuLabel": "All clothing",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "sweatshirts & hoodies",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "jackets",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "trousers",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "pants",
-              "menuLink": "/shop"
-            }
+            { "menuLabel": "Espejos", "menuLink": "/shop" },
+            { "menuLabel": "Porta agujas", "menuLink": "/shop" },
+            { "menuLabel": "Bisturí", "menuLink": "/shop" }
           ]
         },
         {
-          "categoryLabel": "accessories",
+          "categoryLabel": "Protección",
           "submenu": [
-            {
-              "menuLabel": "caps & scarves",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "bags",
-              "menuLink": "/shop"
-            }
+            { "menuLabel": "Babetes", "menuLink": "/shop" },
+            { "menuLabel": "Cubrebocas", "menuLink": "/shop" }
           ]
         }
       ]
     },
     {
-      "menuLabel": "journal",
+      "menuLabel": "Blog",
       "menuLink": "/blog",
       "category": null
     },
     {
-      "menuLabel": "About",
+      "menuLabel": "Nosotros",
       "menuLink": "/about",
+      "category": null
+    },
+    {
+      "menuLabel": "CLUB MOBADENT",
+      "menuLink": "/",
       "category": null
     }
   ],
   "filters": [
     {
-      "category": "colour",
+      "category": "categoría",
       "items": [
-        { "name": "Black", "value": true },
-        { "name": "Green", "value": false },
-        { "name": "Dark Blue", "value": false },
-        { "name": "Blue", "value": true },
-        { "name": "Grey", "value": false },
-        { "name": "Red", "value": false }
-      ]
-    },
-
-    {
-      "category": "size",
-      "items": [
-        { "name": "XXS", "value": false },
-        { "name": "XS", "value": false },
-        { "name": "S", "value": false },
-        { "name": "M", "value": false },
-        { "name": "L", "value": false },
-        { "name": "XL", "value": false },
-        { "name": "XXL", "value": false },
-        { "name": "Onesize", "value": false }
-      ]
-    },
-    {
-      "category": "gender",
-      "items": [
-        { "name": "Male", "value": false },
-        { "name": "Female", "value": false },
-        { "name": "Unisex", "value": false }
+        { "name": "Consumibles", "value": false },
+        { "name": "Instrumental", "value": false },
+        { "name": "Protección", "value": false },
+        { "name": "Anestesia", "value": false },
+        { "name": "Suturas", "value": false }
       ]
     }
   ]

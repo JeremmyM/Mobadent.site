@@ -1,12 +1,29 @@
 .root {
-    display: flex;
-    justify-content: center;
     cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 24px; /* altura fija del contenedor */
+
 }
 
+.logo {
+    height: 80px; /* aumenta aquí el tamaño del logo */
+    width: auto;
+    object-fit: contain;
+  }
+
 @media (max-width: 800px) {
-    .root svg {
+    .root {
         width: 90px;
         height: 16.67px;
     }
+}
+
+@media (max-width: 1300px) {
+    .logo {
+        height: 60px; /* aumenta aquí el tamaño del logo */
+        width: auto;
+        object-fit: contain;
+      }
 }

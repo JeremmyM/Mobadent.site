@@ -1,0 +1,183 @@
+import React, { useState, useContext } from 'react';
+import * as styles from './sample.module.css';
+
+import products from '../../data/products.json'; // ✅ Importa tus productos reales
+import { navigate } from 'gatsby';
+
+import Accordion from '../../components/Accordion';
+import AdjustItem from '../../components/AdjustItem';
+import Button from '../../components/Button';
+import Breadcrumbs from '../../components/Breadcrumbs';
+import Container from '../../components/Container';
+import CurrencyFormatter from '../../components/CurrencyFormatter';
+import Gallery from '../../components/Gallery';
+import SizeList from '../../components/SizeList';
+import Split from '../../components/Split';
+import SwatchList from '../../components/SwatchList';
+import Layout from '../../components/Layout/Layout';
+import Icon from '../../components/Icons/Icon';
+import ProductCardGrid from '../../components/ProductCardGrid';
+
+import AddItemNotificationContext from '../../context/AddItemNotificationProvider';
+
+const ProductPage = (props) => {
+  const { slug } = props.pageContext || {};
+  const ctxAddItemNotification = useContext(AddItemNotificationContext);
+  const showNotification = ctxAddItemNotification.showNotification;
+
+  const product = products.find((p) => p.slug === slug); // ✅ Buscar producto por slug
+
+  // 🔧 Hooks deben estar antes del return condicional
+  const [qty, setQty] = useState(0);
+  const [isWishlist, setIsWishlist] = useState(false);
+  const [activeSwatch, setActiveSwatch] = useState(
+    product?.colorOptions?.[0] || null
+  );
+  const [activeSize, setActiveSize] = useState(
+    product?.sizeOptions?.[0] || null
+  );
+
+  if (!product) {
+    return (
+      <Layout>
+        <Container>
+          <h1>Producto no encontrado</h1>
+        </Container>
+      </Layout>
+    );
+  }
+
+  const suggestions = products.filter((p) => p.slug !== slug).slice(0, 4);
+
+  return (
+    <Layout>
+      <div className={styles.root}>
+        <Container size={'large'} spacing={'min'}>
+          <Breadcrumbs
+            crumbs={[
+              { link: '/', label: 'Inicio' },
+              { label: 'Productos', link: '/shop' },
+              { label: product.name },
+            ]}
+          />
+          <div className={styles.content}>
+            <div className={styles.gallery}>
+              <Gallery images={product.gallery} />
+            </div>
+            <div className={styles.details}>
+              <h1>{product.name}</h1>
+              <span className={styles.vendor}> por {product.vendor}</span>
+
+              <div className={styles.priceContainer}>
+                <CurrencyFormatter appendZero amount={product.price} />
+              </div>
+
+              {product.colorOptions && (
+                <SwatchList
+                  swatchList={product.colorOptions}
+                  activeSwatch={activeSwatch}
+                  setActiveSwatch={setActiveSwatch}
+                />
+              )}
+
+              {product.sizeOptions && (
+                <div className={styles.sizeContainer}>
+                  <SizeList
+                    sizeList={product.sizeOptions}
+                    activeSize={activeSize}
+                    setActiveSize={setActiveSize}
+                  />
+                </div>
+              )}
+
+              <div className={styles.quantityContainer}>
+                <span>Cantidad</span>
+                <AdjustItem qty={qty} setQty={setQty} />
+              </div>
+
+              <div className={styles.actionContainer}>
+                <div className={styles.addToButtonContainer}>
+                  <Button
+                    onClick={() => showNotification()}
+                    fullWidth
+                    level={'primary'}
+                  >
+                    Añadir al carrito
+                  </Button>
+                </div>
+                <div
+                  className={styles.wishlistActionContainer}
+                  role="presentation"
+                  onClick={() => setIsWishlist(!isWishlist)}
+                >
+                  <Icon symbol="heart" />
+                  <div
+                    className={`${styles.heartFillContainer} ${
+                      isWishlist ? styles.show : styles.hide
+                    }`}
+                  >
+                    <Icon symbol="heartFill" />
+                  </div>
+                </div>
+              </div>
+
+              <div className={styles.description}>
+                <p>{product.description}</p>
+                <span>Código del producto: {product.productCode}</span>
+              </div>
+
+              <div className={styles.informationContainer}>
+                <Accordion
+                  type="plus"
+                  customStyle={styles}
+                  title="Composición y cuidado"
+                >
+                  <p className={styles.information}>{product.description}</p>
+                </Accordion>
+                <Accordion
+                  type="plus"
+                  customStyle={styles}
+                  title="Envíos y devoluciones"
+                >
+                  <p className={styles.information}>{product.description}</p>
+                </Accordion>
+                <Accordion
+                  type="plus"
+                  customStyle={styles}
+                  title="Ayuda"
+                >
+                  <p className={styles.information}>{product.description}</p>
+                </Accordion>
+              </div>
+            </div>
+          </div>
+
+          <div className={styles.suggestionContainer}>
+            <h2>También te puede interesar</h2>
+            <ProductCardGrid
+              spacing
+              showSlider
+              height={400}
+              columns={4}
+              data={suggestions}
+            />
+          </div>
+        </Container>
+
+        <div className={styles.attributeContainer}>
+          <Split
+            image="/cloth.png"
+            alt="Sostenibilidad"
+            title="Sostenibilidad"
+            description="Diseñamos nuestros productos para que se vean bien y duren. Nos enfocamos en la calidad por encima de la cantidad."
+            ctaText="Aprende más"
+            cta={() => navigate('/blog')}
+            bgColor="var(--standard-light-grey)"
+          />
+        </div>
+      </div>
+    </Layout>
+  );
+};
+
+export default ProductPage;

@@ -7,14 +7,22 @@
 }
 
 .imageContainer {
+    height: 250px; /* Ajusta la altura que quieras */
+
     position: relative;
     cursor: pointer;
+}
+
+.imageContainer img {
+    max-height: 100%;
+    width: auto;
+    object-fit: contain;
 }
 
 .root img {
     display: block;
     width: 100%;
-    object-fit: cover;
+    object-fit: contain;
     border-radius: 1px;
 }
 
@@ -60,8 +68,8 @@
     bottom: 0px;
     right: 0px;
 
-    width: 70px;
-    height: 70px;
+    width: 45px;
+    height: 45px;
     background-color: var(--standard-white);
 
     display: flex;
@@ -80,8 +88,8 @@
 
 .heartContainer {
     position: absolute;
-    top: 32px;
-    right: 32px;
+    top: 16px;
+    right: 16px;
 
     opacity: 0;
     visibility: hidden;

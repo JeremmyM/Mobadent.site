@@ -14,7 +14,7 @@ const ForgotPage = (props) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     if (validateEmail(email) !== true) {
-      setError('Not a valid email address');
+      setError('Correo electrónico no válido');
       return;
     }
     setEmail('');
@@ -24,11 +24,10 @@ const ForgotPage = (props) => {
   return (
     <Layout disablePaddingBottom>
       <div className={styles.root}>
-        <h1 className={styles.title}>Reset Password</h1>
+        <h1 className={styles.title}>Restablecer contraseña</h1>
         <p className={styles.message}>
-          Fill in your email below to request a new password. An email will be
-          sent to the address below containing a link to verify your email
-          address.
+          Ingresa tu correo para solicitar una nueva contraseña. Te enviaremos un
+          mensaje con un enlace para verificar tu correo electrónico.
         </p>
         <form
           className={styles.formContainer}
@@ -40,12 +39,12 @@ const ForgotPage = (props) => {
             value={email}
             handleChange={(_, e) => setEmail(e)}
             type={'email'}
-            labelName={'Email'}
+            labelName={'Correo electrónico'}
             error={error}
           />
           <div className={styles.buttonContainer}>
             <Button fullWidth level={'primary'} type={'submit'}>
-              reset password
+              restablecer contraseña
             </Button>
           </div>
         </form>

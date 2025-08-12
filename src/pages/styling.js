@@ -10,63 +10,63 @@ const StylingPage = () => {
     <Layout>
       <Container size={'large'}>
         <div className={styles.root}>
-          <h1>Styling Guide</h1>
+          <h1>Guía de Estilos — MOBADENT</h1>
           <div className={styles.grid}>
-            <h1>Heading 1</h1>
-            <h2>Heading 2</h2>
-            <h3>Heading 3</h3>
-            <h4>Heading 4</h4>
-            <div className={'quote'}>Quote</div>
+            <h1>Título 1</h1>
+            <h2>Título 2</h2>
+            <h3>Título 3</h3>
+            <h4>Título 4</h4>
+            <div className={'quote'}>Cita / Destacado</div>
           </div>
           <div className={styles.grid}>
-            <p className={'b1'}>Body 1</p>
-            <p className={'b2'}>Body 2</p>
-            <p className={'b3'}>Body 3</p>
-            <p className={'b4'}>Body 4</p>
-            <p className={'buttonText'}>Button</p>
+            <p className={'b1'}>Cuerpo 1</p>
+            <p className={'b2'}>Cuerpo 2</p>
+            <p className={'b3'}>Cuerpo 3</p>
+            <p className={'b4'}>Cuerpo 4</p>
+            <p className={'buttonText'}>Texto de Botón</p>
           </div>
-          <h2>Branding Guide</h2>
+          <h2>Guía de Marca</h2>
           <div className={styles.grid4}>
             <div
               className={styles.brand}
               style={{ backgroundColor: 'var(--standard-black)' }}
             >
-              <span className={styles.text}>Black</span>
+              <span className={styles.text}>Negro</span>
               <span className={styles.text}>#000000</span>
             </div>
             <div
               className={styles.brand}
               style={{ backgroundColor: 'var(--standard-gold)' }}
             >
-              <span className={styles.text}>Gold</span>
+              <span className={styles.text}>Dorado MOBADENT</span>
               <span className={styles.text}>#B59F66</span>
             </div>
             <div
               className={styles.brand}
               style={{ backgroundColor: 'var(--standard-dark-grey)' }}
             >
-              <span className={styles.text}>Tarmak</span>
+              <span className={styles.text}>Gris Tarmak</span>
               <span className={styles.text}>#545250</span>
             </div>
             <div
               className={styles.brand}
               style={{ backgroundColor: 'var(--standard-light-grey)' }}
             >
-              <span>Milk</span>
+              <span>Marfil</span>
               <span>#FCFAF6</span>
             </div>
           </div>
-          <h2>Buttons</h2>
+          <h2>Botones</h2>
           <div className={styles.grid}>
-            <Button level={'primary'}>Enabled - Primary</Button>
-            <Button level={'primary'}>Hovered - Primary</Button>
+            <Button level={'primary'}>Activo - Primario</Button>
+            <Button level={'primary'}>Hover - Primario</Button>
             <Button level={'primary'} disabled>
-              Disabled - Primary
+              Deshabilitado - Primario
             </Button>
-            <Button level={'secondary'}>Enabled - Secondary</Button>
-            <Button level={'secondary'}>Hovered - Secondary</Button>
+            <Button level={'secondary'}>Activo - Secundario</Button>
+            <Button level={'secondary'}>Hover - Secundario</Button>
             <Button level={'secondary'} disabled>
-              Disabled - Secondary
+              Deshabilitado - Secundario
             </Button>
           </div>
         </div>

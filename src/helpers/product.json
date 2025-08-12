@@ -1,7 +1,7 @@
 [
     {
         "productCode": "MJUM8066-GYDZ",
-        "name": "Lambswool Crew Neck Jumper",
+        "name": "Lambswool",
         "vendor": "Sunspel",
         "price": 75,
         "alt": "lambswool crew neck jumper",
@@ -27,6 +27,7 @@
         "price": 75,
         "alt": "classic t-shirt 1",
         "image": "/products/shirt1.jpg",
+        "wishlist": true,
         "tags": ["shirt", "men"]
     },
     {
@@ -41,6 +42,7 @@
         "price": 75,
         "alt": "classic t-shirt 3",
         "image": "/products/shirt3.jpg",
+        "wishlist": true,
         "tags": ["shirt", "men"]
     },
     {
@@ -56,6 +58,7 @@
         "price": 15.90,
         "alt": "relaxed t shirt woman",
         "image": "/products/woman2.jpeg",
+        "wishlist": true,
         "tags": ["woman"]
     },    
     {
@@ -63,6 +66,7 @@
         "price": 13.90,
         "alt": "relaxed t shirt woman",
         "image": "/products/woman3.jpeg",
+        "wishlist": true,
         "tags": ["woman"],
         "meta": "+ 2 colors"
     },
@@ -70,6 +74,7 @@
         "name": "Relaxed-fit graphic T-shirt",
         "price": 15.90,
         "alt": "relaxed t shirt woman",
+        "wishlist": true,
         "image": "/products/woman4.jpeg",
         "tags": ["woman"]
     },
@@ -78,6 +83,7 @@
         "price": 15.90,
         "alt": "relaxed t shirt woman",
         "image": "/products/woman5.jpeg",
+        "wishlist": true,
         "tags": ["woman"],
         "originalPrice": 31.50
 

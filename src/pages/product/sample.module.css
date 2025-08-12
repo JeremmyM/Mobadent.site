@@ -4,6 +4,7 @@
 
 .content {
     display: flex;
+    
 }
 
 .gallery {
@@ -13,6 +14,7 @@
     position: sticky;
     top: 190px; 
     align-self: start;
+    
 }
 
 .details {
@@ -156,6 +158,7 @@
 .show {
     visibility: visible;
     opacity: 1;
+    
 }
 
 .hide {

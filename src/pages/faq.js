@@ -11,102 +11,67 @@ const FaqPage = (props) => {
       <div className={styles.root}>
         <Banner
           maxWidth={'650px'}
-          name={`Frequently Asked Questions`}
+          name={`Preguntas Frecuentes`}
           bgImage={'/faqCover.png'}
           color={'var(--standard-white)'}
           height={'350px'}
         />
         <Container>
           <div className={styles.section}>
-            <span>Your Orders</span>
+            <span>Tus pedidos</span>
             <div className={styles.subSection}>
-              <h3>Deliveries</h3>
+              <h3>Entregas</h3>
               <p>
-                To review the status of your order please visit the "My Orders"
-                section of your Sunspel Account. You should receive an email
-                notification when your package is dispatched. Please check your
-                email inbox and your junk filter.
+                Para revisar el estado de tu pedido visita la sección "Mis pedidos" de tu cuenta MOBADENT. También recibirás un correo cuando tu paquete sea despachado. Revisa tu bandeja de entrada y la carpeta de spam por si acaso.
               </p>
               <p>
-                We dispatch all orders within 24 hours of being placed. During
-                our sale periods it can get very busy in our factory, orders may
-                take a little longer to be dispatched so please add five working
-                days just in case.
+                Despachamos la mayoría de pedidos dentro de 24–48 horas hábiles en Santo Domingo. En temporadas de alta demanda (promociones o campañas) el despacho puede tomar un poco más; considera hasta cinco días hábiles como margen de seguridad.
               </p>
               <p>
-                If there’s something you want to know about your order, please
-                get in touch with us at customerservice@example.com or call us
-                on +44 (0)115 111 1111.
+                Si necesitas ayuda con tu pedido, contáctanos mediante WhatsApp o desde la sección de Contacto del sitio y con gusto te asistiremos.
               </p>
             </div>
             <div className={styles.subSection}>
-              <h3>Returns & Exchanges</h3>
+              <h3>Devoluciones y cambios</h3>
               <p>
-                To review the status of your order please visit the "My Orders"
-                section of your Sunspel Account. You should receive an email
-                notification when your package is dispatched. Please check your
-                email inbox and your junk filter.
+                Si tu producto llegó con algún problema de fábrica o no corresponde a lo solicitado, por favor repórtalo dentro de las 48 horas posteriores a la entrega para evaluar cambio o nota de crédito.
               </p>
               <p>
-                We dispatch all orders within 24 hours of being placed. During
-                our sale periods it can get very busy in our factory, orders may
-                take a little longer to be dispatched so please add five working
-                days just in case.
+                Por razones sanitarias, algunos insumos dentales sellados no aplican para devolución una vez abiertos. Nuestro equipo te guiará en cada caso.
               </p>
             </div>
           </div>
 
           <div className={styles.section}>
-            <span>Payment</span>
+            <span>Pago</span>
             <div className={styles.subSection}>
-              <h3>Shipping Rates</h3>
+              <h3>Tarifas de envío</h3>
               <p>
-                To review the status of your order please visit the "My Orders"
-                section of your Sunspel Account. You should receive an email
-                notification when your package is dispatched. Please check your
-                email inbox and your junk filter.
+                Mostramos el costo de envío antes de confirmar tu compra. En Santo Domingo manejamos tarifas preferenciales y, según el monto del pedido o campañas vigentes, el envío puede ser gratuito.
               </p>
               <p>
-                We dispatch all orders within 24 hours of being placed. During
-                our sale periods it can get very busy in our factory, orders may
-                take a little longer to be dispatched so please add five working
-                days just in case.
+                Los pedidos confirmados antes de las 15:00 se programan para entrega en la siguiente ventana disponible. En picos de demanda, por favor considera hasta cinco días hábiles adicionales.
               </p>
               <p>
-                If there’s something you want to know about your order, please
-                get in touch with us at customerservice@example.com call us on
-                +44 (0)115 111 1111.
+                ¿Dudas sobre tu envío? Escríbenos por WhatsApp o desde la página de Contacto y te ayudamos de inmediato.
               </p>
             </div>
             <div className={styles.subSection}>
-              <h3>Currency</h3>
+              <h3>Moneda</h3>
               <p>
-                Our website automatically selects the currency that matches your
-                delivery location. You can change this manually in the top left
-                hand corner of the page.
+                Todos los precios se muestran en Dólares de los Estados Unidos (USD).
               </p>
               <p>
-                For deliveries to the UK, we will bill you in Pounds Sterling
-                (£), to the European Union in Euros (€), to the US in Dollars
-                ($), and to the Rest of World in Pounds Sterling (£).
+                Las facturas se emiten en USD. Si compras desde fuera de Ecuador, podrían aplicar impuestos o aranceles de tu país al momento de la importación.
               </p>
               <p>
-                Standard rate VAT is included in all orders to the UK and
-                Europe. Orders to the Rest of the World do not include VAT.
-                Where applicable, you will be responsible for any local country
-                import duty.
+                Cuando corresponda, los precios incluyen impuestos aplicables conforme a la normativa vigente.
               </p>
             </div>
             <div className={styles.subSection}>
-              <h3>Suspect Fraud?</h3>
+              <h3>¿Sospecha de fraude?</h3>
               <p>
-                Given our high levels of security, it’s very unlikely fraudulent
-                use of your card will take place on our website. But if a
-                fraudulent transaction does take place, first contact your
-                credit or debit card company so they can protect your card and
-                reimburse you. Then let us know at customerservice@example.com
-                and we will work with your card company to minimise any further
-                inconvenience to you.
+                Contamos con medidas de seguridad para proteger tus datos. Si detectas un cargo no reconocido, primero contacta a tu emisor de tarjeta para bloquearla y gestionar el reembolso. Luego avísanos desde la sección de Contacto para ayudarnos a investigar y prevenir cualquier inconveniente adicional.
               </p>
             </div>
           </div>

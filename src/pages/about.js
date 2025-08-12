@@ -28,98 +28,86 @@ const AboutPage = (props) => {
         <Hero
           maxWidth={'900px'}
           image={'/about.png'}
-          title={`Sydney \n A British brand since 1860`}
+          title={`MOBADENT\n Materiales dentales originales en Santo Domingo`}
         />
 
         <div className={styles.navContainer}>
           <ThemeLink onClick={() => handleScroll(historyRef)} to={'#history'}>
-            History
+            Historia
           </ThemeLink>
           <ThemeLink onClick={() => handleScroll(valuesRef)} to={'#values'}>
-            Values
+            Valores
           </ThemeLink>
           <ThemeLink
             onClick={() => handleScroll(sustainabilityRef)}
             to={'#sustainability'}
           >
-            Sustainability
+            Compromisos
           </ThemeLink>
         </div>
 
         <Container size={'large'} spacing={'min'}>
           <div className={styles.detailContainer} ref={historyRef}>
             <p>
-              Founded in 1860, Sydney is an innovative British brand with a
-              contemporary edge. We make timeless everyday luxury clothing.
+              MOBADENT es una empresa familiar ecuatoriana dedicada a la
+              distribución de <strong>insumos y materiales dentales 100% originales</strong>.
+              Nacimos para resolver algo simple: que clínicas y odontólogos de
+              Santo Domingo accedan a productos confiables, con asesoría
+              profesional y entregas ágiles.
             </p>
             <br />
             <br />
             <p>
-              We created some of the world's first T-shirts and spent decades
-              perfecting the feel of the cotton. Today we are the only brand
-              that makes T-shirts in its own factory in the UK. And we do this
-              in the same factory we have occupied since 1937.
+              Tres de nuestros socios son odontólogos y todos participamos en la
+              operación diaria: visitas presenciales, logística propia y
+              atención cercana. Creemos en relaciones de largo plazo basadas en
+              <strong>calidad, honestidad y servicio</strong>.
             </p>
           </div>
         </Container>
 
         <div className={styles.imageContainer}>
-          <img alt={'shirt brand'} src={toOptimizedImage('/about1.png')}></img>
+          <img alt={'equipo MOBADENT'} src={toOptimizedImage('/about1.png')}></img>
         </div>
 
         <Container size={'large'} spacing={'min'}>
           <div className={styles.content}>
-            <h3>Our Values</h3>
+            <h3>Nuetros Valores</h3>
             <div ref={valuesRef}>
               <p>
-                Sunspel produced some of the world's earliest T-shirts. In the
-                late 1800s the business made luxury tunics and undershirts from
-                lightweight Sea Island cotton for export to the Far East and
-                other warm climates. While these garments initially had silk
-                buttoned plackets, these were removed in the early 1900s and
-                replaced with simple bound necks to reduce manufacturing costs -
-                creating the T-shirt. We've supplied the world as the T-shirt
-                has evolved from underwear to outerwear, from symbol of youthful
-                rebellion to everyday wardrobe staple, and we've spent decades
-                refining its every last aspect.
+                Nuestra promesa es simple: ofrecer <strong>productos originales</strong> con
+                <strong> respaldo técnico</strong> y una experiencia de compra práctica. Para
+                clínicas y profesionales, esto significa disponibilidad, precios
+                justos y <strong>asesoría real</strong> en el uso de los materiales.
               </p>
               <ol>
-                <li>Be an ecowear</li>
-                <li>Sophisticated and not mass-produced</li>
-                <li>Only natural materials</li>
+                <li>Calidad primero: marcas originales y garantía.</li>
+                <li>Servicio cercano: visitas, WhatsApp y atención rápida.</li>
+                <li>Confianza: transparencia en precios y entregas.</li>
               </ol>
-              <img alt={'founder'} src={toOptimizedImage('/about2.png')}></img>
+              <img alt={'equipo y valores'} src={toOptimizedImage('/about2.png')}></img>
             </div>
-            <h3>Sustainability</h3>
+            <h3>Sostenibilidad / Compromisos</h3>
             <div id={'#sustainability'} ref={sustainabilityRef}>
               <p>
-                Our founder, Thomas Hill, had both an eye for quality and a
-                desire to innovate. As well as using the finest fibres such as
-                Sea Island cotton, cashmere and silk, he invented his own
-                fabrics. Sunspel continues this commitment to innovation today
-                and our unique fabrics include: Q100 Sea Island cotton, Q82
-                Supima cotton, Q75 warp knit mesh cotton and Q14 warp knit
-                cellular cotton. The technology behind these fabrics remains
-                unchanged today and all Sunspel products use the finest cottons,
-                wools and fibres.
+                Operamos con <strong>logística propia</strong> para optimizar rutas y reducir
+                tiempos de entrega. Cuidamos el <strong>almacenamiento adecuado</strong> de los
+                insumos para mantener la trazabilidad y condiciones óptimas.
               </p>
               <p>
-                Made in Long Eaton, England and crafted from our luxurious long
-                staple Supima cotton for unparalleled softness, comfort and
-                durability, the Sunspel T-shirt has a classic fit and only the
-                most essential details.{' '}
+                Estamos construyendo procesos digitales y avanzamos hacia una web y catálogos
+                online que simplifiquen la reposición de materiales.
               </p>
               <p>
-                With over 100 years spent perfecting fabric, fit and style, the
-                Sunspel Classic T-shirt is recognised as the finest in the
-                world.
+                Nuestro compromiso es amplificar el acceso a insumos de calidad
+                en Santo Domingo con <strong>honestidad, garantía y soporte</strong>.
               </p>
             </div>
           </div>
         </Container>
 
         <div className={styles.imageContainer}>
-          <img alt={'shirt backwards'} src={toOptimizedImage('/about3.png')}></img>
+          <img alt={'servicio y entregas MOBADENT'} src={toOptimizedImage('/about3.png')}></img>
         </div>
       </div>
     </Layout>

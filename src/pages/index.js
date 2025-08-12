@@ -18,7 +18,8 @@ import { Link, navigate } from 'gatsby';
 import { toOptimizedImage } from '../helpers/general';
 
 const IndexPage = () => {
-  const newArrivals = generateMockProductData(3, 'shirt');
+  // Manteniendo la misma lógica: uso de mocks y navegación
+  const newArrivals = generateMockProductData(3, 'kit'); // Adaptado a productos dentales (antes 'shirt')
   const blogData = generateMockBlogData(3);
 
   const goToShop = () => {
@@ -29,30 +30,30 @@ const IndexPage = () => {
     <Layout disablePaddingBottom>
       {/* Hero Container */}
       <Hero
-        maxWidth={'500px'}
+        maxWidth={'620px'}
         image={'/banner1.png'}
-        title={'Essentials for a cold winter'}
-        subtitle={'Discover Autumn Winter 2021'}
-        ctaText={'shop now'}
+        title={'Suministros dentales de calidad'}
+        subtitle={'Distribuidor oficial en Santo Domingo — MOBADENT'}
+        ctaText={'ver catálogo'}
         ctaAction={goToShop}
       />
 
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demonstration of the Sydney theme for verse by{' '}
-          <span className={styles.gold}>matter design.</span>
+          Somos <span className={styles.gold}>MOBADENT</span>: empresa familiar y joven que
+          distribuye <strong>productos originales</strong> con respaldo profesional.
         </p>
         <p>
-          wear by <span className={styles.gold}>sunspel</span> and{' '}
-          <span className={styles.gold}>scotch&soda</span>
+          Atención cercana, pagos por <span className={styles.gold}>abonos</span> y
+          entregas locales con nuestra propia logística.
         </p>
       </div>
 
       {/* Collection Container */}
       <div className={styles.collectionContainer}>
         <Container size={'large'}>
-          <Title name={'New Collection'} />
+          <Title name={'Categorías destacadas'} />
           <ProductCollectionGrid />
         </Container>
       </div>
@@ -60,7 +61,7 @@ const IndexPage = () => {
       {/* New Arrivals */}
       <div className={styles.newArrivalsContainer}>
         <Container>
-          <Title name={'New Arrivals'} link={'/shop'} textLink={'view all'} />
+          <Title name={'Novedades'} link={'/shop'} textLink={'ver todo'} />
           <ProductCardGrid
             spacing={true}
             showSlider
@@ -76,12 +77,12 @@ const IndexPage = () => {
         <Container size={'large'} fullMobile>
           <Highlight
             image={'/highlight.png'}
-            altImage={'highlight image'}
+            altImage={'imagen de resina y adhesivos'}
             miniImage={'/highlightmin.png'}
-            miniImageAlt={'mini highlight image'}
-            title={'Luxury Knitwear'}
-            description={`This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife`}
-            textLink={'shop now'}
+            miniImageAlt={'mini imagen de resina'}
+            title={'Restauración estética'}
+            description={`Resinas, adhesivos y accesorios seleccionados por odontólogos socios de MOBADENT para resultados predecibles.`}
+            textLink={'comprar ahora'}
             link={'/shop'}
           />
         </Container>
@@ -89,26 +90,26 @@ const IndexPage = () => {
 
       {/* Promotion */}
       <div className={styles.promotionContainer}>
-        <Hero image={toOptimizedImage('/banner2.png')} title={`-50% off \n All Essentials`} />
+        <Hero image={toOptimizedImage('/banner2.png')} title={`-15% en combos\n Instrumental y descarte`} />
         <div className={styles.linkContainers}>
-          <Link to={'/shop'}>WOMAN</Link>
-          <Link to={'/shop'}>MAN</Link>
+          <Link to={'/shop'}>ENDODONCIA</Link>
+          <Link to={'/shop'}>ODONTOLOGÍA GENERAL</Link>
         </div>
       </div>
 
       {/* Quote */}
       <Quote
         bgColor={'var(--standard-light-grey)'}
-        title={'about Sydney'}
+        title={'lo que creemos'}
         quote={
-          '“We believe in two things: the pursuit of quality in everything we do, and looking after one another. Everything else should take care of itself.”'
+          '“Calidad y honestidad primero. Si es original y funciona en nuestra práctica, lo ofrecemos a nuestros colegas.”'
         }
       />
 
       {/* Blog Grid */}
       <div className={styles.blogsContainer}>
         <Container size={'large'}>
-          <Title name={'Journal'} subtitle={'Notes on life and style'} />
+          <Title name={'Noticias y Consejos'} subtitle={'Actualizaciones y tips clínicos'} />
           <BlogPreviewGrid data={blogData} />
         </Container>
       </div>
@@ -117,11 +118,9 @@ const IndexPage = () => {
       <div className={styles.sustainableContainer}>
         <Hero
           image={toOptimizedImage('/banner3.png')}
-          title={'We are Sustainable'}
-          subtitle={
-            'From caring for our land to supporting our people, discover the steps we’re taking to do more for the world around us.'
-          }
-          ctaText={'read more'}
+          title={'Compromiso con tu práctica'}
+          subtitle={'Soporte posventa, capacitación básica de producto y entregas el mismo día en Santo Domingo.'}
+          ctaText={'conoce más'}
           maxWidth={'660px'}
           ctaStyle={styles.ctaCustomButton}
         />
@@ -130,14 +129,14 @@ const IndexPage = () => {
       {/* Social Media */}
       <div className={styles.socialContainer}>
         <Title
-          name={'Styled by You'}
-          subtitle={'Tag @sydney to be featured.'}
+          name={'Comparte tus casos'}
+          subtitle={'Etiquétanos @mobadent.ec para aparecer.'}
         />
         <div className={styles.socialContentGrid}>
-          <img src={toOptimizedImage(`/social/socialMedia1.png`)} alt={'social media 1'} />
-          <img src={toOptimizedImage(`/social/socialMedia2.png`)} alt={'social media 2'} />
-          <img src={toOptimizedImage(`/social/socialMedia3.png`)} alt={'social media 3'} />
-          <img src={toOptimizedImage(`/social/socialMedia4.png`)} alt={'social media 4'} />
+          <img src={toOptimizedImage(`/social/socialMedia1.png`)} alt={'caso clínico 1'} />
+          <img src={toOptimizedImage(`/social/socialMedia2.png`)} alt={'caso clínico 2'} />
+          <img src={toOptimizedImage(`/social/socialMedia3.png`)} alt={'caso clínico 3'} />
+          <img src={toOptimizedImage(`/social/socialMedia4.png`)} alt={'caso clínico 4'} />
         </div>
       </div>
       <AttributeGrid />

@@ -1,0 +1,17 @@
+const path = require('path');
+const products = require('./src/data/products.json');
+
+exports.createPages = async ({ actions }) => {
+  const { createPage } = actions;
+
+  products.forEach((product) => {
+    createPage({
+      path: `/product/${product.slug}`,
+      component: path.resolve(`./src/pages/product/sample.js`),
+      context: {
+        slug: product.slug,
+      },
+    });
+  });
+};
+   

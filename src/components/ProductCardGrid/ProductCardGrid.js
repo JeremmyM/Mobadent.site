@@ -25,7 +25,7 @@ const ProductCardGrid = (props) => {
           image={product.image}
           meta={product.meta}
           originalPrice={product.originalPrice}
-          link={product.link}
+          slug={product.slug}
           showQuickView={() => setShowQuickView(true)}
         />
       );

@@ -17,21 +17,21 @@ const FavoriteCard = (props) => {
         </div>
         <div className={styles.metaContainer}>
           <span>Color: {color}</span>
-          <span>Size: {size}</span>
+          <span>Tamaño: {size}</span>
         </div>
       </div>
       <div className={styles.actionContainer}>
         <span role={'presentation'} onClick={() => setShowQuickView(true)}>
-          Edit
+          Editar
         </span>
         <span role={'presentation'} onClick={showConfirmDialog}>
-          Remove
+          Quitar
         </span>
       </div>
 
       <Drawer visible={showQuickView} close={() => setShowQuickView(false)}>
         <QuickView
-          buttonTitle={'update favorite'}
+          buttonTitle={'actualizar favorito'}
           close={() => setShowQuickView(false)}
         />
       </Drawer>

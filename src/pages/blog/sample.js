@@ -13,75 +13,62 @@ const SamplePage = (props) => {
         <Container>
           <div className={styles.blogContainer}>
             <Blog
-              category={'design'}
-              title={'Friends of Sydney: Flora Fricker'}
+              category={'odontología'}
+              title={'MOBADENT: materiales originales con respaldo profesional'}
               image={'/blogFeatured.png'}
               alt={''}
             >
               <div className={styles.content}>
                 <p className={styles.excerpt}>
-                  London-based floral designer Flora Fricker champions seasonal
-                  British flowers and UK producers in her beautiful and
-                  sustainable creations. This season, we worked with Flora to
-                  style Sunspel stores for Christmas, for which she produced
-                  eye-catching sustainably sourced wreaths.
+                  MOBADENT es una empresa familiar en Santo Domingo, Ecuador,
+                  dedicada a distribuir materiales dentales 100% originales. Nos
+                  diferenciamos por el respaldo profesional de tres socios
+                  odontólogos, la atención cercana y la honestidad en cada
+                  venta.
                 </p>
                 <p className={styles.blogParagraph}>
-                  Delaware limited liability company (The Sydney) collects
-                  personal information that you voluntarily provide when
-                  applying or registering for an account with The Upside or
-                  making a purchase on The Upside website; www.theupside.com
-                  (the Website).
+                  Trabajamos con marcas de calidad y evitamos copias. Nuestro
+                  objetivo es que tu consulta rinda mejor con productos
+                  confiables, asesoría real y disponibilidad inmediata según tus
+                  preferencias de trabajo.
                 </p>
                 <p className={styles.blogParagraph}>
-                  This Privacy Policy (Privacy Policy) outlines how your
-                  information is collected, used and disclosed when you access
-                  or use our Services as defined in our Terms. This information
-                  is collected, used and disclosed in accordance with the
-                  Privacy Act 1988 (Cth) (Privacy Act).
+                  Contamos con logística propia: entregamos en tu consultorio en
+                  Santo Domingo y zonas cercanas. Si necesitas algo urgente,
+                  coordinamos para que lo tengas lo antes posible.
                 </p>
                 <p className={styles.blogParagraph}>
-                  This Privacy Policy is incorporated by reference into our
-                  Terms. Any capitalized terms not defined in this Policy are
-                  defined in the Terms. You agree to comply with all Terms when
-                  accessing or using our Services, including this Privacy
-                  Policy.
+                  Nuestro equipo comercial visita consultorios para entender tus
+                  necesidades y sugerirte soluciones concretas: desde
+                  restauradores y adhesivos hasta materiales para endodoncia y
+                  profilaxis, todo con soporte técnico práctico.
                 </p>
               </div>
               <div className={styles.imagesContainer}>
                 <div className={styles.imageContainer}>
-                  <img src={toOptimizedImage('/cloth.png')} alt={'sample1'} />
+                  <img src={toOptimizedImage('/cloth.png')} alt={'Producto destacado MOBADENT'} />
                 </div>
                 <div className={styles.imageContainer}>
-                  <img src={toOptimizedImage('/collections/collection1.png')} alt={'sample2'} />
+                  <img src={toOptimizedImage('/collections/collection1.png')} alt={'Colección de materiales dentales'} />
                 </div>
               </div>
               <div className={styles.content}>
-                <h2 className={styles.blogSubHeader}>2. Lorem ipsum</h2>
+                <h2 className={styles.blogSubHeader}>Cómo trabajamos</h2>
                 <p className={styles.blogParagraph}>
-                  Our Services, including but not limited to the registration of
-                  an account with us or placing of an order, is not intended to
-                  be used by children under the age of 13. When a visitor
-                  indicates an age under 13, the registration process for The
-                  Upside website cannot be completed, and no personally
-                  identifying information is collected in conjunction with that
-                  attempted submission except that we retain e-mail addresses of
-                  such persons (and record of access attempts) for purposes of
-                  denying registration. Otherwise, we do not knowingly collect
-                  personally identifiable information from visitors under the
-                  age of 13.
+                  Ofrecemos compras con pagos por abonos, sin necesidad de pagar
+                  al contado. Así puedes planificar mejor tu flujo de caja sin
+                  sacrificar la calidad de tus materiales.
                 </p>
                 <p className={styles.blogParagraph}>
-                  If you are under 18, any use of our Services must be with the
-                  involvement of a parent or guardian. By accessing or using our
-                  Website, you warrant and represent to us that you are over the
-                  age of 18 years and you have the right, authority and legal
-                  capacity to enter into a legally binding agreement and to
-                  abide by this Privacy Policy.
+                  Las entregas y cobros los realiza nuestro propio equipo
+                  (familia MOBADENT), lo que nos permite mantener cercanía,
+                  puntualidad y seguimiento postventa para asegurar que el
+                  producto cumpla lo prometido.
                 </p>
                 <p className={styles.blogParagraph}>
-                  The Upside collects, uses and discloses information regarding
-                  users aged 13-18 in the same manner as it does for adults.
+                  Si eres nuevo en MOBADENT, te acompañamos en la selección de
+                  productos según tus casos clínicos más frecuentes y armamos
+                  contigo un set inicial optimizado para tu consulta.
                 </p>
               </div>
             </Blog>

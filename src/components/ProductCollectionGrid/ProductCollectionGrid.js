@@ -7,27 +7,39 @@ const ProductCollectionGrid = (props) => {
   return (
     <div className={styles.root}>
       <ProductCollection
-        image={'/collections/collection1.png'}
-        title={'Men'}
-        text={'SHOP NOW'}
+        image={'/collections/collection.png'}
+        title={'Instrumental Dental'}
+        text={'Cotiza por WhatsApp'}
         link={'/shop'}
       />
       <ProductCollection
-        image={'/collections/collection2.png'}
-        title={'Women'}
-        text={'SHOP NOW'}
+        image={'/collections/collection.png'}
+        title={'Resinas y Adhesivos'}
+        text={'Cotiza por WhatsApp'}
         link={'/shop'}
       />
       <ProductCollection
-        image={'/collections/collection3.png'}
-        title={'Accessories'}
-        text={'SHOP NOW'}
+        image={'/collections/collection.png'}
+        title={'Ortodoncia'}
+        text={'Cotiza por WhatsApp'}
         link={'/shop'}
       />
       <ProductCollection
-        image={'/collections/collection4.png'}
-        title={'Simple Cotton'}
-        text={'SHOP NOW'}
+        image={'/collections/collection.png'}
+        title={'Endodoncia'}
+        text={'Cotiza por WhatsApp'}
+        link={'/shop'}
+      />
+      <ProductCollection
+        image={'/collections/collection.png'}
+        title={'Implantes'}
+        text={'Cotiza por WhatsApp'}
+        link={'/shop'}
+      />
+      <ProductCollection
+        image={'/collections/collection.png'}
+        title={'Equipos y Accesorios'}
+        text={'Cotiza por WhatsApp'}
         link={'/shop'}
       />
     </div>

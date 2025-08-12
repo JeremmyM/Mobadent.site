@@ -25,137 +25,108 @@ const HowToUsePage = (props) => {
       <div className={styles.root}>
         <div className={styles.navContainer}>
           <ThemeLink onClick={() => handleScroll(builtRef)} to={'#builtby'}>
-            Who built this theme
+            ¿Quiénes somos?
           </ThemeLink>
           <ThemeLink onClick={() => handleScroll(toolsRef)} to={'#tools'}>
-            Compatible technologies
+            Tecnologías compatibles
           </ThemeLink>
         </div>
         <Container size={'large'} spacing={'min'}>
           <div className={styles.content} style={{ paddingTop: '80px' }}>
-            <h3>Built By Matter.</h3>
+            <h3>MOBADENT</h3>
             <div id="#builtBy" ref={builtRef}>
               <p>
-                This theme is proudly brought to you by the team at{' '}
-                <Button target={true} href="https://matterdesign.com.au/">
-                  Matter Design & Digital
-                </Button>{' '}
-                (Matter.).
+                Somos una empresa familiar en Santo Domingo, Ecuador, dedicada a la
+                distribución de <strong>materiales dentales originales</strong> con respaldo
+                profesional. Tres de nuestros socios son odontólogos y todos
+                participamos activamente en la operación.
               </p>
               <p>
-                The Sydney theme is built for Netlify as an ecommerce theme
-                suitable for JAMStack archtitecture. This theme is free to use
-                through Netlify’s GitHub account, and can be used with any
-                ecommerce platform that support a headless architecture.
+                Nuestro enfoque es simple: <strong>calidad, honestidad y servicio</strong>.
+                Ofrecemos visitas presenciales, logística propia y opciones de pago por
+                abonos para facilitar las compras de nuestros clientes.
               </p>
               <p>
-                Matter. has pre-built connections to microservices available
-                through its JAMM.™ solution. JAMM.™ is a system built to run a
-                headless architecture. JAMM.™ can connect micro-services,
-                orchestrate data and publish websites to an edge network for
-                lighting fast performce. JAMM.™ creates a server-side rendered
-                website that is fast, stable and scalable for high traffic
-                events.
+                Actualmente estamos fortaleciendo nuestra presencia digital y
+                optimizando procesos internos para ofrecer una experiencia ágil a clínicas
+                y odontólogos de toda la ciudad.
               </p>
-              <Button target={true} href="https://jamm.matter.design/">
-                Read more about JAMM.™
+              <Button target={true} href="/contacto">
+                Escríbenos / Haz tu pedido
               </Button>
               <img
-                alt={'JAMM Detail'}
+                alt={'MOBADENT - logística y servicio'}
                 src={toOptimizedImage('/how-to-use/jamm-sydney-1upd@2x.png')}
                 style={{ display: 'block', height: 'auto' }}
               />
             </div>
-            <h3>Best of Breed Tools</h3>
+            <h3>Herramientas y arquitectura</h3>
             <div id={'#tools'} ref={toolsRef}>
               <p>
-                Headless architecture enables Composable Commerce. What this
-                means is that you can ‘compose’ a suite of best of breed tools
-                together to create an agile ecommerce system. This approach is
-                the opposite end of the spectrum from a traditional ‘Monolithic’
-                architecture where all the functionality and data comes from one
-                source.
+                Usamos una arquitectura ligera y componible para poder mejorar rápido sin
+                depender de sistemas monolíticos. Esto nos permite integrar lo mejor de
+                cada herramienta según crecemos.
               </p>
               <p>
-                Why go with Composable Commerce? History has shown, technology
-                innovation comes from new specialised solutions that find better
-                ways to do things. By creating an architecture that taps into
-                this innovation, you are getting a system that is innovating
-                faster than monolithic solutions giving you a competitive
-                advantage.
+                ¿Por qué este enfoque? Porque la innovación viene de soluciones
+                especializadas. Al integrar herramientas líderes, logramos una operación
+                más veloz, estable y escalable.
               </p>
               <p>
-                Matter. has been innovating since 2003, and we have aligned with
-                companies that do it best. The following technologies are either
-                currently available or are on our roadmap for JAMM.™.
+                A continuación, nuestro stack actual y de roadmap.
               </p>
 
-              <strong>Ecommerce:</strong>
+              <strong>Ventas y ERP ligero:</strong>
               <ul>
-                <li>BigCommerce</li>
-                <li>VTEX (roadmap)</li>
-                <li>Commercetools (roadmap)</li>
+                <li>Aronium (inventario y contabilidad)</li>
               </ul>
 
-              <strong>Content Management Systems (CMS):</strong>
+              <strong>Ecommerce / Web (headless):</strong>
               <ul>
-                <li>Contentful</li>
-                <li>WordPress</li>
-                <li>Sanity</li>
-                <li>Builder.io</li>
+                <li>Gatsby + Netlify</li>
+                <li>Integración con pagos locales (roadmap)</li>
               </ul>
 
-              <strong>Advanced Search:</strong>
+              <strong>CMS (gestión de contenido):</strong>
               <ul>
-                <li>Algolia</li>
-                <li>Searchspring (roadmap)</li>
-                <li>XO (roadmap)</li>
-                <li>Syte (roadmap)</li>
+                <li>Contentful / Sanity (roadmap)</li>
+                <li>WordPress (alternativa)</li>
               </ul>
 
-              <strong>Product Information Management (PIM):</strong>
+              <strong>Búsqueda avanzada (catálogo):</strong>
               <ul>
-                <li>Akeneo</li>
+                <li>Algolia (roadmap)</li>
               </ul>
 
-              <strong>Marketing Automation:</strong>
+              <strong>Automatización y marketing:</strong>
               <ul>
-                <li>Klaviyo</li>
-                <li>Ortto</li>
-                <li>Dot Digital</li>
-                <li>Omnisend</li>
+                <li>Klaviyo / Omnisend (roadmap)</li>
+                <li>WhatsApp Business + catálogos</li>
               </ul>
 
-              <strong>Customer Support:</strong>
+              <strong>Soporte al cliente:</strong>
               <ul>
-                <li>Gorgias</li>
-                <li>Zendesk</li>
+                <li>WhatsApp Business</li>
+                <li>Gorgias / Zendesk (roadmap)</li>
               </ul>
 
-              <strong>Reviews and User Generated Content:</strong>
+              <strong>Reseñas y confianza:</strong>
               <ul>
-                <li>Yotpo</li>
-                <li>Trustpilot</li>
-                <li>Reviews.io</li>
-              </ul>
-
-              <strong>Physical Locations:</strong>
-              <ul>
-                <li>Localisr.io</li>
+                <li>Google Reviews</li>
+                <li>Trustpilot (roadmap)</li>
               </ul>
 
               <p>
-                Our team are fanatical about site speed and the agility of a
-                composable commerce approach. If you need help to setup a
-                Headless architecture, we’d love to hear from you.
+                Si eres proveedor o clínica y deseas integrarte con nuestro flujo digital,
+                estaremos encantados de escucharte.
               </p>
 
               <p>
                 <Button
                   target={true}
-                  href="https://www.matterdesign.com.au/contact/"
+                  href="/contacto"
                 >
-                  Contact the team at Matter.
+                  Contactar a MOBADENT
                 </Button>
               </p>
             </div>
@@ -163,7 +134,7 @@ const HowToUsePage = (props) => {
         </Container>
         <div className={styles.imageContainer}>
           <img
-            alt={'Best of Breed tools'}
+            alt={'Tecnologías compatibles en MOBADENT'}
             src={toOptimizedImage('/how-to-use/logos@2x.png')}
           ></img>
         </div>

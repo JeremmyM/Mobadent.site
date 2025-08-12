@@ -41,24 +41,24 @@ const SignupPage = (props) => {
     const tempError = { ...errorState };
 
     if (isEmpty(signupForm.firstName) === true) {
-      tempError.firstName = 'Field required';
+      tempError.firstName = 'Campo obligatorio';
       validForm = false;
     }
 
     if (isEmpty(signupForm.lastName) === true) {
-      tempError.lastName = 'Field required';
+      tempError.lastName = 'Campo obligatorio';
       validForm = false;
     }
 
     if (validateEmail(signupForm.email) !== true) {
       tempError.email =
-        'Please use a valid email address, such as user@example.com.';
+        'Por favor, usa un correo válido, por ejemplo usuario@ejemplo.com.';
       validForm = false;
     }
 
     if (validateStrongPassword(signupForm.password) !== true) {
       tempError.password =
-        'Password must have at least 8 characters, 1 lowercase, 1 uppercase and 1 numeric character.';
+        'La contraseña debe tener al menos 8 caracteres, 1 minúscula, 1 mayúscula y 1 número.';
       validForm = false;
     }
 
@@ -76,9 +76,9 @@ const SignupPage = (props) => {
     <Layout disablePaddingBottom={true}>
       <div className={styles.root}>
         <div className={styles.signupFormContainer}>
-          <h1 className={styles.title}>Create Account</h1>
+          <h1 className={styles.title}>Crear cuenta</h1>
           <span className={styles.subtitle}>
-            Please enter your the information below:
+            Por favor, ingresa la información a continuación:
           </span>
           <form
             noValidate
@@ -90,7 +90,7 @@ const SignupPage = (props) => {
               value={signupForm.firstName}
               handleChange={(id, e) => handleChange(id, e)}
               type={'input'}
-              labelName={'First Name'}
+              labelName={'Nombre'}
               error={errorForm.firstName}
             />
 
@@ -99,7 +99,7 @@ const SignupPage = (props) => {
               value={signupForm.lastName}
               handleChange={(id, e) => handleChange(id, e)}
               type={'input'}
-              labelName={'Last Name'}
+              labelName={'Apellido'}
               error={errorForm.lastName}
             />
 
@@ -108,7 +108,7 @@ const SignupPage = (props) => {
               value={signupForm.email}
               handleChange={(id, e) => handleChange(id, e)}
               type={'email'}
-              labelName={'Email'}
+              labelName={'Correo electrónico'}
               error={errorForm.email}
             />
 
@@ -117,21 +117,21 @@ const SignupPage = (props) => {
               value={signupForm.password}
               handleChange={(id, e) => handleChange(id, e)}
               type={'password'}
-              labelName={'Password'}
+              labelName={'Contraseña'}
               error={errorForm.password}
             />
 
             <Button fullWidth type={'submit'} level={'primary'}>
-              create account
+              crear cuenta
             </Button>
-            <span className={styles.reminder}>Have an account?</span>
+            <span className={styles.reminder}>¿Ya tienes una cuenta?</span>
             <Button
               type={'button'}
               onClick={() => navigate('/login')}
               fullWidth
               level={'secondary'}
             >
-              log in
+              iniciar sesión
             </Button>
           </form>
         </div>

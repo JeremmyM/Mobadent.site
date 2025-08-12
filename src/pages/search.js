@@ -1,43 +1,78 @@
-import React from 'react';
-import { parse } from 'query-string';
-
-import Breadcrumbs from '../components/Breadcrumbs';
+import React, { useMemo } from 'react';
+import { Link } from 'gatsby';
+import products from '../data/products.json';
 import Layout from '../components/Layout/Layout';
-import Container from '../components/Container/Container';
+import Container from '../components/Container';
 import ProductCardGrid from '../components/ProductCardGrid';
 
-import { generateMockProductData } from '../helpers/mock';
-
-import * as styles from './search.module.css';
+// Quita tildes y normaliza para búsquedas robustas
+const normalize = (s) =>
+  (s || '')
+    .toString()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .trim();
 
 const SearchPage = (props) => {
-  const params = parse(props.location.search);
-  const searchQuery = params.q ? params.q : '';
+  const params = new URLSearchParams(props.location.search || '');
+  const q = params.get('q') || '';
 
-  const sampleData = generateMockProductData(3, 'woman');
+  const results = useMemo(() => {
+    if (!q) return [];
+    const nq = normalize(q);
+    return products.filter((p) => {
+      const haystack = [
+        p.name,
+        p.slug,
+        p.meta,
+        p.vendor,
+        p.description,
+        p.productCode,
+      ]
+        .map(normalize)
+        .join(' ');
+      return haystack.includes(nq);
+    });
+  }, [q]);
 
   return (
     <Layout>
-      <div className={styles.root}>
-        <Container size={'large'} spacing={'min'}>
-          <Breadcrumbs
-            crumbs={[
-              { link: '/', label: 'Home' },
-              { label: `Search results for '${searchQuery}'` },
-            ]}
-          />
-          <div className={styles.searchLabels}>
-            <h4>Search results for '{searchQuery}'</h4>
-            <span>3 results</span>
+      <Container size="large" spacing="min">
+        <h1 style={{ marginBottom: 8 }}>Resultados de búsqueda — MOBADENT</h1>
+        <p style={{ marginTop: 0 }}>
+          {q ? (
+            <>Buscaste: <strong>{q}</strong></>
+          ) : (
+            'Escribe algo en la lupa para buscar productos.'
+          )}
+        </p>
+
+        {q && results.length === 0 && (
+          <div style={{ padding: '16px 0' }}>
+            <p>No encontramos resultados para <strong>{q}</strong>.</p>
+            <p style={{ marginTop: 8 }}>
+              <Link to="/shop">Ver todos los productos →</Link>
+            </p>
           </div>
+        )}
+
+        {results.length > 0 && (
           <ProductCardGrid
-            showSlider={false}
-            height={580}
             columns={3}
-            data={sampleData}
+            spacing
+            showSlider={false}
+            height={400}
+            data={results.map((p) => ({
+              ...p,
+              // Asegura que la tarjeta tenga imagen y slug correctos
+              image: p.image || p.gallery?.[0] || '',
+              imageAlt: p.alt || p.name,
+              meta: p.vendor || p.meta || '',
+            }))}
           />
-        </Container>
-      </div>
+        )}
+      </Container>
     </Layout>
   );
 };

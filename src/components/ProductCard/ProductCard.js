@@ -19,8 +19,10 @@ const ProductCard = (props) => {
     height = 580,
   } = props;
 
+  const TEMP_HIDE_ACTIONS = true; // <<< CAMBIA a false cuando quieras volver a mostrar
+
   const handleRouteToProduct = () => {
-    navigate('/product/sample');
+    navigate(`/product/${props.slug}`);
   };
 
   const handleQuickView = (e) => {
@@ -38,30 +40,36 @@ const ProductCard = (props) => {
       <div
         className={styles.imageContainer}
         onClick={() => handleRouteToProduct()}
-        role={'presentation'}
+        role="presentation"
       >
-        <img style={{ height: `${height}px` }} src={toOptimizedImage(image)} alt={imageAlt}></img>
-        <div
-          className={styles.bagContainer}
-          role={'presentation'}
-          onClick={(e) => handleQuickView(e)}
-        >
-          <Icon symbol={'bagPlus'} />
-        </div>
-        <div
-          className={styles.heartContainer}
-          role={'presentation'}
-          onClick={(e) => handleFavorite(e)}
-        >
-          <Icon symbol={'heart'} />
+        <img style={{ height: `${height}px` }} src={toOptimizedImage(image)} alt={imageAlt} />
+
+        {!TEMP_HIDE_ACTIONS && (
           <div
-            className={`${styles.heartFillContainer} ${
-              isWishlist === true ? styles.show : styles.hide
-            }`}
+            className={styles.bagContainer}
+            role="presentation"
+            onClick={(e) => handleQuickView(e)}
           >
-            <Icon symbol={'heartFill'}></Icon>
+            <Icon symbol="bagPlus" />
           </div>
-        </div>
+        )}
+
+        {!TEMP_HIDE_ACTIONS && (
+          <div
+            className={styles.heartContainer}
+            role="presentation"
+            onClick={(e) => handleFavorite(e)}
+          >
+            <Icon symbol="heart" />
+            <div
+              className={`${styles.heartFillContainer} ${
+                isWishlist ? styles.show : styles.hide
+              }`}
+            >
+              <Icon symbol="heartFill" />
+            </div>
+          </div>
+        )}
       </div>
       <div className={styles.detailsContainer}>
         <span className={styles.productName}>{name}</span>
@@ -69,11 +77,11 @@ const ProductCard = (props) => {
           <span
             className={`${originalPrice !== undefined ? styles.salePrice : ''}`}
           >
-            <CurrencyFormatter amount={price}></CurrencyFormatter>
+            <CurrencyFormatter amount={price} />
           </span>
           {originalPrice && (
             <span className={styles.originalPrice}>
-              <CurrencyFormatter amount={originalPrice}></CurrencyFormatter>
+              <CurrencyFormatter amount={originalPrice} />
             </span>
           )}
         </div>
@@ -82,5 +90,6 @@ const ProductCard = (props) => {
     </div>
   );
 };
+
 
 export default ProductCard;

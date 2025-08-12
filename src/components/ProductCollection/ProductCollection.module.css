@@ -1,9 +1,11 @@
 .root {
-    width: 100%;
-    min-height: 630px;
+    width: 350px;
+    min-height: 150px;
 
     background-size: cover;
     background-repeat: no-repeat;
+
+    background-position: center;
 
     position: relative;
     cursor: pointer;
@@ -17,27 +19,39 @@
 
 .content {
     position: absolute;
-    bottom: 75px;
-    left: 55px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
     color: var(--standard-white);
-
     z-index: 10;
+
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease-in-out;
+}
+
+
+.root:hover .content {
+    opacity: 1;
+    visibility: visible;
 }
 
 .title {
-    font-size: 42px;
-    line-height: 50px;
+    display: block;          /* Asegura que esté en su propia línea */
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 8px;       /* Espacio entre título y texto */
     font-family: var(--standard-header);
-    margin-bottom: 24px;
-    padding-right: 16px;
-    display: block;
 }
 
 .text {
-    font-weight: 500;
+    display: block;           /* Forzamos a que baje a otra línea */
+    font-weight: 400;
     font-size: 14px;
-    line-height: 17px;
+    line-height: 18px;
     border-bottom: 1px solid var(--standard-white);
+    padding-bottom: 2px;
 }
 
 .content a:hover {
@@ -46,7 +60,7 @@
 
 .overlay {
     width: 100%;
-    min-height: 630px;
+    min-height: 150px;
     position: absolute;
     top: 0px;
     left: 0px;

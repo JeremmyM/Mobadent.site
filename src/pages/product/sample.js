@@ -1,6 +1,9 @@
 import React, { useState, useContext } from 'react';
 import * as styles from './sample.module.css';
 
+import products from '../../data/products.json'; // ✅ Importa tus productos reales
+import { navigate } from 'gatsby';
+
 import Accordion from '../../components/Accordion';
 import AdjustItem from '../../components/AdjustItem';
 import Button from '../../components/Button';
@@ -12,25 +15,42 @@ import SizeList from '../../components/SizeList';
 import Split from '../../components/Split';
 import SwatchList from '../../components/SwatchList';
 import Layout from '../../components/Layout/Layout';
-
-import { generateMockProductData } from '../../helpers/mock';
 import Icon from '../../components/Icons/Icon';
 import ProductCardGrid from '../../components/ProductCardGrid';
-import { navigate } from 'gatsby';
+
+import { slugify } from '../../helpers/slugify';
+
 
 import AddItemNotificationContext from '../../context/AddItemNotificationProvider';
 
 const ProductPage = (props) => {
+  const { slug } = props.pageContext || {};
   const ctxAddItemNotification = useContext(AddItemNotificationContext);
   const showNotification = ctxAddItemNotification.showNotification;
-  const sampleProduct = generateMockProductData(1, 'sample')[0];
+
+  const product = products.find((p) => p.slug === slug); // ✅ Buscar producto por slug
+
+  // 🔧 Hooks deben estar antes del return condicional
   const [qty, setQty] = useState(0);
   const [isWishlist, setIsWishlist] = useState(false);
   const [activeSwatch, setActiveSwatch] = useState(
-    sampleProduct.colorOptions[0]
+    product?.colorOptions?.[0] || null
   );
-  const [activeSize, setActiveSize] = useState(sampleProduct.sizeOptions[0]);
-  const suggestions = generateMockProductData(4, 'woman');
+  const [activeSize, setActiveSize] = useState(
+    product?.sizeOptions?.[0] || null
+  );
+
+  if (!product) {
+    return (
+      <Layout>
+        <Container>
+          <h1>Producto no encontrado en MOBADENT</h1>
+        </Container>
+      </Layout>
+    );
+  }
+
+  const suggestions = products.filter((p) => p.slug !== slug).slice(0, 4);
 
   return (
     <Layout>
@@ -38,42 +58,74 @@ const ProductPage = (props) => {
         <Container size={'large'} spacing={'min'}>
           <Breadcrumbs
             crumbs={[
-              { link: '/', label: 'Home' },
-              { label: 'Men', link: '/shop' },
-              { label: 'Sweater', link: '/shop' },
-              { label: `${sampleProduct.name}` },
+              { link: '/', label: 'Inicio' },
+              { label: 'Catálogo MOBADENT', link: '/shop' },
+              { label: product.name },
             ]}
           />
           <div className={styles.content}>
-            <div className={styles.gallery}>
-              <Gallery images={sampleProduct.gallery} />
+            <div className={styles.gallery}>         
+              {(() => {
+                // Toma 'gallery' si existe; si no, cae a [image]
+                const raw = Array.isArray(product.gallery)
+                  ? product.gallery
+                  : (product.image ? [product.image] : []);
+
+                // Normaliza a objeto con ambas claves (image y src)
+                const items = raw.map((it) => {
+                  if (typeof it === 'string') {
+                    return { image: it, src: it, alt: product.alt || product.name };
+                  }
+                  const url = it.image || it.src || it.url || it.path || '';
+                  return { image: url, src: url, alt: it.alt || product.alt || product.name };
+                }).filter(x => x.image || x.src);
+
+                // Si no hay nada, no renderizamos
+                if (!items.length) return null;
+
+                // Intenta con objetos (lo más común)
+                try {
+                  return <Gallery images={items} />;
+                } catch (e) {
+                  // Si fallara porque espera strings, renderiza directo la primera imagen
+                  return (
+                    <img
+                      src={items[0].src || items[0].image}
+                      alt={items[0].alt || product.name}
+                      style={{ width: '100%', height: 'auto', display: 'block' }}
+                    />
+                  );
+                }
+              })()}              
             </div>
             <div className={styles.details}>
-              <h1>{sampleProduct.name}</h1>
-              <span className={styles.vendor}> by {sampleProduct.vendor}</span>
+              <h1>{product.name}</h1>
+              <span className={styles.vendor}> Marca: {product.vendor}</span>
 
               <div className={styles.priceContainer}>
-                <CurrencyFormatter appendZero amount={sampleProduct.price} />
+                <CurrencyFormatter appendZero amount={product.price} />
               </div>
 
-              <div>
+              {product.colorOptions && (
                 <SwatchList
-                  swatchList={sampleProduct.colorOptions}
+                  swatchList={product.colorOptions}
                   activeSwatch={activeSwatch}
                   setActiveSwatch={setActiveSwatch}
                 />
-              </div>
+              )}
 
-              <div className={styles.sizeContainer}>
-                <SizeList
-                  sizeList={sampleProduct.sizeOptions}
-                  activeSize={activeSize}
-                  setActiveSize={setActiveSize}
-                />
-              </div>
+              {product.sizeOptions && (
+                <div className={styles.sizeContainer}>
+                  <SizeList
+                    sizeList={product.sizeOptions}
+                    activeSize={activeSize}
+                    setActiveSize={setActiveSize}
+                  />
+                </div>
+              )}
 
               <div className={styles.quantityContainer}>
-                <span>Quantity</span>
+                <span>Cantidad</span>
                 <AdjustItem qty={qty} setQty={setQty} />
               </div>
 
@@ -84,59 +136,58 @@ const ProductPage = (props) => {
                     fullWidth
                     level={'primary'}
                   >
-                    Add to Bag
+                    Añadir al carrito
                   </Button>
                 </div>
                 <div
                   className={styles.wishlistActionContainer}
-                  role={'presentation'}
+                  role="presentation"
                   onClick={() => setIsWishlist(!isWishlist)}
                 >
-                  <Icon symbol={'heart'}></Icon>
+                  <Icon symbol="heart" />
                   <div
                     className={`${styles.heartFillContainer} ${
-                      isWishlist === true ? styles.show : styles.hide
+                      isWishlist ? styles.show : styles.hide
                     }`}
                   >
-                    <Icon symbol={'heartFill'}></Icon>
+                    <Icon symbol="heartFill" />
                   </div>
                 </div>
               </div>
 
               <div className={styles.description}>
-                <p>{sampleProduct.description}</p>
-                <span>Product code: {sampleProduct.productCode}</span>
+                <p>{product.description}</p>
+                <span>Código: {product.productCode}</span>
               </div>
 
               <div className={styles.informationContainer}>
                 <Accordion
-                  type={'plus'}
+                  type="plus"
                   customStyle={styles}
-                  title={'composition & care'}
+                  title="Especificaciones y cuidado"
                 >
-                  <p className={styles.information}>
-                    {sampleProduct.description}
-                  </p>
+                  <p className={styles.information}>{product.specs}</p>
                 </Accordion>
                 <Accordion
-                  type={'plus'}
+                  type="plus"
                   customStyle={styles}
-                  title={'delivery & returns'}
+                  title="Envíos, cambios y garantías"
                 >
-                  <p className={styles.information}>
-                    {sampleProduct.description}
-                  </p>
+                  <p className={styles.information}>{product.shipping}</p>
                 </Accordion>
-                <Accordion type={'plus'} customStyle={styles} title={'help'}>
-                  <p className={styles.information}>
-                    {sampleProduct.description}
-                  </p>
+                <Accordion
+                  type="plus"
+                  customStyle={styles}
+                  title="Soporte MOBADENT"
+                >
+                  <p className={styles.information}>{product.support}</p>
                 </Accordion>
               </div>
             </div>
           </div>
+
           <div className={styles.suggestionContainer}>
-            <h2>You may also like</h2>
+            <h2>Productos relacionados</h2>
             <ProductCardGrid
               spacing
               showSlider
@@ -149,15 +200,13 @@ const ProductPage = (props) => {
 
         <div className={styles.attributeContainer}>
           <Split
-            image={'/cloth.png'}
-            alt={'attribute description'}
-            title={'Sustainability'}
-            description={
-              'We design our products to look good and to be used on a daily basis. And our aim is to inspire people to live with few timeless objects made to last. This is why quality over quantity is a cornerstone of our ethos and we have no interest in trends or seasonal collections.'
-            }
-            ctaText={'learn more'}
+            image="/cloth.png"
+            alt="Calidad y respaldo"
+            title="Calidad y respaldo"
+            description="Distribuimos materiales odontológicos originales, con garantía y soporte profesional. Priorizamos desempeño clínico y duración."
+            ctaText="Ir al blog"
             cta={() => navigate('/blog')}
-            bgColor={'var(--standard-light-grey)'}
+            bgColor="var(--standard-light-grey)"
           />
         </div>
       </div>
