@@ -3,45 +3,29 @@ import * as styles from './ProductCollectionGrid.module.css';
 
 import ProductCollection from '../ProductCollection';
 
+// Se crea un array con la información de las categorías.
+const collections = [
+  // Asegúrate de que los valores de 'categorySlug' coincidan exactamente con los de tu JSON.
+  { image: '/collections/collection.png', title: 'Blanqueamientos', categorySlug: 'Blanqueamientos' },
+  { image: '/collections/collection2.png', title: 'Cementos', categorySlug: 'Cementos' },
+  { image: '/collections/collection3.png', title: 'Grabado y adhesion', categorySlug: 'Grabado y adhesion' },
+  { image: '/collections/collection4.png', title: 'Endodoncia', categorySlug: 'Endodoncia' },
+  { image: '/collections/collection5.png', title: 'Manejo de Tejidos', categorySlug: 'Manejo de Tejidos' },
+  { image: '/collections/collection6.png', title: 'Composites', categorySlug: 'Composites' },
+];
+
 const ProductCollectionGrid = (props) => {
   return (
     <div className={styles.root}>
-      <ProductCollection
-        image={'/collections/collection.png'}
-        title={'Blanqueamientos'}
-        text={'Cotiza por WhatsApp'}
-        link={'/shop'}
-      />
-      <ProductCollection
-        image={'/collections/collection2.png'}
-        title={'Cementos'}
-        text={'Cotiza por WhatsApp'}
-        link={'/shop'}
-      />
-      <ProductCollection
-        image={'/collections/collection3.png'}
-        title={'Grabado y adhesion'}
-        text={'Cotiza por WhatsApp'}
-        link={'/shop'}
-      />
-      <ProductCollection
-        image={'/collections/collection4.png'}
-        title={'Endodoncia'}
-        text={'Cotiza por WhatsApp'}
-        link={'/shop'}
-      />
-      <ProductCollection
-        image={'/collections/collection5.png'}
-        title={'Manejo de Tejidos'}
-        text={'Cotiza por WhatsApp'}
-        link={'/shop'}
-      />
-      <ProductCollection
-        image={'/collections/collection6.png'}
-        title={'Composites'}
-        text={'Cotiza por WhatsApp'}
-        link={'/shop'}
-      />
+      {collections.map((collection, index) => (
+        <ProductCollection
+          key={index}
+          image={collection.image}
+          title={collection.title}
+          text={'Cotiza por WhatsApp'}
+          categorySlug={collection.categorySlug}
+        />
+      ))}
     </div>
   );
 };

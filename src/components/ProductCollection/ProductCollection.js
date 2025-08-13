@@ -4,12 +4,18 @@ import * as styles from './ProductCollection.module.css';
 import { toOptimizedImage } from '../../helpers/general';
 
 const ProductCollection = (props) => {
-  const { image, title, text, link } = props;
+  const { image, title, text, categorySlug } = props;
+
+  const handleNavigation = () => {
+    // Usamos 'navigate' para ir a la página de la tienda y pasamos el slug de la categoría
+    // en el 'state' de la navegación. Esto es lo que permite que el filtro funcione.
+    navigate('/shop', { state: { category: categorySlug } });
+  };
 
   return (
     <div
       role={'presentation'}
-      onClick={() => navigate(link)}
+      onClick={handleNavigation}
       className={styles.root}
       style={{ backgroundImage: `url(${toOptimizedImage(image)})` }}
     >

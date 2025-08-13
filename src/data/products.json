@@ -1,4 +1,3 @@
-
 [
   {
     "id": "CEPI002",
@@ -15,7 +14,7 @@
     "support": "",
     "alt": "CEPILLO JIFFY DIAMANTADO EN PELO DE CABRA x unidad",
     "meta": "CEPILLO JIFFY DIAMANTADO EN PELO DE CABRA x unidad",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "CEPI003",
@@ -32,7 +31,7 @@
     "support": "",
     "alt": "CEPILLO JIFFY DIAMANTADO EN PUNTA x unidad",
     "meta": "CEPILLO JIFFY DIAMANTADO EN PUNTA x unidad",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "PIED004",
@@ -49,7 +48,7 @@
     "support": "",
     "alt": "PIEDRA ARKANSA FG BLANCA TOBOOM CONICA",
     "meta": "PIEDRA ARKANSA FG BLANCA TOBOOM CONICA",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "PIED005",
@@ -66,7 +65,7 @@
     "support": "",
     "alt": "PIEDRA ARKANSA FG BLANCA TOBOOM REDONDA",
     "meta": "PIEDRA ARKANSA FG BLANCA TOBOOM REDONDA",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "PIED006",
@@ -83,7 +82,7 @@
     "support": "",
     "alt": "PIEDRA ARKANSA FG BLANCA TOBOOM CILINDRICA",
     "meta": "PIEDRA ARKANSA FG BLANCA TOBOOM CILINDRICA",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "PIED007",
@@ -100,7 +99,7 @@
     "support": "",
     "alt": "PIEDRA ARKANSA FG BLANCA TOBOOM FLAMA",
     "meta": "PIEDRA ARKANSA FG BLANCA TOBOOM FLAMA",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "PUNT008",
@@ -117,7 +116,7 @@
     "support": "",
     "alt": "PUNTAS DE PULIDO JIFFY x unidad (copa blanca) ",
     "meta": "PUNTAS DE PULIDO JIFFY x unidad (copa blanca) ",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "PUNT009",
@@ -134,7 +133,7 @@
     "support": "",
     "alt": "PUNTAS DE PULIDO JIFFY (copa amarilla)",
     "meta": "PUNTAS DE PULIDO JIFFY (copa amarilla)",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "PUNT010",
@@ -151,7 +150,7 @@
     "support": "",
     "alt": "PUNTAS DE PULIDO JIFFY (copa verde)",
     "meta": "PUNTAS DE PULIDO JIFFY (copa verde)",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "PUNT011",
@@ -168,7 +167,7 @@
     "support": "",
     "alt": "PUNTAS DE PULIDO JIFFY (disco blanco)",
     "meta": "PUNTAS DE PULIDO JIFFY (disco blanco)",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "PUNT012",
@@ -185,7 +184,7 @@
     "support": "",
     "alt": "PUNTAS DE PULIDO JIFFY x unidad ( disco verde) ",
     "meta": "PUNTAS DE PULIDO JIFFY x unidad ( disco verde) ",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "PUNT013",
@@ -202,7 +201,7 @@
     "support": "",
     "alt": "PUNTAS DE PULIDO JIFFY (disco amarillo)",
     "meta": "PUNTAS DE PULIDO JIFFY (disco amarillo)",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "PUNT014",
@@ -219,7 +218,7 @@
     "support": "",
     "alt": "PUNTAS DE PULIDO JIFFY (punta amarilla)",
     "meta": "PUNTAS DE PULIDO JIFFY (punta amarilla)",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "PUNT015",
@@ -236,7 +235,7 @@
     "support": "",
     "alt": "PUNTAS DE PULIDO JIFFY (punta verde)",
     "meta": "PUNTAS DE PULIDO JIFFY (punta verde)",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "PULI016",
@@ -253,7 +252,7 @@
     "support": "",
     "alt": "pulidores Diatech Coltene x CAJA",
     "meta": "pulidores Diatech Coltene x CAJA",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "FRES017",
@@ -270,7 +269,7 @@
     "support": "",
     "alt": "FRESAS para pulir forma balon ORTHOTECHNOLOGY X UNIDAD",
     "meta": "FRESAS para pulir forma balon ORTHOTECHNOLOGY X UNIDAD",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "KIT 018",
@@ -287,7 +286,7 @@
     "support": "",
     "alt": "kit fresa pulir resina doradas FAVA x kit",
     "meta": "kit fresa pulir resina doradas FAVA x kit",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "DIAM019",
@@ -304,7 +303,7 @@
     "support": "",
     "alt": "DIAMOND POLISH MINT 0.5 PULIMENTO RESINA ",
     "meta": "DIAMOND POLISH MINT 0.5 PULIMENTO RESINA ",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "DIAM020",
@@ -372,7 +371,7 @@
     "support": "",
     "alt": "ACIDO FGM CONDAC 37% (PACK X 3 JERINGAS)",
     "meta": "ACIDO FGM CONDAC 37% (PACK X 3 JERINGAS)",
-    "category": "grabado y adhesion "
+    "category": "Grabado y adhesion"
   },
   {
     "id": "ACID024",
@@ -389,7 +388,7 @@
     "support": "",
     "alt": "ACIDO ULTRAETCH 30ML",
     "meta": "ACIDO ULTRAETCH 30ML",
-    "category": "grabado y adhesion "
+    "category": "Grabado y adhesion"
   },
   {
     "id": "ACID025",
@@ -406,7 +405,7 @@
     "support": "",
     "alt": "ACIDO GEL ALPHA-ETCH 37% 4GR",
     "meta": "ACIDO GEL ALPHA-ETCH 37% 4GR",
-    "category": "grabado y adhesion "
+    "category": "Grabado y adhesion"
   },
   {
     "id": "SILA026",
@@ -440,7 +439,7 @@
     "support": "",
     "alt": "SCOTCHBOND 3M ETCHANT",
     "meta": "SCOTCHBOND 3M ETCHANT",
-    "category": "grabado y adhesion "
+    "category": "Grabado y adhesion"
   },
   {
     "id": "PORC028",
@@ -457,7 +456,7 @@
     "support": "",
     "alt": "PORCELAIN ETCH SINGLE ACIDO FLUORHIDRICO",
     "meta": "PORCELAIN ETCH SINGLE ACIDO FLUORHIDRICO",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "SEPT029",
@@ -474,7 +473,7 @@
     "support": "",
     "alt": "SEPTOJECT XL CORTAS",
     "meta": "SEPTOJECT XL CORTAS",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "SMI 030",
@@ -491,7 +490,7 @@
     "support": "",
     "alt": "SMI SILK BLACK 3/0 AGUJA 3/8 REV CORTANTE 19MM",
     "meta": "SMI SILK BLACK 3/0 AGUJA 3/8 REV CORTANTE 19MM",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "AGUJ031",
@@ -508,7 +507,7 @@
     "support": "",
     "alt": "AGUJAS PEDIATRICAS 30G MISAWA",
     "meta": "AGUJAS PEDIATRICAS 30G MISAWA",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "AGUJ032",
@@ -525,7 +524,7 @@
     "support": "",
     "alt": "AGUJAS LARGAS 27G NOP 0.4X30MMX100",
     "meta": "AGUJAS LARGAS 27G NOP 0.4X30MMX100",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "ABRE033",
@@ -542,7 +541,7 @@
     "support": "",
     "alt": "ABRE-BOCA MAQUIRA ADULTO DOBLE",
     "meta": "ABRE-BOCA MAQUIRA ADULTO DOBLE",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "GASA034",
@@ -559,7 +558,7 @@
     "support": "",
     "alt": "GASA MAGIC-DENT ",
     "meta": "GASA MAGIC-DENT ",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "ABRE035",
@@ -576,7 +575,7 @@
     "support": "",
     "alt": "abre boca Kleerview Adult size",
     "meta": "abre boca Kleerview Adult size",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "ABRE036",
@@ -593,7 +592,7 @@
     "support": "",
     "alt": "Abre boca kleerview child size",
     "meta": "Abre boca kleerview child size",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "ABRE037",
@@ -610,7 +609,7 @@
     "support": "",
     "alt": "abre boca y retractor de lengua Umbrella Ultradent",
     "meta": "abre boca y retractor de lengua Umbrella Ultradent",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "ANES038",
@@ -627,7 +626,7 @@
     "support": "",
     "alt": "ANESTESICO LIDOCAINA VIDRIO X CAJA",
     "meta": "ANESTESICO LIDOCAINA VIDRIO X CAJA",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "SCAN039",
@@ -644,7 +643,7 @@
     "support": "",
     "alt": "SCANDONEST 3% (por unidad) ",
     "meta": "SCANDONEST 3% (por unidad) ",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "SCAN040",
@@ -661,7 +660,7 @@
     "support": "",
     "alt": "SCANDONEST 3% (por caja)",
     "meta": "SCANDONEST 3% (por caja)",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "PAPE041",
@@ -678,7 +677,7 @@
     "support": "",
     "alt": "PAPEL DE ARTICULAR BETCH RECTC x caja x 12 Unidades",
     "meta": "PAPEL DE ARTICULAR BETCH RECTC x caja x 12 Unidades",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "PAPE042",
@@ -695,7 +694,7 @@
     "support": "",
     "alt": "papel articular ACCUFILM",
     "meta": "papel articular ACCUFILM",
-    "category": "blanqueamiento "
+    "category": "Blanqueamiento"
   },
   {
     "id": "DESE043",
@@ -712,7 +711,7 @@
     "support": "",
     "alt": "DESENSIBILIZANTE FGM KT 2%",
     "meta": "DESENSIBILIZANTE FGM KT 2%",
-    "category": "blanqueamiento "
+    "category": "Blanqueamiento"
   },
   {
     "id": "ULTR044",
@@ -729,7 +728,7 @@
     "support": "",
     "alt": "ULTRAEZ GEL DESENSIBILIZANTE",
     "meta": "ULTRAEZ GEL DESENSIBILIZANTE",
-    "category": "blanqueamiento "
+    "category": "Blanqueamiento"
   },
   {
     "id": "OPAL045",
@@ -746,7 +745,7 @@
     "support": "",
     "alt": "OPALECENSE ENDO ",
     "meta": "OPALECENSE ENDO ",
-    "category": "blanqueamiento "
+    "category": "Blanqueamiento"
   },
   {
     "id": "OPAL046",
@@ -763,7 +762,7 @@
     "support": "",
     "alt": "OPALECENSE BOOST",
     "meta": "OPALECENSE BOOST",
-    "category": "blanqueamiento "
+    "category": "Blanqueamiento"
   },
   {
     "id": "OPAL047",
@@ -780,7 +779,7 @@
     "support": "",
     "alt": "OPALUSTRE SINGLE",
     "meta": "OPALUSTRE SINGLE",
-    "category": "blanqueamiento "
+    "category": "Blanqueamiento"
   },
   {
     "id": "WHIT048",
@@ -797,7 +796,7 @@
     "support": "",
     "alt": "WHITENESS HP 35% + TOPDAM",
     "meta": "WHITENESS HP 35% + TOPDAM",
-    "category": "blanqueamiento "
+    "category": "Blanqueamiento"
   },
   {
     "id": "OPAL049",
@@ -814,7 +813,7 @@
     "support": "",
     "alt": "OPALECENSE 20% PF MENTA REFILL KIT X 2 ",
     "meta": "OPALECENSE 20% PF MENTA REFILL KIT X 2 ",
-    "category": "blanqueamiento "
+    "category": "Blanqueamiento"
   },
   {
     "id": "OPAL050",
@@ -831,7 +830,7 @@
     "support": "",
     "alt": "OPALECENSE GO 10%",
     "meta": "OPALECENSE GO 10%",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "OXID051",
@@ -848,7 +847,7 @@
     "support": "",
     "alt": "OXIDO DE ZINC EUFAR ",
     "meta": "OXIDO DE ZINC EUFAR ",
-    "category": "manejo de tejidos"
+    "category": "Manejo de tejidos"
   },
   {
     "id": "HOJA052",
@@ -865,7 +864,7 @@
     "support": "",
     "alt": "HOJA DE BISTURI SMI #11 X CAJA",
     "meta": "HOJA DE BISTURI SMI #11 X CAJA",
-    "category": "manejo de tejidos"
+    "category": "Manejo de tejidos"
   },
   {
     "id": "HOJA053",
@@ -882,7 +881,7 @@
     "support": "",
     "alt": "HOJA DE BISTURI SMI #12 X CAJA",
     "meta": "HOJA DE BISTURI SMI #12 X CAJA",
-    "category": "manejo de tejidos"
+    "category": "Manejo de tejidos"
   },
   {
     "id": "HOJA054",
@@ -899,7 +898,7 @@
     "support": "",
     "alt": "HOJAS DE BISTURI X UNIDAD (15)",
     "meta": "HOJAS DE BISTURI X UNIDAD (15)",
-    "category": "manejo de tejidos"
+    "category": "Manejo de tejidos"
   },
   {
     "id": "VISC055",
@@ -916,7 +915,7 @@
     "support": "",
     "alt": "VISCOSTAR CLEAR JERINGA HEMOSTATICO ",
     "meta": "VISCOSTAR CLEAR JERINGA HEMOSTATICO ",
-    "category": "manejo de tejidos"
+    "category": "Manejo de tejidos"
   },
   {
     "id": "VISC056",
@@ -933,7 +932,7 @@
     "support": "",
     "alt": "VISCOSTAR HEMOSTATICO SINGLE",
     "meta": "VISCOSTAR HEMOSTATICO SINGLE",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "SEDA057",
@@ -950,7 +949,7 @@
     "support": "",
     "alt": "SEDA 3/0 SMI X unidad",
     "meta": "SEDA 3/0 SMI X unidad",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "TIRA058",
@@ -967,7 +966,7 @@
     "support": "",
     "alt": "TIRAS DE LIJA PROFIDENT 4mm",
     "meta": "TIRAS DE LIJA PROFIDENT 4mm",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "TIRA059",
@@ -984,7 +983,7 @@
     "support": "",
     "alt": "TIRAS DE LIJA DE POLIESTER AIRON x paquete",
     "meta": "TIRAS DE LIJA DE POLIESTER AIRON x paquete",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "TIRA060",
@@ -1001,7 +1000,7 @@
     "support": "",
     "alt": "TIRAS DE LIJA COLTENE 4MM x paquete",
     "meta": "TIRAS DE LIJA COLTENE 4MM x paquete",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "TIRA061",
@@ -1018,7 +1017,7 @@
     "support": "",
     "alt": "TIRA AVRASIVA AIRON 125 mm x 4.0",
     "meta": "TIRA AVRASIVA AIRON 125 mm x 4.0",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "TIRA062",
@@ -1035,7 +1034,7 @@
     "support": "",
     "alt": "TIRAS DE LIJA COLTENE 6MM x paquete",
     "meta": "TIRAS DE LIJA COLTENE 6MM x paquete",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "DISC063",
@@ -1052,7 +1051,7 @@
     "support": "",
     "alt": "DISCOS SOFLEX (3m) X20",
     "meta": "DISCOS SOFLEX (3m) X20",
-    "category": "cementacion"
+    "category": "Cementacion"
   },
   {
     "id": "CAVE064",
@@ -1069,7 +1068,7 @@
     "support": "",
     "alt": "CAVEX CEMENTO TEMPORAL ",
     "meta": "CAVEX CEMENTO TEMPORAL ",
-    "category": "cementacion"
+    "category": "Cementacion"
   },
   {
     "id": "CEME065",
@@ -1086,7 +1085,7 @@
     "support": "",
     "alt": "CEMENTO DUAL ALLCEM A2 C/ PTAS",
     "meta": "CEMENTO DUAL ALLCEM A2 C/ PTAS",
-    "category": "cementacion"
+    "category": "Cementacion"
   },
   {
     "id": "FUJI066",
@@ -1103,7 +1102,7 @@
     "support": "",
     "alt": "FUJI GOLD LABEL 1 MINI KIT 15G+10G",
     "meta": "FUJI GOLD LABEL 1 MINI KIT 15G+10G",
-    "category": "composite "
+    "category": "Composite"
   },
   {
     "id": "CEME067",
@@ -1120,7 +1119,7 @@
     "support": "",
     "alt": "CEMENTO  ALLCEM CORE A1",
     "meta": "CEMENTO  ALLCEM CORE A1",
-    "category": "composite "
+    "category": "Composite"
   },
   {
     "id": "GC S068",
@@ -1137,7 +1136,7 @@
     "support": "",
     "alt": "GC SOLARE DIRECT P-A2 4.7GR (2.7ML)",
     "meta": "GC SOLARE DIRECT P-A2 4.7GR (2.7ML)",
-    "category": "composite "
+    "category": "Composite"
   },
   {
     "id": "GC S069",
@@ -1154,7 +1153,7 @@
     "support": "",
     "alt": "GC SOLARE DIRECT A2 4.7GR (2.7ML)",
     "meta": "GC SOLARE DIRECT A2 4.7GR (2.7ML)",
-    "category": "composite "
+    "category": "Composite"
   },
   {
     "id": "RESI070",
@@ -1171,7 +1170,7 @@
     "support": "",
     "alt": "RESINA GRANDIO 4G A2",
     "meta": "RESINA GRANDIO 4G A2",
-    "category": "composite "
+    "category": "Composite"
   },
   {
     "id": "RESI071",
@@ -1188,7 +1187,7 @@
     "support": "",
     "alt": "RESINA GRANDIO 4G A3",
     "meta": "RESINA GRANDIO 4G A3",
-    "category": "composite "
+    "category": "Composite"
   },
   {
     "id": "TETR072",
@@ -1205,7 +1204,7 @@
     "support": "",
     "alt": "TETRIC-N-CERAMIC 2 JERINGAS A1",
     "meta": "TETRIC-N-CERAMIC 2 JERINGAS A1",
-    "category": "composite "
+    "category": "Composite"
   },
   {
     "id": "TETR073",
@@ -1222,7 +1221,7 @@
     "support": "",
     "alt": "TETRIC-N-CERAMIC 2 JERINGAS A2",
     "meta": "TETRIC-N-CERAMIC 2 JERINGAS A2",
-    "category": "composite "
+    "category": "Composite"
   },
   {
     "id": "RESI074",
@@ -1239,7 +1238,7 @@
     "support": "",
     "alt": "RESINA FILTEK P60 B2",
     "meta": "RESINA FILTEK P60 B2",
-    "category": "composite "
+    "category": "Composite"
   },
   {
     "id": "RESI075",
@@ -1256,7 +1255,7 @@
     "support": "",
     "alt": "RESINA FILTEK P60 A3",
     "meta": "RESINA FILTEK P60 A3",
-    "category": "composite "
+    "category": "Composite"
   },
   {
     "id": "VIT-076",
@@ -1273,7 +1272,7 @@
     "support": "",
     "alt": "VIT-L-ESCENCE A2",
     "meta": "VIT-L-ESCENCE A2",
-    "category": "composite "
+    "category": "Composite"
   },
   {
     "id": "VIT-077",
@@ -1290,7 +1289,7 @@
     "support": "",
     "alt": "VIT-L-ESCENCE A3",
     "meta": "VIT-L-ESCENCE A3",
-    "category": "composite "
+    "category": "Composite"
   },
   {
     "id": "VIT-078",
@@ -1307,7 +1306,7 @@
     "support": "",
     "alt": "VIT-L-ESCENCE PEARL FROST ",
     "meta": "VIT-L-ESCENCE PEARL FROST ",
-    "category": "composite "
+    "category": "Composite"
   },
   {
     "id": "VIT-079",
@@ -1324,7 +1323,7 @@
     "support": "",
     "alt": "VIT-L-ESCENCE A5 PEARL NEUTRAL",
     "meta": "VIT-L-ESCENCE A5 PEARL NEUTRAL",
-    "category": "composite "
+    "category": "Composite"
   },
   {
     "id": "FILT080",
@@ -1375,7 +1374,7 @@
     "support": "",
     "alt": "WETTING RESIN SINGLE HUMECTANTE ",
     "meta": "WETTING RESIN SINGLE HUMECTANTE ",
-    "category": "composite "
+    "category": "Composite"
   },
   {
     "id": "ADHE083",
@@ -1392,7 +1391,7 @@
     "support": "",
     "alt": "ADHESIVO SINGLE BOND 2 - 6 gr ",
     "meta": "ADHESIVO SINGLE BOND 2 - 6 gr ",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "NAVI084",
@@ -1409,7 +1408,7 @@
     "support": "",
     "alt": "NAVITIP CELESTES X UNIDAD",
     "meta": "NAVITIP CELESTES X UNIDAD",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "NAVI085",
@@ -1426,7 +1425,7 @@
     "support": "",
     "alt": "NAVITIP AZULES X UNIDAD",
     "meta": "NAVITIP AZULES X UNIDAD",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "NAVI086",
@@ -1443,7 +1442,7 @@
     "support": "",
     "alt": "NAVITIP YELLOW X UNIDAD",
     "meta": "NAVITIP YELLOW X UNIDAD",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "LIMA087",
@@ -1460,7 +1459,7 @@
     "support": "",
     "alt": "LIMAS NITIFLEX 15-40 25MM",
     "meta": "LIMAS NITIFLEX 15-40 25MM",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "LIMA088",
@@ -1477,7 +1476,7 @@
     "support": "",
     "alt": "LIMAS TDK FILLES 008 X 25 MM X CAJA",
     "meta": "LIMAS TDK FILLES 008 X 25 MM X CAJA",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "LIMA089",
@@ -1511,7 +1510,7 @@
     "support": "",
     "alt": "LIMAS K FLEXOFILE ACCES 15 -25mm X CAJA",
     "meta": "LIMAS K FLEXOFILE ACCES 15 -25mm X CAJA",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "LIMA091",
@@ -1545,7 +1544,7 @@
     "support": "",
     "alt": "CAPILLARY TIPS X UNIDAD VERDE 0.19 0.48mm",
     "meta": "CAPILLARY TIPS X UNIDAD VERDE 0.19 0.48mm",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "CAPI093",
@@ -1562,7 +1561,7 @@
     "support": "",
     "alt": "CAPILLARY TIPS X UNIDAD MORADA ",
     "meta": "CAPILLARY TIPS X UNIDAD MORADA ",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "LIMA094",
@@ -1579,7 +1578,7 @@
     "support": "",
     "alt": "LIMAS K-FILE ACCES 10 X 25 mm x caja",
     "meta": "LIMAS K-FILE ACCES 10 X 25 mm x caja",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "LIMA095",
@@ -1596,7 +1595,7 @@
     "support": "",
     "alt": "LIMAS K-FILE ACCES 10 X 31 mm x caja",
     "meta": "LIMAS K-FILE ACCES 10 X 31 mm x caja",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "LIMA096",
@@ -1647,7 +1646,7 @@
     "support": "",
     "alt": "LIMAS K-FILE ACCES 006 X 25 mm x caja",
     "meta": "LIMAS K-FILE ACCES 006 X 25 mm x caja",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "LIMA099",
@@ -1664,7 +1663,7 @@
     "support": "",
     "alt": "LIMAS K-FILE ACCES 006 x 31 mm x caja",
     "meta": "LIMAS K-FILE ACCES 006 x 31 mm x caja",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "LIMA100",
@@ -1681,7 +1680,7 @@
     "support": "",
     "alt": "LIMAS KENDO TIPO 15 - 40 X 31 mm",
     "meta": "LIMAS KENDO TIPO 15 - 40 X 31 mm",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "FRES101",
@@ -1698,7 +1697,7 @@
     "support": "",
     "alt": "FRESAS ENDO Z",
     "meta": "FRESAS ENDO Z",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "ENDO102",
@@ -1749,7 +1748,7 @@
     "support": "",
     "alt": "CONOS DE GUTAPERCHA ISO 15-40  x caja X 120",
     "meta": "CONOS DE GUTAPERCHA ISO 15-40  x caja X 120",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "CONO105",
@@ -1766,7 +1765,7 @@
     "support": "",
     "alt": "CONOS DE GUTAPERCHA 45-80  x caja X 20",
     "meta": "CONOS DE GUTAPERCHA 45-80  x caja X 20",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "BLIS106",
@@ -1783,7 +1782,7 @@
     "support": "",
     "alt": "BLISTER ENDODONCIA TIRA NERVIOS 0-6 21mmX BLISTER",
     "meta": "BLISTER ENDODONCIA TIRA NERVIOS 0-6 21mmX BLISTER",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "LIMA107",
@@ -1800,7 +1799,7 @@
     "support": "",
     "alt": "LIMAS K FILE A012 0.25X21mm x caja",
     "meta": "LIMAS K FILE A012 0.25X21mm x caja",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "EUGE108",
@@ -1817,7 +1816,7 @@
     "support": "",
     "alt": "Eugenol Maquira restaurador ",
     "meta": "Eugenol Maquira restaurador ",
-    "category": "equipamiento "
+    "category": "Equipamiento"
   },
   {
     "id": "ULTR109",
@@ -1834,7 +1833,7 @@
     "support": "",
     "alt": "ULTRATEC GAFAS PROTECTORAS LUZ ALOGENA ",
     "meta": "ULTRATEC GAFAS PROTECTORAS LUZ ALOGENA ",
-    "category": "equipamiento "
+    "category": "Equipamiento"
   },
   {
     "id": "ULTR110",
@@ -1851,7 +1850,7 @@
     "support": "",
     "alt": "ULTRATEC GAFAS PROTECTORAS",
     "meta": "ULTRATEC GAFAS PROTECTORAS",
-    "category": "equipamiento "
+    "category": "Equipamiento"
   },
   {
     "id": "MICR111",
@@ -1868,7 +1867,7 @@
     "support": "",
     "alt": "MICROMOTOR NSK EX-203C SET",
     "meta": "MICROMOTOR NSK EX-203C SET",
-    "category": "manejo de tejidos"
+    "category": "Manejo de tejidos"
   },
   {
     "id": "PRIM112",
@@ -1885,7 +1884,7 @@
     "support": "",
     "alt": "PRIMA DENTAL - FRESA ZEKRYA 151 23MM / ZEK151",
     "meta": "PRIMA DENTAL - FRESA ZEKRYA 151 23MM / ZEK151",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "FRES113",
@@ -1936,7 +1935,7 @@
     "support": "",
     "alt": "FRESAS PEESO No 2 X CAJA ",
     "meta": "FRESAS PEESO No 2 X CAJA ",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "FRES116",
@@ -1970,7 +1969,7 @@
     "support": "",
     "alt": "FRESAS GATES No2 X CAJA",
     "meta": "FRESAS GATES No2 X CAJA",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "FRES118",
@@ -1987,7 +1986,7 @@
     "support": "",
     "alt": "FRESAS GATES CORTAS No 3 X 32 mm",
     "meta": "FRESAS GATES CORTAS No 3 X 32 mm",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "FRES119",
@@ -2004,7 +2003,7 @@
     "support": "",
     "alt": "FRESAS GATES LARGO No 1-6 X 32 mm",
     "meta": "FRESAS GATES LARGO No 1-6 X 32 mm",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "ULTR120",
@@ -2021,7 +2020,7 @@
     "support": "",
     "alt": "ULTRA CAL XS SINGLE KIT HIDROXIDO DE CALCIO",
     "meta": "ULTRA CAL XS SINGLE KIT HIDROXIDO DE CALCIO",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "FRES121",
@@ -2038,7 +2037,7 @@
     "support": "",
     "alt": "FRESA DTE redonda 1012 FAVA X unidad",
     "meta": "FRESA DTE redonda 1012 FAVA X unidad",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "FRES122",
@@ -2055,7 +2054,7 @@
     "support": "",
     "alt": "FRESA DTE REDONDA GRANDE 1014 FAVA x unidad",
     "meta": "FRESA DTE REDONDA GRANDE 1014 FAVA x unidad",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "FRES123",
@@ -2072,7 +2071,7 @@
     "support": "",
     "alt": "FRESA DTE REDONDA 3071 X unidad",
     "meta": "FRESA DTE REDONDA 3071 X unidad",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "FRES124",
@@ -2089,7 +2088,7 @@
     "support": "",
     "alt": "FRESAS ULTRADENT X UNIDAD",
     "meta": "FRESAS ULTRADENT X UNIDAD",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "KIT 125",
@@ -2106,7 +2105,7 @@
     "support": "",
     "alt": "Kit kendo fresas tallado anterior x kit",
     "meta": "Kit kendo fresas tallado anterior x kit",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "FRES126",
@@ -2123,7 +2122,7 @@
     "support": "",
     "alt": "Fresas multilaminadas SSWHITE GW-2",
     "meta": "Fresas multilaminadas SSWHITE GW-2",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "FRES127",
@@ -2140,7 +2139,7 @@
     "support": "",
     "alt": "FRESAS DIAMANTE FISURA X UNIDAD",
     "meta": "FRESAS DIAMANTE FISURA X UNIDAD",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "FRES128",
@@ -2157,7 +2156,7 @@
     "support": "",
     "alt": "FRESAS DIAMANTE CONO INVERTIDO GRANDE X UNIDAD",
     "meta": "FRESAS DIAMANTE CONO INVERTIDO GRANDE X UNIDAD",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "FRES129",
@@ -2174,7 +2173,7 @@
     "support": "",
     "alt": "FRESAS DIAMANTE CONO INVERTIDO PEQUEÑO X UNIDAD",
     "meta": "FRESAS DIAMANTE CONO INVERTIDO PEQUEÑO X UNIDAD",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "FRES130",
@@ -2191,7 +2190,7 @@
     "support": "",
     "alt": "FRESAS DIAMANTE REDONDA 0.16",
     "meta": "FRESAS DIAMANTE REDONDA 0.16",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "FRES131",
@@ -2208,7 +2207,7 @@
     "support": "",
     "alt": "FRESA CARBURO No 2 REDONDAS X UNIDAD",
     "meta": "FRESA CARBURO No 2 REDONDAS X UNIDAD",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "FRES132",
@@ -2225,7 +2224,7 @@
     "support": "",
     "alt": "FRESA CARBURO No 6 REDONDAS X UNIDAD",
     "meta": "FRESA CARBURO No 6 REDONDAS X UNIDAD",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "FRES133",
@@ -2242,7 +2241,7 @@
     "support": "",
     "alt": "FRESA CARBURO No 4 REDONDAS X UNIDAD",
     "meta": "FRESA CARBURO No 4 REDONDAS X UNIDAD",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "FRES134",
@@ -2259,7 +2258,7 @@
     "support": "",
     "alt": "FRESAS JOTA CARBURO FG-023 X UNIDAD",
     "meta": "FRESAS JOTA CARBURO FG-023 X UNIDAD",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "FRES135",
@@ -2276,7 +2275,7 @@
     "support": "",
     "alt": "FRESA CARBURO FG-4 X UNIDAD",
     "meta": "FRESA CARBURO FG-4 X UNIDAD",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "FRES136",
@@ -2293,7 +2292,7 @@
     "support": "",
     "alt": "FRESA CARBURO FG-36 X UNIDAD",
     "meta": "FRESA CARBURO FG-36 X UNIDAD",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "FRES137",
@@ -2310,7 +2309,7 @@
     "support": "",
     "alt": "FRESA CARBURO HP-701 FISURA X UNIDAD",
     "meta": "FRESA CARBURO HP-701 FISURA X UNIDAD",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "FRES138",
@@ -2327,7 +2326,7 @@
     "support": "",
     "alt": "FRESA CARBURO HP-8 X UNIDAD",
     "meta": "FRESA CARBURO HP-8 X UNIDAD",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "FRES139",
@@ -2344,7 +2343,7 @@
     "support": "",
     "alt": "FRESA CARBURO HP--10 REDONDA blister x 8",
     "meta": "FRESA CARBURO HP--10 REDONDA blister x 8",
-    "category": "grabado y adhesion "
+    "category": "Grabado y adhesion"
   },
   {
     "id": "ULTR140",
@@ -2361,7 +2360,7 @@
     "support": "",
     "alt": "ULTRA BLEND PLUS DENTIN HIDROXIDO DE CALCIO ",
     "meta": "ULTRA BLEND PLUS DENTIN HIDROXIDO DE CALCIO ",
-    "category": "instrumental "
+    "category": "Instrumental"
   },
   {
     "id": "ESPE141",
@@ -2378,7 +2377,7 @@
     "support": "",
     "alt": "ESPEJO ECONOMICO HAHNENKRAFT/PLANO x CAJA",
     "meta": "ESPEJO ECONOMICO HAHNENKRAFT/PLANO x CAJA",
-    "category": "instrumental "
+    "category": "Instrumental"
   },
   {
     "id": "SACA142",
@@ -2395,7 +2394,7 @@
     "support": "",
     "alt": "Saca fresas MAAWA",
     "meta": "Saca fresas MAAWA",
-    "category": "instrumental "
+    "category": "Instrumental"
   },
   {
     "id": "FORC143",
@@ -2412,7 +2411,7 @@
     "support": "",
     "alt": "FORCEP PICO DE LORO FINO (ADULTO)",
     "meta": "FORCEP PICO DE LORO FINO (ADULTO)",
-    "category": "instrumental "
+    "category": "Instrumental"
   },
   {
     "id": "ESPE144",
@@ -2429,7 +2428,7 @@
     "support": "",
     "alt": "ESPEJO BUCAL MANGO HANKEKRAT",
     "meta": "ESPEJO BUCAL MANGO HANKEKRAT",
-    "category": "instrumental "
+    "category": "Instrumental"
   },
   {
     "id": "CALI145",
@@ -2446,7 +2445,7 @@
     "support": "",
     "alt": "calibrador dental 10 cm DIAMOND",
     "meta": "calibrador dental 10 cm DIAMOND",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "BLOQ146",
@@ -2463,7 +2462,7 @@
     "support": "",
     "alt": "bloque cera amarilla TOPWAX x unidad",
     "meta": "bloque cera amarilla TOPWAX x unidad",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "META147",
@@ -2480,7 +2479,7 @@
     "support": "",
     "alt": "METAL VERA PDN CROMO X 200GR",
     "meta": "METAL VERA PDN CROMO X 200GR",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE148",
@@ -2497,7 +2496,7 @@
     "support": "",
     "alt": "T-REAL DIENTE A24 LO 62",
     "meta": "T-REAL DIENTE A24 LO 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE149",
@@ -2514,7 +2513,7 @@
     "support": "",
     "alt": "T-REAL DIENTE A24 LO 66",
     "meta": "T-REAL DIENTE A24 LO 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE150",
@@ -2531,7 +2530,7 @@
     "support": "",
     "alt": "T-REAL DIENTE A24 UP 62",
     "meta": "T-REAL DIENTE A24 UP 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE151",
@@ -2548,7 +2547,7 @@
     "support": "",
     "alt": "T-REAL DIENTE A24 UP 66",
     "meta": "T-REAL DIENTE A24 UP 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE152",
@@ -2565,7 +2564,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 2D LO 62",
     "meta": "T-REAL DIENTE 2D LO 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE153",
@@ -2582,7 +2581,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 2D LO 66",
     "meta": "T-REAL DIENTE 2D LO 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE154",
@@ -2599,7 +2598,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 2D UP 62",
     "meta": "T-REAL DIENTE 2D UP 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE155",
@@ -2616,7 +2615,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 3D LO 62",
     "meta": "T-REAL DIENTE 3D LO 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE156",
@@ -2633,7 +2632,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 3D UP 62",
     "meta": "T-REAL DIENTE 3D UP 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE157",
@@ -2650,7 +2649,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 2N LO 62",
     "meta": "T-REAL DIENTE 2N LO 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE158",
@@ -2667,7 +2666,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 2N LO 66",
     "meta": "T-REAL DIENTE 2N LO 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE159",
@@ -2684,7 +2683,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 267 LO 66",
     "meta": "T-REAL DIENTE 267 LO 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE160",
@@ -2701,7 +2700,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 267 LO 62",
     "meta": "T-REAL DIENTE 267 LO 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE161",
@@ -2718,7 +2717,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 4H LO 66",
     "meta": "T-REAL DIENTE 4H LO 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE162",
@@ -2735,7 +2734,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 4H UP 62",
     "meta": "T-REAL DIENTE 4H UP 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE163",
@@ -2752,7 +2751,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 4H UP 66",
     "meta": "T-REAL DIENTE 4H UP 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE164",
@@ -2769,7 +2768,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 136 LO 62",
     "meta": "T-REAL DIENTE 136 LO 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE165",
@@ -2786,7 +2785,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 136 LO 66",
     "meta": "T-REAL DIENTE 136 LO 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE166",
@@ -2803,7 +2802,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 3N LO 62",
     "meta": "T-REAL DIENTE 3N LO 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE167",
@@ -2820,7 +2819,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 3N LO 66",
     "meta": "T-REAL DIENTE 3N LO 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE168",
@@ -2837,7 +2836,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 2P LO 66",
     "meta": "T-REAL DIENTE 2P LO 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE169",
@@ -2854,7 +2853,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 2P LO 62",
     "meta": "T-REAL DIENTE 2P LO 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE170",
@@ -2871,7 +2870,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 2P UP 62",
     "meta": "T-REAL DIENTE 2P UP 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE171",
@@ -2888,7 +2887,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 2P UP 66",
     "meta": "T-REAL DIENTE 2P UP 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE172",
@@ -2905,7 +2904,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 3M LO 62",
     "meta": "T-REAL DIENTE 3M LO 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE173",
@@ -2922,7 +2921,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 3M LO 66",
     "meta": "T-REAL DIENTE 3M LO 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE174",
@@ -2939,7 +2938,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 3M UP 62",
     "meta": "T-REAL DIENTE 3M UP 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE175",
@@ -2956,7 +2955,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 3M UP 66",
     "meta": "T-REAL DIENTE 3M UP 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE176",
@@ -2973,7 +2972,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 3P LO 62",
     "meta": "T-REAL DIENTE 3P LO 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE177",
@@ -2990,7 +2989,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 3P LO 66",
     "meta": "T-REAL DIENTE 3P LO 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE178",
@@ -3007,7 +3006,7 @@
     "support": "",
     "alt": "T-REAL DIENTE 3P UP 62",
     "meta": "T-REAL DIENTE 3P UP 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE179",
@@ -3024,7 +3023,7 @@
     "support": "",
     "alt": "T-REAL MUELA 34L LO 62",
     "meta": "T-REAL MUELA 34L LO 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE180",
@@ -3041,7 +3040,7 @@
     "support": "",
     "alt": "T-REAL MUELA 34L LO 66",
     "meta": "T-REAL MUELA 34L LO 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE181",
@@ -3058,7 +3057,7 @@
     "support": "",
     "alt": "T-REAL MUELA 34L UP 66",
     "meta": "T-REAL MUELA 34L UP 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE182",
@@ -3075,7 +3074,7 @@
     "support": "",
     "alt": "T-REAL MUELA 34L UP 62",
     "meta": "T-REAL MUELA 34L UP 62",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE183",
@@ -3092,7 +3091,7 @@
     "support": "",
     "alt": "T-REAL MUELA 32L UP 66",
     "meta": "T-REAL MUELA 32L UP 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "T-RE184",
@@ -3109,7 +3108,7 @@
     "support": "",
     "alt": "T-REAL MUELA 30L UP 66",
     "meta": "T-REAL MUELA 30L UP 66",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "VASO185",
@@ -3126,7 +3125,7 @@
     "support": "",
     "alt": "VASO DAPPEN",
     "meta": "VASO DAPPEN",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "CUCH186",
@@ -3143,7 +3142,7 @@
     "support": "",
     "alt": "Cuchillo para cera FAHENSTOCK 13 cm DIAMOND",
     "meta": "Cuchillo para cera FAHENSTOCK 13 cm DIAMOND",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "PAST187",
@@ -3160,7 +3159,7 @@
     "support": "",
     "alt": "PASTA P/PULIR ALTO BRILLO TIGER",
     "meta": "PASTA P/PULIR ALTO BRILLO TIGER",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "LÁMI188",
@@ -3177,7 +3176,7 @@
     "support": "",
     "alt": "Lámina cera rosada x unidad",
     "meta": "Lámina cera rosada x unidad",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "CERA189",
@@ -3194,7 +3193,7 @@
     "support": "",
     "alt": "cera malla de contención x unidad",
     "meta": "cera malla de contención x unidad",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "MODE190",
@@ -3211,7 +3210,7 @@
     "support": "",
     "alt": "Modelo Dental OM 869",
     "meta": "Modelo Dental OM 869",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "PIED191",
@@ -3228,7 +3227,7 @@
     "support": "",
     "alt": "piedra azul cilindricas para metal o acrilico",
     "meta": "piedra azul cilindricas para metal o acrilico",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "PIED192",
@@ -3245,7 +3244,7 @@
     "support": "",
     "alt": "piedra rosadas cilindricas para pulir acrilico",
     "meta": "piedra rosadas cilindricas para pulir acrilico",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "PIED193",
@@ -3262,7 +3261,7 @@
     "support": "",
     "alt": "piedras blancas montadas para pulir ceramica",
     "meta": "piedras blancas montadas para pulir ceramica",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "PIED194",
@@ -3279,7 +3278,7 @@
     "support": "",
     "alt": "piedra verde para pulir metales disco pequeño",
     "meta": "piedra verde para pulir metales disco pequeño",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "PIED195",
@@ -3296,7 +3295,7 @@
     "support": "",
     "alt": "piedra verde para pulir metales disco x unidad",
     "meta": "piedra verde para pulir metales disco x unidad",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "PIED196",
@@ -3313,7 +3312,7 @@
     "support": "",
     "alt": "piedra montada verde conica",
     "meta": "piedra montada verde conica",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "KIT 197",
@@ -3330,7 +3329,7 @@
     "support": "",
     "alt": "kit para pulir acrilico",
     "meta": "kit para pulir acrilico",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "CERA198",
@@ -3347,7 +3346,7 @@
     "support": "",
     "alt": "Cera Azul x Barra",
     "meta": "Cera Azul x Barra",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "DISC199",
@@ -3364,7 +3363,7 @@
     "support": "",
     "alt": "Disco de pulido de diamante verde NTI",
     "meta": "Disco de pulido de diamante verde NTI",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "DISC200",
@@ -3381,7 +3380,7 @@
     "support": "",
     "alt": "disco de fieltro para pulido (blanco) Keystone",
     "meta": "disco de fieltro para pulido (blanco) Keystone",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "MALL201",
@@ -3398,7 +3397,7 @@
     "support": "",
     "alt": "Malla metálica x unidad ",
     "meta": "Malla metálica x unidad ",
-    "category": "manejo de tejidos"
+    "category": "Manejo de tejidos"
   },
   {
     "id": "HILO202",
@@ -3415,7 +3414,7 @@
     "support": "",
     "alt": "HILO RETRACTOR ULTRAPACK No 1",
     "meta": "HILO RETRACTOR ULTRAPACK No 1",
-    "category": "manejo de tejidos"
+    "category": "Manejo de tejidos"
   },
   {
     "id": "HILO203",
@@ -3432,7 +3431,7 @@
     "support": "",
     "alt": "HILO RETRACTOR ULTRAPACK No 000",
     "meta": "HILO RETRACTOR ULTRAPACK No 000",
-    "category": "manejo de tejidos"
+    "category": "Manejo de tejidos"
   },
   {
     "id": "HILO204",
@@ -3449,7 +3448,7 @@
     "support": "",
     "alt": "HILO RETRACTOR ULTRAPACK No 00",
     "meta": "HILO RETRACTOR ULTRAPACK No 00",
-    "category": "manejo de tejidos"
+    "category": "Manejo de tejidos"
   },
   {
     "id": "HILO205",
@@ -3466,7 +3465,7 @@
     "support": "",
     "alt": "HILO RETRACTOR ULTRAPACK No 0",
     "meta": "HILO RETRACTOR ULTRAPACK No 0",
-    "category": "impresion "
+    "category": "Impresion"
   },
   {
     "id": "CA 3206",
@@ -3483,7 +3482,7 @@
     "support": "",
     "alt": "CA 37 Normal ALGINATO CaVEX",
     "meta": "CA 37 Normal ALGINATO CaVEX",
-    "category": "impresion "
+    "category": "Impresion"
   },
   {
     "id": "CUBE207",
@@ -3500,7 +3499,7 @@
     "support": "",
     "alt": "CUBETAS X 6 SIN PERFORAR S S MEDIDENT",
     "meta": "CUBETAS X 6 SIN PERFORAR S S MEDIDENT",
-    "category": "impresion "
+    "category": "Impresion"
   },
   {
     "id": "CUBE208",
@@ -3517,7 +3516,7 @@
     "support": "",
     "alt": "cubetas plásticas",
     "meta": "cubetas plásticas",
-    "category": "impresion "
+    "category": "Impresion"
   },
   {
     "id": "CUBE209",
@@ -3534,7 +3533,7 @@
     "support": "",
     "alt": "cubetas de impresión (5 piezas)",
     "meta": "cubetas de impresión (5 piezas)",
-    "category": "impresion "
+    "category": "Impresion"
   },
   {
     "id": "JUEG210",
@@ -3551,7 +3550,7 @@
     "support": "",
     "alt": "JUEGO CUBETAS PERF ADULTOS 6 PIEZAS",
     "meta": "JUEGO CUBETAS PERF ADULTOS 6 PIEZAS",
-    "category": "impresion "
+    "category": "Impresion"
   },
   {
     "id": "ZHER211",
@@ -3585,7 +3584,7 @@
     "support": "",
     "alt": "ZHERMACK ALGINATO ORTHOPRINT 1 PAQ X 453GR",
     "meta": "ZHERMACK ALGINATO ORTHOPRINT 1 PAQ X 453GR",
-    "category": "impresion "
+    "category": "Impresion"
   },
   {
     "id": "ZHER213",
@@ -3602,7 +3601,7 @@
     "support": "",
     "alt": "ZHERMACK PASTA PESADA ELITE HD+ PUTTY",
     "meta": "ZHERMACK PASTA PESADA ELITE HD+ PUTTY",
-    "category": "impresion "
+    "category": "Impresion"
   },
   {
     "id": "ZHER214",
@@ -3636,7 +3635,7 @@
     "support": "",
     "alt": "ZHERMACK PASTA LIVIANA ELITE HD+ HT/BODY/NORMAL ",
     "meta": "ZHERMACK PASTA LIVIANA ELITE HD+ HT/BODY/NORMAL ",
-    "category": "impresion "
+    "category": "Impresion"
   },
   {
     "id": "ZHEM216",
@@ -3687,7 +3686,7 @@
     "support": "",
     "alt": "ZHEMARC ZETAPLUS NORMAL SET 1 TUB 900ML",
     "meta": "ZHEMARC ZETAPLUS NORMAL SET 1 TUB 900ML",
-    "category": "impresion "
+    "category": "Impresion"
   },
   {
     "id": "EXPR219",
@@ -3704,7 +3703,7 @@
     "support": "",
     "alt": "EXPRESS PUTTY STD (ROJO)",
     "meta": "EXPRESS PUTTY STD (ROJO)",
-    "category": "impresion "
+    "category": "Impresion"
   },
   {
     "id": "EXPR220",
@@ -3721,7 +3720,7 @@
     "support": "",
     "alt": "EXPRESS LIVIANO VERDE REG LIGHT BODY ",
     "meta": "EXPRESS LIVIANO VERDE REG LIGHT BODY ",
-    "category": "impresion "
+    "category": "Impresion"
   },
   {
     "id": "PUNT221",
@@ -3738,7 +3737,7 @@
     "support": "",
     "alt": "puntas mezcladoras cafes Magic dent ",
     "meta": "puntas mezcladoras cafes Magic dent ",
-    "category": "impresion "
+    "category": "Impresion"
   },
   {
     "id": "ZHER222",
@@ -3772,7 +3771,7 @@
     "support": "",
     "alt": "ALGODON TRENZADO MAGIC DENT X 1000 UNIDADES",
     "meta": "ALGODON TRENZADO MAGIC DENT X 1000 UNIDADES",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "ALGO224",
@@ -3789,7 +3788,7 @@
     "support": "",
     "alt": "ALGODON TRENZADO KOMPITOS X 1000 UNIDADES",
     "meta": "ALGODON TRENZADO KOMPITOS X 1000 UNIDADES",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "ZAPA225",
@@ -3806,7 +3805,7 @@
     "support": "",
     "alt": "ZAPATONES ANTIDESLIZANTE x unidad",
     "meta": "ZAPATONES ANTIDESLIZANTE x unidad",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "BATA226",
@@ -3823,7 +3822,7 @@
     "support": "",
     "alt": "Bata desechable manga larga x unidad",
     "meta": "Bata desechable manga larga x unidad",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "GORR227",
@@ -3840,7 +3839,7 @@
     "support": "",
     "alt": "GORRO PAQUETE X unidad",
     "meta": "GORRO PAQUETE X unidad",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "GORR228",
@@ -3857,7 +3856,7 @@
     "support": "",
     "alt": "Gorro individual X UNIDAD",
     "meta": "Gorro individual X UNIDAD",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "MASC229",
@@ -3874,7 +3873,7 @@
     "support": "",
     "alt": "Mascarilla ZOGEAR (Rosa) X 50",
     "meta": "Mascarilla ZOGEAR (Rosa) X 50",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "GUAN230",
@@ -3891,7 +3890,7 @@
     "support": "",
     "alt": "GUANTES LATEX NEGROS SRITRANG M",
     "meta": "GUANTES LATEX NEGROS SRITRANG M",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "GUAN231",
@@ -3908,7 +3907,7 @@
     "support": "",
     "alt": "GUANTES NITRILO NEGROS SRITRANG S",
     "meta": "GUANTES NITRILO NEGROS SRITRANG S",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "GUAN232",
@@ -3925,7 +3924,7 @@
     "support": "",
     "alt": "GUANTES NITRILO NEGROS SRITRANG M",
     "meta": "GUANTES NITRILO NEGROS SRITRANG M",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "GUAN233",
@@ -3942,7 +3941,7 @@
     "support": "",
     "alt": "GUANTES NITRILO NEGROS SRITRANG XS",
     "meta": "GUANTES NITRILO NEGROS SRITRANG XS",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "SUEL234",
@@ -3959,7 +3958,7 @@
     "support": "",
     "alt": "SUELDA UNIVERSAL",
     "meta": "SUELDA UNIVERSAL",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "CRIM235",
@@ -3976,7 +3975,7 @@
     "support": "",
     "alt": "CRIMPABLE",
     "meta": "CRIMPABLE",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "HELI236",
@@ -3993,7 +3992,7 @@
     "support": "",
     "alt": "HELIOSIT ORTHODONTIC JERINGA 2,5 G",
     "meta": "HELIOSIT ORTHODONTIC JERINGA 2,5 G",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "OXID237",
@@ -4010,7 +4009,7 @@
     "support": "",
     "alt": "OXIDO DE ALUMINIO DENTAURUM",
     "meta": "OXIDO DE ALUMINIO DENTAURUM",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC238",
@@ -4027,7 +4026,7 @@
     "support": "",
     "alt": "BRACKETS EURO",
     "meta": "BRACKETS EURO",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "PINZ239",
@@ -4044,7 +4043,7 @@
     "support": "",
     "alt": "Pinza para brackets DIAMOND",
     "meta": "Pinza para brackets DIAMOND",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BARR240",
@@ -4061,7 +4060,7 @@
     "support": "",
     "alt": "BARRA PALATINA",
     "meta": "BARRA PALATINA",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "CAJA241",
@@ -4078,7 +4077,7 @@
     "support": "",
     "alt": "CAJA LINGUAL",
     "meta": "CAJA LINGUAL",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "DOMA242",
@@ -4095,7 +4094,7 @@
     "support": "",
     "alt": "DOMADOR DE LENGUA",
     "meta": "DOMADOR DE LENGUA",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "MICR243",
@@ -4112,7 +4111,7 @@
     "support": "",
     "alt": "MICROIMPLANTES 2.5 X 1.6 X 6mm MOSSAS",
     "meta": "MICROIMPLANTES 2.5 X 1.6 X 6mm MOSSAS",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BOTO244",
@@ -4129,7 +4128,7 @@
     "support": "",
     "alt": "BOTONES",
     "meta": "BOTONES",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TOPE245",
@@ -4146,7 +4145,7 @@
     "support": "",
     "alt": "TOPES",
     "meta": "TOPES",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "CAJA246",
@@ -4163,7 +4162,7 @@
     "support": "",
     "alt": "CAJA LINGUAL",
     "meta": "CAJA LINGUAL",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO247",
@@ -4180,7 +4179,7 @@
     "support": "",
     "alt": "TUBO SIMPLE PARA SOLDAR LL6",
     "meta": "TUBO SIMPLE PARA SOLDAR LL6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO248",
@@ -4197,7 +4196,7 @@
     "support": "",
     "alt": "TUBO SIMPLE PARA SOLDAR UL6",
     "meta": "TUBO SIMPLE PARA SOLDAR UL6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO249",
@@ -4214,7 +4213,7 @@
     "support": "",
     "alt": "TUBO SIMPLE PARA SOLDAR UR6",
     "meta": "TUBO SIMPLE PARA SOLDAR UR6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO250",
@@ -4231,7 +4230,7 @@
     "support": "",
     "alt": "TUBO SIMPLE PARA SOLDAR LR6",
     "meta": "TUBO SIMPLE PARA SOLDAR LR6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO251",
@@ -4248,7 +4247,7 @@
     "support": "",
     "alt": "TUBO TRIPLE UR6",
     "meta": "TUBO TRIPLE UR6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO252",
@@ -4265,7 +4264,7 @@
     "support": "",
     "alt": "TUBO TRIPLE UL6",
     "meta": "TUBO TRIPLE UL6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO253",
@@ -4282,7 +4281,7 @@
     "support": "",
     "alt": "TUBO DOBLE UR6",
     "meta": "TUBO DOBLE UR6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO254",
@@ -4299,7 +4298,7 @@
     "support": "",
     "alt": "TUBO DOBLE LL6",
     "meta": "TUBO DOBLE LL6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO255",
@@ -4316,7 +4315,7 @@
     "support": "",
     "alt": "TUBO PARA ADHERIR UR6",
     "meta": "TUBO PARA ADHERIR UR6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO256",
@@ -4333,7 +4332,7 @@
     "support": "",
     "alt": "TUBO PARA ADHERIR UL6",
     "meta": "TUBO PARA ADHERIR UL6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO257",
@@ -4350,7 +4349,7 @@
     "support": "",
     "alt": "TUBO 47",
     "meta": "TUBO 47",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO258",
@@ -4367,7 +4366,7 @@
     "support": "",
     "alt": "TUBO 37",
     "meta": "TUBO 37",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO259",
@@ -4384,7 +4383,7 @@
     "support": "",
     "alt": "TUBO 27",
     "meta": "TUBO 27",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO260",
@@ -4401,7 +4400,7 @@
     "support": "",
     "alt": "TUBO 17",
     "meta": "TUBO 17",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO261",
@@ -4418,7 +4417,7 @@
     "support": "",
     "alt": "TUBO EURODONTO UL6",
     "meta": "TUBO EURODONTO UL6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO262",
@@ -4435,7 +4434,7 @@
     "support": "",
     "alt": "TUBO EURODONTO UR6",
     "meta": "TUBO EURODONTO UR6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO263",
@@ -4452,7 +4451,7 @@
     "support": "",
     "alt": "TUBO SIMPLE ORTHOTECHNOLOGY LL6",
     "meta": "TUBO SIMPLE ORTHOTECHNOLOGY LL6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO264",
@@ -4469,7 +4468,7 @@
     "support": "",
     "alt": "TUBO SIMPLE ORTHOTECHNOLOGY UL6",
     "meta": "TUBO SIMPLE ORTHOTECHNOLOGY UL6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO265",
@@ -4486,7 +4485,7 @@
     "support": "",
     "alt": "TUBO SIMPLE ORTHOTECHNOLOGY UR6",
     "meta": "TUBO SIMPLE ORTHOTECHNOLOGY UR6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO266",
@@ -4503,7 +4502,7 @@
     "support": "",
     "alt": "TUBO ORTHOTECHNOLOGY LL6",
     "meta": "TUBO ORTHOTECHNOLOGY LL6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO267",
@@ -4520,7 +4519,7 @@
     "support": "",
     "alt": "TUBO ORTHOTECHNOLOGY LR6",
     "meta": "TUBO ORTHOTECHNOLOGY LR6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO268",
@@ -4537,7 +4536,7 @@
     "support": "",
     "alt": "TUBO ORTHOTECHNOLOGY UL6",
     "meta": "TUBO ORTHOTECHNOLOGY UL6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO269",
@@ -4554,7 +4553,7 @@
     "support": "",
     "alt": "TUBO ORTHOTECHNOLOGY UR6",
     "meta": "TUBO ORTHOTECHNOLOGY UR6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO270",
@@ -4571,7 +4570,7 @@
     "support": "",
     "alt": "TUBO GAC LL6",
     "meta": "TUBO GAC LL6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO271",
@@ -4588,7 +4587,7 @@
     "support": "",
     "alt": "TUBO GAC UL6",
     "meta": "TUBO GAC UL6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO272",
@@ -4605,7 +4604,7 @@
     "support": "",
     "alt": "TUBO GAC UR6",
     "meta": "TUBO GAC UR6",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO273",
@@ -4622,7 +4621,7 @@
     "support": "",
     "alt": "TUBO GAC UL7",
     "meta": "TUBO GAC UL7",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO274",
@@ -4639,7 +4638,7 @@
     "support": "",
     "alt": "TUBO GAC UR7",
     "meta": "TUBO GAC UR7",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "TUBO275",
@@ -4656,7 +4655,7 @@
     "support": "",
     "alt": "TUBO #6 GAC",
     "meta": "TUBO #6 GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC276",
@@ -4673,7 +4672,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS UL5",
     "meta": "BRACKETS SUELTOS UL5",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC277",
@@ -4690,7 +4689,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS UL4",
     "meta": "BRACKETS SUELTOS UL4",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC278",
@@ -4707,7 +4706,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS UL3",
     "meta": "BRACKETS SUELTOS UL3",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC279",
@@ -4724,7 +4723,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS UL2",
     "meta": "BRACKETS SUELTOS UL2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC280",
@@ -4741,7 +4740,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS UL1",
     "meta": "BRACKETS SUELTOS UL1",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC281",
@@ -4758,7 +4757,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS UR1",
     "meta": "BRACKETS SUELTOS UR1",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC282",
@@ -4775,7 +4774,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS UR2",
     "meta": "BRACKETS SUELTOS UR2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC283",
@@ -4792,7 +4791,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS UR3",
     "meta": "BRACKETS SUELTOS UR3",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC284",
@@ -4809,7 +4808,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS UR4",
     "meta": "BRACKETS SUELTOS UR4",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC285",
@@ -4826,7 +4825,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS UR5",
     "meta": "BRACKETS SUELTOS UR5",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC286",
@@ -4843,7 +4842,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS LR5",
     "meta": "BRACKETS SUELTOS LR5",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC287",
@@ -4860,7 +4859,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS LR4",
     "meta": "BRACKETS SUELTOS LR4",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC288",
@@ -4877,7 +4876,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS LR3",
     "meta": "BRACKETS SUELTOS LR3",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC289",
@@ -4894,7 +4893,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS LL5",
     "meta": "BRACKETS SUELTOS LL5",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC290",
@@ -4911,7 +4910,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS LL4",
     "meta": "BRACKETS SUELTOS LL4",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC291",
@@ -4928,7 +4927,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS LL3",
     "meta": "BRACKETS SUELTOS LL3",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC292",
@@ -4945,7 +4944,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS LL2",
     "meta": "BRACKETS SUELTOS LL2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC293",
@@ -4962,7 +4961,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS LL1",
     "meta": "BRACKETS SUELTOS LL1",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC294",
@@ -4979,7 +4978,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS LR1",
     "meta": "BRACKETS SUELTOS LR1",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC295",
@@ -4996,7 +4995,7 @@
     "support": "",
     "alt": "BRACKETS SUELTOS LR2",
     "meta": "BRACKETS SUELTOS LR2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC296",
@@ -5013,7 +5012,7 @@
     "support": "",
     "alt": "BRACKET CERAMICO LL1 Y LL2 No 31 No 32",
     "meta": "BRACKET CERAMICO LL1 Y LL2 No 31 No 32",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BRAC297",
@@ -5030,7 +5029,7 @@
     "support": "",
     "alt": "BRACKET CERAMICO LR1 y LR2 No 41 No 42",
     "meta": "BRACKET CERAMICO LR1 y LR2 No 41 No 42",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO298",
@@ -5047,7 +5046,7 @@
     "support": "",
     "alt": "ARCO BETA III TITANIUM 19X25 SUPERIOR",
     "meta": "ARCO BETA III TITANIUM 19X25 SUPERIOR",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO299",
@@ -5064,7 +5063,7 @@
     "support": "",
     "alt": "ARCO BETA III TITANIUM 19X25 INFERIOR",
     "meta": "ARCO BETA III TITANIUM 19X25 INFERIOR",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO300",
@@ -5081,7 +5080,7 @@
     "support": "",
     "alt": "ARCO BETA III TITANIUM 16X22 SUPERIOR",
     "meta": "ARCO BETA III TITANIUM 16X22 SUPERIOR",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO301",
@@ -5098,7 +5097,7 @@
     "support": "",
     "alt": "ARCO NITI SUPERIOR 0,018 Eurodonto",
     "meta": "ARCO NITI SUPERIOR 0,018 Eurodonto",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO302",
@@ -5115,7 +5114,7 @@
     "support": "",
     "alt": "ARCO NITI INFERIOR 0,018 Eurodonto",
     "meta": "ARCO NITI INFERIOR 0,018 Eurodonto",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO303",
@@ -5132,7 +5131,7 @@
     "support": "",
     "alt": "ARCO NITI INFERIOR 0.014 Eurodonto",
     "meta": "ARCO NITI INFERIOR 0.014 Eurodonto",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO304",
@@ -5149,7 +5148,7 @@
     "support": "",
     "alt": "ARCO NITI SUPERIOR 0,014 Eurodonto",
     "meta": "ARCO NITI SUPERIOR 0,014 Eurodonto",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO305",
@@ -5166,7 +5165,7 @@
     "support": "",
     "alt": "ARCO NITI SUPERIOR 0,016 Eurodonto",
     "meta": "ARCO NITI SUPERIOR 0,016 Eurodonto",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO306",
@@ -5183,7 +5182,7 @@
     "support": "",
     "alt": "ARCO NITI INFERIOR 0,016 Eurodonto",
     "meta": "ARCO NITI INFERIOR 0,016 Eurodonto",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO307",
@@ -5200,7 +5199,7 @@
     "support": "",
     "alt": "ARCO NITI SUPERIOR 0,012 Eurodonto",
     "meta": "ARCO NITI SUPERIOR 0,012 Eurodonto",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO308",
@@ -5217,7 +5216,7 @@
     "support": "",
     "alt": "ARCO NITI INFERIOR 0,012 Eurodonto",
     "meta": "ARCO NITI INFERIOR 0,012 Eurodonto",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO309",
@@ -5234,7 +5233,7 @@
     "support": "",
     "alt": "ARCO NITI SUPERIOR 17X25 Eurodonto",
     "meta": "ARCO NITI SUPERIOR 17X25 Eurodonto",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO310",
@@ -5251,7 +5250,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 0.18X25 SUPERIOR ADITEK",
     "meta": "ARCO TERMO ACT. 0.18X25 SUPERIOR ADITEK",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO311",
@@ -5268,7 +5267,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 0.16X22 SUPERIOR ADITEK",
     "meta": "ARCO TERMO ACT. 0.16X22 SUPERIOR ADITEK",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO312",
@@ -5285,7 +5284,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 0.16X25 INFERIOR ADITEK",
     "meta": "ARCO TERMO ACT. 0.16X25 INFERIOR ADITEK",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO313",
@@ -5302,7 +5301,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT FORM 21X25 INFERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO TERMO ACT FORM 21X25 INFERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO314",
@@ -5319,7 +5318,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 0.016 INFERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO TERMO ACT. 0.016 INFERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO315",
@@ -5336,7 +5335,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 0.016 SUPERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO TERMO ACT. 0.016 SUPERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO316",
@@ -5353,7 +5352,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 0.018 INFERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO TERMO ACT. 0.018 INFERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO317",
@@ -5370,7 +5369,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 0.018 SUPERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO TERMO ACT. 0.018 SUPERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO318",
@@ -5387,7 +5386,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 0.014 INFERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO TERMO ACT. 0.014 INFERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO319",
@@ -5404,7 +5403,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 0.014 SUPERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO TERMO ACT. 0.014 SUPERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO320",
@@ -5421,7 +5420,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 19 X 25 INFERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO TERMO ACT. 19 X 25 INFERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO321",
@@ -5438,7 +5437,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 19 X 25 SUPERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO TERMO ACT. 19 X 25 SUPERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO322",
@@ -5455,7 +5454,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 17 X 25 INFERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO TERMO ACT. 17 X 25 INFERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO323",
@@ -5472,7 +5471,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 16 X 16 INFERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO TERMO ACT. 16 X 16 INFERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO324",
@@ -5489,7 +5488,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 16 X 16 SUPERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO TERMO ACT. 16 X 16 SUPERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO325",
@@ -5506,7 +5505,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 16 X 22 SUPERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO TERMO ACT. 16 X 22 SUPERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO326",
@@ -5523,7 +5522,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 16 X 22 INFERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO TERMO ACT. 16 X 22 INFERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO327",
@@ -5540,7 +5539,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 19 X 25 SUPERIOR GAC",
     "meta": "ARCO TERMO ACT. 19 X 25 SUPERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO328",
@@ -5557,7 +5556,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 16 X 22 SUPERIOR GAC",
     "meta": "ARCO TERMO ACT. 16 X 22 SUPERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO329",
@@ -5574,7 +5573,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 16 X 22 INFERIOR GAC",
     "meta": "ARCO TERMO ACT. 16 X 22 INFERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO330",
@@ -5591,7 +5590,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 0.018 SUPERIOR GAC",
     "meta": "ARCO TERMO ACT. 0.018 SUPERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO331",
@@ -5608,7 +5607,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 0.018 INFERIOR GAC",
     "meta": "ARCO TERMO ACT. 0.018 INFERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO332",
@@ -5625,7 +5624,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 18 X 25 INFERIOR GAC",
     "meta": "ARCO TERMO ACT. 18 X 25 INFERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO333",
@@ -5642,7 +5641,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 17 X 25 INFERIOR GAC",
     "meta": "ARCO TERMO ACT. 17 X 25 INFERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO334",
@@ -5659,7 +5658,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 17 X 25 SUPERIOR GAC",
     "meta": "ARCO TERMO ACT. 17 X 25 SUPERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO335",
@@ -5676,7 +5675,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 16 X 16 INFERIOR GAC",
     "meta": "ARCO TERMO ACT. 16 X 16 INFERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO336",
@@ -5693,7 +5692,7 @@
     "support": "",
     "alt": "ARCO TERMO ACT. 16 X 16 SUPERIOR GAC",
     "meta": "ARCO TERMO ACT. 16 X 16 SUPERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO337",
@@ -5710,7 +5709,7 @@
     "support": "",
     "alt": "ARCO BRAIDENT 16X22 SUPERIOR",
     "meta": "ARCO BRAIDENT 16X22 SUPERIOR",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO338",
@@ -5727,7 +5726,7 @@
     "support": "",
     "alt": "ARCO BRAIDENT 19X25 INFERIOR",
     "meta": "ARCO BRAIDENT 19X25 INFERIOR",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO339",
@@ -5744,7 +5743,7 @@
     "support": "",
     "alt": "ARCO BRAIDENT 19X25 SUPERIOR",
     "meta": "ARCO BRAIDENT 19X25 SUPERIOR",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO340",
@@ -5761,7 +5760,7 @@
     "support": "",
     "alt": "ARCO BRAIDENT 17X25 SUPERIOR",
     "meta": "ARCO BRAIDENT 17X25 SUPERIOR",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO341",
@@ -5778,7 +5777,7 @@
     "support": "",
     "alt": "ARCO BRAIDENT 21X25 INFERIOR",
     "meta": "ARCO BRAIDENT 21X25 INFERIOR",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO342",
@@ -5795,7 +5794,7 @@
     "support": "",
     "alt": "ARCO BRAIDENT 21X25 SUPERIOR",
     "meta": "ARCO BRAIDENT 21X25 SUPERIOR",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO343",
@@ -5812,7 +5811,7 @@
     "support": "",
     "alt": "ARCO BRAIDENT 16X16 SUPERIOR",
     "meta": "ARCO BRAIDENT 16X16 SUPERIOR",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO344",
@@ -5829,7 +5828,7 @@
     "support": "",
     "alt": "ARCO NITI 19 X 25 SUPERIOR EURODONTO",
     "meta": "ARCO NITI 19 X 25 SUPERIOR EURODONTO",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO345",
@@ -5846,7 +5845,7 @@
     "support": "",
     "alt": "ARCO NITI 19 X 25 INFERIOR EURODONTO",
     "meta": "ARCO NITI 19 X 25 INFERIOR EURODONTO",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO346",
@@ -5863,7 +5862,7 @@
     "support": "",
     "alt": "ARCO NITI 16 X22 SUPERIOR EURODONTO",
     "meta": "ARCO NITI 16 X22 SUPERIOR EURODONTO",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO347",
@@ -5880,7 +5879,7 @@
     "support": "",
     "alt": "ARCO NITI 16 X22 INFERIOR GAC",
     "meta": "ARCO NITI 16 X22 INFERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO348",
@@ -5897,7 +5896,7 @@
     "support": "",
     "alt": "ARCO NITI 16 X 16 INFERIOR EURODONTO",
     "meta": "ARCO NITI 16 X 16 INFERIOR EURODONTO",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO349",
@@ -5914,7 +5913,7 @@
     "support": "",
     "alt": "ARCO NITI 16 X22 SUPERIOR GAC",
     "meta": "ARCO NITI 16 X22 SUPERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO350",
@@ -5931,7 +5930,7 @@
     "support": "",
     "alt": "ARCO NITI 16 X16 SUPERIOR GAC",
     "meta": "ARCO NITI 16 X16 SUPERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO351",
@@ -5948,7 +5947,7 @@
     "support": "",
     "alt": "ARCO NITI 0.018 SUPERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO NITI 0.018 SUPERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO352",
@@ -5965,7 +5964,7 @@
     "support": "",
     "alt": "ARCO NITI 0.018 INFERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO NITI 0.018 INFERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO353",
@@ -5982,7 +5981,7 @@
     "support": "",
     "alt": "ARCO NITI 0.012 INFERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO NITI 0.012 INFERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO354",
@@ -5999,7 +5998,7 @@
     "support": "",
     "alt": "ARCO NITI 0.012 SUPERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO NITI 0.012 SUPERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO355",
@@ -6016,7 +6015,7 @@
     "support": "",
     "alt": "ARCO NITI 21 X 25 INFERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO NITI 21 X 25 INFERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO356",
@@ -6033,7 +6032,7 @@
     "support": "",
     "alt": "ARCO NITI 21 X25 SUPERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO NITI 21 X25 SUPERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO357",
@@ -6050,7 +6049,7 @@
     "support": "",
     "alt": "ARCO NITI 16 X22 INFERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO NITI 16 X22 INFERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO358",
@@ -6067,7 +6066,7 @@
     "support": "",
     "alt": "ARCO NITI 16 X22 SUPERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO NITI 16 X22 SUPERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO359",
@@ -6084,7 +6083,7 @@
     "support": "",
     "alt": "ARCO T COPPER 0,14 SUPERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO T COPPER 0,14 SUPERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO360",
@@ -6101,7 +6100,7 @@
     "support": "",
     "alt": "ARCO CURVA REVERSA NITI SUPERIOR 17 X 25",
     "meta": "ARCO CURVA REVERSA NITI SUPERIOR 17 X 25",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO361",
@@ -6118,7 +6117,7 @@
     "support": "",
     "alt": "ARCO CURVA REVERSA NITI SUPERIOR 19X25",
     "meta": "ARCO CURVA REVERSA NITI SUPERIOR 19X25",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO362",
@@ -6135,7 +6134,7 @@
     "support": "",
     "alt": "ARCO CURVA REVERSA NITI SUPERIOR 0,016",
     "meta": "ARCO CURVA REVERSA NITI SUPERIOR 0,016",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO363",
@@ -6152,7 +6151,7 @@
     "support": "",
     "alt": "ARCO CURVA REVERSA NITI SUPERIOR 0,014",
     "meta": "ARCO CURVA REVERSA NITI SUPERIOR 0,014",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO364",
@@ -6169,7 +6168,7 @@
     "support": "",
     "alt": "ARCO CURVA REVERSA NITI INFERIOR 0,014",
     "meta": "ARCO CURVA REVERSA NITI INFERIOR 0,014",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO365",
@@ -6186,7 +6185,7 @@
     "support": "",
     "alt": "ARCO CURVA REVERSA NITI INFERIOR 16 X 25",
     "meta": "ARCO CURVA REVERSA NITI INFERIOR 16 X 25",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO366",
@@ -6203,7 +6202,7 @@
     "support": "",
     "alt": "ARCO CURVA REVERSA NITI INFERIOR 0.12",
     "meta": "ARCO CURVA REVERSA NITI INFERIOR 0.12",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO367",
@@ -6220,7 +6219,7 @@
     "support": "",
     "alt": "ARCO CURVA REVERSA NITI INFERIOR 0.16",
     "meta": "ARCO CURVA REVERSA NITI INFERIOR 0.16",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO368",
@@ -6237,7 +6236,7 @@
     "support": "",
     "alt": "ARCO 4KL ACERO 16X22 36mm ORTHOTECHNOLOGY",
     "meta": "ARCO 4KL ACERO 16X22 36mm ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO369",
@@ -6254,7 +6253,7 @@
     "support": "",
     "alt": "ARCO 4KL ACERO 16X22 40mm ORTHOTECHNOLOGY",
     "meta": "ARCO 4KL ACERO 16X22 40mm ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO370",
@@ -6271,7 +6270,7 @@
     "support": "",
     "alt": "ARCO 4KL ACERO 19X25 38mm ORTHOTECHNOLOGY",
     "meta": "ARCO 4KL ACERO 19X25 38mm ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO371",
@@ -6288,7 +6287,7 @@
     "support": "",
     "alt": "ARCO 4KL ACERO 19X25 26mm ORTHOTECHNOLOGY",
     "meta": "ARCO 4KL ACERO 19X25 26mm ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO372",
@@ -6305,7 +6304,7 @@
     "support": "",
     "alt": "ARCO 4KL ACERO 19X25 24mm ORTHOTECHNOLOGY",
     "meta": "ARCO 4KL ACERO 19X25 24mm ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO373",
@@ -6322,7 +6321,7 @@
     "support": "",
     "alt": "ARCO 4KL ACERO 19X25 32mm ORTHOTECHNOLOGY",
     "meta": "ARCO 4KL ACERO 19X25 32mm ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO374",
@@ -6339,7 +6338,7 @@
     "support": "",
     "alt": "ARCO 4KL ACERO 19X25 40mm ORTHOTECHNOLOGY",
     "meta": "ARCO 4KL ACERO 19X25 40mm ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO375",
@@ -6356,7 +6355,7 @@
     "support": "",
     "alt": "ARCO 4KL ACERO 19X25 30mm ORTHOTECHNOLOGY",
     "meta": "ARCO 4KL ACERO 19X25 30mm ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO376",
@@ -6373,7 +6372,7 @@
     "support": "",
     "alt": "ARCO 4KL ACERO 19X25 28mm ORTHOTECHNOLOGY",
     "meta": "ARCO 4KL ACERO 19X25 28mm ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO377",
@@ -6390,7 +6389,7 @@
     "support": "",
     "alt": "ARCO 4KL ACERO 19X25 36mm GAC",
     "meta": "ARCO 4KL ACERO 19X25 36mm GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO378",
@@ -6407,7 +6406,7 @@
     "support": "",
     "alt": "ARCO ACERO 0.016 SUPERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO ACERO 0.016 SUPERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO379",
@@ -6424,7 +6423,7 @@
     "support": "",
     "alt": "ARCO ACERO 0.012 INFERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO ACERO 0.012 INFERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO380",
@@ -6441,7 +6440,7 @@
     "support": "",
     "alt": "ARCO ACERO 0.012 SUPERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO ACERO 0.012 SUPERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO381",
@@ -6458,7 +6457,7 @@
     "support": "",
     "alt": "ARCO ACERO 0.014 INFERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO ACERO 0.014 INFERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO382",
@@ -6475,7 +6474,7 @@
     "support": "",
     "alt": "ARCO ACERO 0.018 INFERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO ACERO 0.018 INFERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO383",
@@ -6492,7 +6491,7 @@
     "support": "",
     "alt": "ARCO ACERO 0.018 SUPERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO ACERO 0.018 SUPERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO384",
@@ -6509,7 +6508,7 @@
     "support": "",
     "alt": "ARCO ACERO 17X25 SUPERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO ACERO 17X25 SUPERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO385",
@@ -6526,7 +6525,7 @@
     "support": "",
     "alt": "ARCO ACERO 16X22 SUPERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO ACERO 16X22 SUPERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO386",
@@ -6543,7 +6542,7 @@
     "support": "",
     "alt": "ARCO ACERO 16X22 INFERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO ACERO 16X22 INFERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO387",
@@ -6560,7 +6559,7 @@
     "support": "",
     "alt": "ARCO ACERO 18 X 25 SUPERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO ACERO 18 X 25 SUPERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO388",
@@ -6577,7 +6576,7 @@
     "support": "",
     "alt": "ARCO ACERO 18 X 25 INFERIOR ORTHOTECHNOLOGY",
     "meta": "ARCO ACERO 18 X 25 INFERIOR ORTHOTECHNOLOGY",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO389",
@@ -6594,7 +6593,7 @@
     "support": "",
     "alt": "ARCO ACERO 0.014 SUPERIOR GAC",
     "meta": "ARCO ACERO 0.014 SUPERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO390",
@@ -6611,7 +6610,7 @@
     "support": "",
     "alt": "ARCO ACERO 16X22 INFERIOR GAC",
     "meta": "ARCO ACERO 16X22 INFERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO391",
@@ -6628,7 +6627,7 @@
     "support": "",
     "alt": "ARCO ACERO 16 X22 SUPERIOR GAC",
     "meta": "ARCO ACERO 16 X22 SUPERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO392",
@@ -6645,7 +6644,7 @@
     "support": "",
     "alt": "ARCO ACERO 16 X16 SUPERIOR GAC",
     "meta": "ARCO ACERO 16 X16 SUPERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO393",
@@ -6662,7 +6661,7 @@
     "support": "",
     "alt": "ARCO ACERO 21 X 25 INFERIOR GAC",
     "meta": "ARCO ACERO 21 X 25 INFERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "ARCO394",
@@ -6679,7 +6678,7 @@
     "support": "",
     "alt": "ARCO ACERO 19 X 25 INFERIOR GAC",
     "meta": "ARCO ACERO 19 X 25 INFERIOR GAC",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND395",
@@ -6696,7 +6695,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO INFERIOR No 26",
     "meta": "BANDAS SIN TUBO INFERIOR No 26",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND396",
@@ -6713,7 +6712,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO INFERIOR No 27",
     "meta": "BANDAS SIN TUBO INFERIOR No 27",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND397",
@@ -6730,7 +6729,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO INFERIOR No 28",
     "meta": "BANDAS SIN TUBO INFERIOR No 28",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND398",
@@ -6747,7 +6746,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO INFERIOR No 29",
     "meta": "BANDAS SIN TUBO INFERIOR No 29",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND399",
@@ -6764,7 +6763,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO INFERIOR No 30",
     "meta": "BANDAS SIN TUBO INFERIOR No 30",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND400",
@@ -6781,7 +6780,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO INFERIOR No 31",
     "meta": "BANDAS SIN TUBO INFERIOR No 31",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND401",
@@ -6798,7 +6797,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO INFERIOR No 32",
     "meta": "BANDAS SIN TUBO INFERIOR No 32",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND402",
@@ -6815,7 +6814,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO SUPERIOR No 26",
     "meta": "BANDAS SIN TUBO SUPERIOR No 26",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND403",
@@ -6832,7 +6831,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO SUPERIOR No 27",
     "meta": "BANDAS SIN TUBO SUPERIOR No 27",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND404",
@@ -6849,7 +6848,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO SUPERIOR No 28",
     "meta": "BANDAS SIN TUBO SUPERIOR No 28",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND405",
@@ -6866,7 +6865,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO SUPERIOR No 29",
     "meta": "BANDAS SIN TUBO SUPERIOR No 29",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND406",
@@ -6883,7 +6882,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO SUPERIOR No 30",
     "meta": "BANDAS SIN TUBO SUPERIOR No 30",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND407",
@@ -6900,7 +6899,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO SUPERIOR No 31",
     "meta": "BANDAS SIN TUBO SUPERIOR No 31",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND408",
@@ -6917,7 +6916,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO SUPERIOR No 32",
     "meta": "BANDAS SIN TUBO SUPERIOR No 32",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND409",
@@ -6934,7 +6933,7 @@
     "support": "",
     "alt": "BANDA SIN TUBO L36 1/2",
     "meta": "BANDA SIN TUBO L36 1/2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND410",
@@ -6951,7 +6950,7 @@
     "support": "",
     "alt": "BANDA SIN TUBO L37 1/2",
     "meta": "BANDA SIN TUBO L37 1/2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND411",
@@ -6968,7 +6967,7 @@
     "support": "",
     "alt": "BANDA SIN TUBO L37",
     "meta": "BANDA SIN TUBO L37",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND412",
@@ -6985,7 +6984,7 @@
     "support": "",
     "alt": "BANDA SIN TUBO L41",
     "meta": "BANDA SIN TUBO L41",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND413",
@@ -7002,7 +7001,7 @@
     "support": "",
     "alt": "BANDA SIN TUBO L38",
     "meta": "BANDA SIN TUBO L38",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND414",
@@ -7019,7 +7018,7 @@
     "support": "",
     "alt": "BANDA SIN TUBO L40",
     "meta": "BANDA SIN TUBO L40",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND415",
@@ -7036,7 +7035,7 @@
     "support": "",
     "alt": "BANDA SIN TUBO L38 1/2",
     "meta": "BANDA SIN TUBO L38 1/2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND416",
@@ -7053,7 +7052,7 @@
     "support": "",
     "alt": "BANDA SIN TUBO L39",
     "meta": "BANDA SIN TUBO L39",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND417",
@@ -7070,7 +7069,7 @@
     "support": "",
     "alt": "BANDA SIN TUBO L42",
     "meta": "BANDA SIN TUBO L42",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND418",
@@ -7087,7 +7086,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO LR 35.5",
     "meta": "BANDAS SIN TUBO LR 35.5",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND419",
@@ -7104,7 +7103,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO U17",
     "meta": "BANDAS SIN TUBO U17",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND420",
@@ -7121,7 +7120,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO L21",
     "meta": "BANDAS SIN TUBO L21",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND421",
@@ -7138,7 +7137,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO UR41",
     "meta": "BANDAS SIN TUBO UR41",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND422",
@@ -7155,7 +7154,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO U19",
     "meta": "BANDAS SIN TUBO U19",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND423",
@@ -7172,7 +7171,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO U23",
     "meta": "BANDAS SIN TUBO U23",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND424",
@@ -7189,7 +7188,7 @@
     "support": "",
     "alt": "BANDAS SIN TUBO U25",
     "meta": "BANDAS SIN TUBO U25",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND425",
@@ -7206,7 +7205,7 @@
     "support": "",
     "alt": "BANDAS PREMOLARES L6R1",
     "meta": "BANDAS PREMOLARES L6R1",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND426",
@@ -7223,7 +7222,7 @@
     "support": "",
     "alt": "BANDAS PREMOLARES L6L1",
     "meta": "BANDAS PREMOLARES L6L1",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND427",
@@ -7240,7 +7239,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R35 1/2",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R35 1/2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND428",
@@ -7257,7 +7256,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L36 1/2",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L36 1/2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND429",
@@ -7274,7 +7273,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L36 1/2",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L36 1/2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND430",
@@ -7291,7 +7290,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L37 1/2",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L37 1/2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND431",
@@ -7308,7 +7307,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R37 1/2",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R37 1/2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND432",
@@ -7325,7 +7324,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY U6R37 1/2",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY U6R37 1/2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND433",
@@ -7342,7 +7341,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L37 1/2",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L37 1/2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND434",
@@ -7359,7 +7358,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L37",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L37",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND435",
@@ -7376,7 +7375,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R37",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R37",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND436",
@@ -7393,7 +7392,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L37",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L37",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND437",
@@ -7410,7 +7409,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY U6R37",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY U6R37",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND438",
@@ -7427,7 +7426,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L40",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L40",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND439",
@@ -7444,7 +7443,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R40",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R40",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND440",
@@ -7461,7 +7460,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L40",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L40",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND441",
@@ -7478,7 +7477,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY U6R40",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY U6R40",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND442",
@@ -7495,7 +7494,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L41",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L41",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND443",
@@ -7512,7 +7511,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R41",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R41",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND444",
@@ -7529,7 +7528,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L41",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L41",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND445",
@@ -7546,7 +7545,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY U6R41",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY U6R41",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND446",
@@ -7563,7 +7562,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L38",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L38",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND447",
@@ -7580,7 +7579,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R38",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R38",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND448",
@@ -7597,7 +7596,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L38",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L38",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND449",
@@ -7614,7 +7613,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY U6R38",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY U6R38",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND450",
@@ -7631,7 +7630,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L36",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L36",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND451",
@@ -7648,7 +7647,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R36",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R36",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND452",
@@ -7665,7 +7664,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L36",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L36",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND453",
@@ -7682,7 +7681,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY U6R36",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY U6R36",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND454",
@@ -7699,7 +7698,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L39 1/2",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L39 1/2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND455",
@@ -7716,7 +7715,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R39 1/2",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R39 1/2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND456",
@@ -7733,7 +7732,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L39 1/2",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L39 1/2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND457",
@@ -7750,7 +7749,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY U6R39 1/2",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY U6R39 1/2",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND458",
@@ -7767,7 +7766,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R39",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6R39",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND459",
@@ -7784,7 +7783,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L39",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY L6L39",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND460",
@@ -7801,7 +7800,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY U6R39",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY U6R39",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND461",
@@ -7818,7 +7817,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L39",
     "meta": "BANDAS CON TUBO ORTHOTECHNOLOGY U6L39",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND462",
@@ -7835,7 +7834,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO U6R36",
     "meta": "BANDAS CON TUBO U6R36",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BAND463",
@@ -7852,7 +7851,7 @@
     "support": "",
     "alt": "BANDAS CON TUBO U6L36",
     "meta": "BANDAS CON TUBO U6L36",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "BITE464",
@@ -7869,7 +7868,7 @@
     "support": "",
     "alt": "BITE BUILDING",
     "meta": "BITE BUILDING",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "FERU465",
@@ -7886,7 +7885,7 @@
     "support": "",
     "alt": "Ferulas",
     "meta": "Ferulas",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "LIGA466",
@@ -7903,7 +7902,7 @@
     "support": "",
     "alt": "ligadura kobayashi",
     "meta": "ligadura kobayashi",
-    "category": "ortodoncia "
+    "category": "Ortodoncia"
   },
   {
     "id": "LIGA467",
@@ -7920,7 +7919,7 @@
     "support": "",
     "alt": "Ligadura preformada pequeña",
     "meta": "Ligadura preformada pequeña",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "POST468",
@@ -7937,7 +7936,7 @@
     "support": "",
     "alt": "POSTE FIBRA VIDRIO AMARILLO CONTEC ",
     "meta": "POSTE FIBRA VIDRIO AMARILLO CONTEC ",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "POST469",
@@ -7954,7 +7953,7 @@
     "support": "",
     "alt": "POSTE FIBRA VIDRIO BLANCO CONTEC 1.3 mm",
     "meta": "POSTE FIBRA VIDRIO BLANCO CONTEC 1.3 mm",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "POST470",
@@ -7971,7 +7970,7 @@
     "support": "",
     "alt": "POSTE FIBRA VIDRIO BLANCO CONTEC 1.2 mm",
     "meta": "POSTE FIBRA VIDRIO BLANCO CONTEC 1.2 mm",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "PIN-471",
@@ -7988,7 +7987,7 @@
     "support": "",
     "alt": "PIN-JET POSTES SOBRE X 50 U",
     "meta": "PIN-JET POSTES SOBRE X 50 U",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "PIN-472",
@@ -8039,7 +8038,7 @@
     "support": "",
     "alt": "PDM5T PARAPOST TITANIO No4",
     "meta": "PDM5T PARAPOST TITANIO No4",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "PDM5475",
@@ -8056,7 +8055,7 @@
     "support": "",
     "alt": "PDM5T PARAPOST TITANIO 5",
     "meta": "PDM5T PARAPOST TITANIO 5",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "CONS476",
@@ -8073,7 +8072,7 @@
     "support": "",
     "alt": "CONSEPSIS INDISPENSE REFILL CLORHEXIDINA 2%",
     "meta": "CONSEPSIS INDISPENSE REFILL CLORHEXIDINA 2%",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "APLI477",
@@ -8090,7 +8089,7 @@
     "support": "",
     "alt": "APLICADORES MAGIC-DENT EXTRA FINOS (BLANCOS)",
     "meta": "APLICADORES MAGIC-DENT EXTRA FINOS (BLANCOS)",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "APLI478",
@@ -8107,7 +8106,7 @@
     "support": "",
     "alt": "APLICADORES MAGIC-DENT regular (azul)",
     "meta": "APLICADORES MAGIC-DENT regular (azul)",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "SIER479",
@@ -8124,7 +8123,7 @@
     "support": "",
     "alt": "SIERRA PROXIMAL JIFFY x unidad",
     "meta": "SIERRA PROXIMAL JIFFY x unidad",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "TDV 480",
@@ -8141,7 +8140,7 @@
     "support": "",
     "alt": "TDV CORONAS SURTIDAS INFANT/TRANSP PAQ X 64 UND",
     "meta": "TDV CORONAS SURTIDAS INFANT/TRANSP PAQ X 64 UND",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "CORO481",
@@ -8158,7 +8157,7 @@
     "support": "",
     "alt": "coronas ST 5K Frasaco",
     "meta": "coronas ST 5K Frasaco",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "APLI482",
@@ -8175,7 +8174,7 @@
     "support": "",
     "alt": "APLICADORES MAGIC-DENT FINOS (AMARILLO) X 100",
     "meta": "APLICADORES MAGIC-DENT FINOS (AMARILLO) X 100",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "OMNI483",
@@ -8192,7 +8191,7 @@
     "support": "",
     "alt": "OMNIMATRIX PURPURA PEDIATRICA",
     "meta": "OMNIMATRIX PURPURA PEDIATRICA",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "OMNI484",
@@ -8209,7 +8208,7 @@
     "support": "",
     "alt": "OMNIMATRIX NARANJA 001",
     "meta": "OMNIMATRIX NARANJA 001",
-    "category": "prevencion e higiene"
+    "category": "Prevencion e higiene"
   },
   {
     "id": "ENJU485",
@@ -8226,7 +8225,7 @@
     "support": "",
     "alt": "ENJUAGUE BUCAL ENCIDENT GALON ",
     "meta": "ENJUAGUE BUCAL ENCIDENT GALON ",
-    "category": "equipamiento "
+    "category": "Equipamiento"
   },
   {
     "id": "CLOR486",
@@ -8243,7 +8242,7 @@
     "support": "",
     "alt": "CLORHEXIDINA 2% 475ml",
     "meta": "CLORHEXIDINA 2% 475ml",
-    "category": "prevencion e higiene"
+    "category": "Prevencion e higiene"
   },
   {
     "id": "PAST487",
@@ -8260,7 +8259,7 @@
     "support": "",
     "alt": "PASTA PROFILACTICA INDIVIDUAL ",
     "meta": "PASTA PROFILACTICA INDIVIDUAL ",
-    "category": "prevencion e higiene"
+    "category": "Prevencion e higiene"
   },
   {
     "id": "ENAM488",
@@ -8277,7 +8276,7 @@
     "support": "",
     "alt": "ENAMELAST FLUOR BARNIZ JERINGA 1.2 ML",
     "meta": "ENAMELAST FLUOR BARNIZ JERINGA 1.2 ML",
-    "category": "prevencion e higiene"
+    "category": "Prevencion e higiene"
   },
   {
     "id": "ENAM489",
@@ -8294,7 +8293,7 @@
     "support": "",
     "alt": "ENAMELAST FLUOR BARNIZ DOSIS UNITARIA 0.4ML",
     "meta": "ENAMELAST FLUOR BARNIZ DOSIS UNITARIA 0.4ML",
-    "category": "prevencion e higiene"
+    "category": "Prevencion e higiene"
   },
   {
     "id": "PAST490",
@@ -8311,7 +8310,7 @@
     "support": "",
     "alt": "PASTA OPALECENSE 4.7 gr",
     "meta": "PASTA OPALECENSE 4.7 gr",
-    "category": "prevencion e higiene"
+    "category": "Prevencion e higiene"
   },
   {
     "id": "CEPI491",
@@ -8328,7 +8327,7 @@
     "support": "",
     "alt": "CEPILLO interdental 07 X unidad",
     "meta": "CEPILLO interdental 07 X unidad",
-    "category": "prevencion e higiene"
+    "category": "Prevencion e higiene"
   },
   {
     "id": "CEPI492",
@@ -8345,7 +8344,7 @@
     "support": "",
     "alt": "CEPILLO interdental 08 X unidad",
     "meta": "CEPILLO interdental 08 X unidad",
-    "category": "prevencion e higiene"
+    "category": "Prevencion e higiene"
   },
   {
     "id": "CEPI493",
@@ -8362,7 +8361,7 @@
     "support": "",
     "alt": "CEPILLO interdental 09 x unidad",
     "meta": "CEPILLO interdental 09 x unidad",
-    "category": "prevencion e higiene"
+    "category": "Prevencion e higiene"
   },
   {
     "id": "CEPI494",
@@ -8379,7 +8378,7 @@
     "support": "",
     "alt": "CEPILLO interdental 11 x unidad",
     "meta": "CEPILLO interdental 11 x unidad",
-    "category": "prevencion e higiene"
+    "category": "Prevencion e higiene"
   },
   {
     "id": "PIED495",
@@ -8396,7 +8395,7 @@
     "support": "",
     "alt": "PIEDRA POMEZ",
     "meta": "PIEDRA POMEZ",
-    "category": "prevencion e higiene"
+    "category": "Prevencion e higiene"
   },
   {
     "id": "CEPI496",
@@ -8413,7 +8412,7 @@
     "support": "",
     "alt": "CEPILLO PROFILACTICO ultradent X UNIDAD",
     "meta": "CEPILLO PROFILACTICO ultradent X UNIDAD",
-    "category": "prevencion e higiene"
+    "category": "Prevencion e higiene"
   },
   {
     "id": "CEPI497",
@@ -8430,7 +8429,7 @@
     "support": "",
     "alt": "CEPILLO PROFILACTICO ZOGEAR caja x100",
     "meta": "CEPILLO PROFILACTICO ZOGEAR caja x100",
-    "category": "prevencion e higiene"
+    "category": "Prevencion e higiene"
   },
   {
     "id": "REVE498",
@@ -8447,7 +8446,7 @@
     "support": "",
     "alt": "revelador de placa bacteriana PROQUIDENT",
     "meta": "revelador de placa bacteriana PROQUIDENT",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "BAND499",
@@ -8464,7 +8463,7 @@
     "support": "",
     "alt": "BANDA MATRIZ MAQUIRA 5mm",
     "meta": "BANDA MATRIZ MAQUIRA 5mm",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "ASPI500",
@@ -8481,7 +8480,7 @@
     "support": "",
     "alt": "Aspiradores quirúrgicos X 25 PREHMA",
     "meta": "Aspiradores quirúrgicos X 25 PREHMA",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "ASPI501",
@@ -8498,7 +8497,7 @@
     "support": "",
     "alt": "Aspirasaliva EM15 EURONDA x 100 Un",
     "meta": "Aspirasaliva EM15 EURONDA x 100 Un",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "ASPI502",
@@ -8515,7 +8514,7 @@
     "support": "",
     "alt": "Aspirasaliva MAGIC DENT x 100 Un",
     "meta": "Aspirasaliva MAGIC DENT x 100 Un",
-    "category": "impresion "
+    "category": "Impresion"
   },
   {
     "id": "HP M503",
@@ -8532,7 +8531,7 @@
     "support": "",
     "alt": "HP Mixing Tip (BROWN) x unidad",
     "meta": "HP Mixing Tip (BROWN) x unidad",
-    "category": "equipamiento "
+    "category": "Equipamiento"
   },
   {
     "id": "MANG504",
@@ -8549,7 +8548,7 @@
     "support": "",
     "alt": "Mango de bisturí No 3",
     "meta": "Mango de bisturí No 3",
-    "category": "impresion "
+    "category": "Impresion"
   },
   {
     "id": "INDU505",
@@ -8566,7 +8565,7 @@
     "support": "",
     "alt": "indurent gel Zhemark",
     "meta": "indurent gel Zhemark",
-    "category": "prevencion e higiene"
+    "category": "Prevencion e higiene"
   },
   {
     "id": "ADHE506",
@@ -8583,7 +8582,7 @@
     "support": "",
     "alt": "Adhesivo en polvo para dentaduras DENTAFIRME",
     "meta": "Adhesivo en polvo para dentaduras DENTAFIRME",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "JERI507",
@@ -8600,7 +8599,7 @@
     "support": "",
     "alt": "jeringa 5 ml Ultradent x unidad",
     "meta": "jeringa 5 ml Ultradent x unidad",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "JERI508",
@@ -8617,7 +8616,7 @@
     "support": "",
     "alt": "jeringa 1 1/4 Ultradent x unidad",
     "meta": "jeringa 1 1/4 Ultradent x unidad",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "FUND509",
@@ -8634,7 +8633,7 @@
     "support": "",
     "alt": "FUNDAS P/ESTERILIZAR ENDODONCIA EHROS 2 1/4 X 4",
     "meta": "FUNDAS P/ESTERILIZAR ENDODONCIA EHROS 2 1/4 X 4",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "FUND510",
@@ -8651,7 +8650,7 @@
     "support": "",
     "alt": "FUNDAS P/ESTERILIZAR 3 1/2\" X 10\"",
     "meta": "FUNDAS P/ESTERILIZAR 3 1/2\" X 10\"",
-    "category": "equipamiento "
+    "category": "Equipamiento"
   },
   {
     "id": "CONT511",
@@ -8668,7 +8667,7 @@
     "support": "",
     "alt": "contrangulo desechable keystone",
     "meta": "contrangulo desechable keystone",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "OXID512",
@@ -8685,7 +8684,7 @@
     "support": "",
     "alt": "OXIDO DE ZINC 180 gr",
     "meta": "OXIDO DE ZINC 180 gr",
-    "category": "endodoncia "
+    "category": "Endodoncia"
   },
   {
     "id": "PARA513",
@@ -8702,7 +8701,7 @@
     "support": "",
     "alt": "PARAPOS PARAPULPAR",
     "meta": "PARAPOS PARAPULPAR",
-    "category": "preparacion "
+    "category": "Preparacion"
   },
   {
     "id": "OPTR514",
@@ -8719,7 +8718,7 @@
     "support": "",
     "alt": "optragate Regular Ivoclar X unidad",
     "meta": "optragate Regular Ivoclar X unidad",
-    "category": "miscelaneo "
+    "category": "Miscelaneo"
   },
   {
     "id": "AGUJ515",
@@ -8736,7 +8735,7 @@
     "support": "",
     "alt": "AGUJAS PEDIATRICAS 30G MISAWA x unidad",
     "meta": "AGUJAS PEDIATRICAS 30G MISAWA x unidad",
-    "category": "prevencion e higiene"
+    "category": "Prevencion e higiene"
   },
   {
     "id": "CEPI516",
@@ -8753,7 +8752,7 @@
     "support": "",
     "alt": "cepillo profiláctico zogear color x unidad",
     "meta": "cepillo profiláctico zogear color x unidad",
-    "category": "prevencion e higiene"
+    "category": "Prevencion e higiene"
   },
   {
     "id": "CEPI517",
@@ -8770,7 +8769,7 @@
     "support": "",
     "alt": "CEPILLO PROFILACTICO BETCH x unidad",
     "meta": "CEPILLO PROFILACTICO BETCH x unidad",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "DISC518",
@@ -8787,7 +8786,7 @@
     "support": "",
     "alt": "disco de corte 22x0.6 x unidad",
     "meta": "disco de corte 22x0.6 x unidad",
-    "category": "equipamiento "
+    "category": "Equipamiento"
   },
   {
     "id": "FIBR519",
@@ -8804,7 +8803,7 @@
     "support": "",
     "alt": "Fibra optica para lampara de fotocurado",
     "meta": "Fibra optica para lampara de fotocurado",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "CEPI520",
@@ -8821,7 +8820,7 @@
     "support": "",
     "alt": "cepillo de pulido escoba x unidad",
     "meta": "cepillo de pulido escoba x unidad",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "CEPI521",
@@ -8838,7 +8837,7 @@
     "support": "",
     "alt": "cepillo de pulido rueda x unidad",
     "meta": "cepillo de pulido rueda x unidad",
-    "category": "terminado "
+    "category": "Terminado"
   },
   {
     "id": "CEPI522",
@@ -8855,7 +8854,7 @@
     "support": "",
     "alt": "cepillo de pulido estrella x unidad",
     "meta": "cepillo de pulido estrella x unidad",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "MAND523",
@@ -8872,7 +8871,7 @@
     "support": "",
     "alt": "mandril pequeño",
     "meta": "mandril pequeño",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "MAND524",
@@ -8889,7 +8888,7 @@
     "support": "",
     "alt": "mandril grande",
     "meta": "mandril grande",
-    "category": "laboratorio "
+    "category": "Laboratorio"
   },
   {
     "id": "PUNT525",
@@ -8906,7 +8905,7 @@
     "support": "",
     "alt": "Puntas de caaucho",
     "meta": "Puntas de caaucho",
-    "category": "impresion "
+    "category": "Impresion"
   },
   {
     "id": "ORAN526",
@@ -8923,7 +8922,7 @@
     "support": "",
     "alt": "ORANWASH L NORMAL SET 1 TUBE 140ml",
     "meta": "ORANWASH L NORMAL SET 1 TUBE 140ml",
-    "category": "impresion "
+    "category": "Impresion"
   },
   {
     "id": "INDU527",
