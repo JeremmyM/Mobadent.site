@@ -27,6 +27,7 @@ const ProductCardGrid = (props) => {
           originalPrice={product.originalPrice}
           slug={product.slug}
           showQuickView={() => setShowQuickView(true)}
+          vendor={product.vendor}
         />
       );
     });

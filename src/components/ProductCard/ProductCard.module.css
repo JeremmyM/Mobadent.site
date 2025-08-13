@@ -125,6 +125,13 @@
     opacity: 0;
 }
 
+/* ProductCard.module.css */
+
+.pricesLayout {
+    display: flex;
+    flex-direction: column;
+  }
+
 @media (max-width: 800px) {
     .bagContainer {
         opacity: 1;

@@ -247,7 +247,7 @@ const ShopPage = () => {
 
           {/* chips de categorías rápidas */}
           <div className={styles.chipsContainer}>
-            {topCategories.map((c) => (
+          {available.categories.map((c) => (
               <Chip
                 key={c}
                 name={c}

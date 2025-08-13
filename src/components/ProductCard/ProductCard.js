@@ -12,11 +12,11 @@ const ProductCard = (props) => {
     image,
     imageAlt,
     name,
-    price,
     originalPrice,
     meta,
     showQuickView,
     height = 580,
+    vendor,
   } = props;
 
   const TEMP_HIDE_ACTIONS = true; // <<< CAMBIA a false cuando quieras volver a mostrar
@@ -73,15 +73,13 @@ const ProductCard = (props) => {
       </div>
       <div className={styles.detailsContainer}>
         <span className={styles.productName}>{name}</span>
-        <div className={styles.prices}>
-          <span
-            className={`${originalPrice !== undefined ? styles.salePrice : ''}`}
-          >
-            <CurrencyFormatter amount={price} />
-          </span>
+        <div className={styles.pricesLayout}>
+          {/* Muestra el nombre del proveedor en su propia línea */}
+          <span>{vendor}</span>
+          {/* Muestra originalPrice en la siguiente línea si existe, sin dejar espacio en blanco si no */}
           {originalPrice && (
-            <span className={styles.originalPrice}>
-              <CurrencyFormatter amount={originalPrice} />
+            <span className={styles.salePrice}>
+              {originalPrice}
             </span>
           )}
         </div>
@@ -90,6 +88,5 @@ const ProductCard = (props) => {
     </div>
   );
 };
-
 
 export default ProductCard;

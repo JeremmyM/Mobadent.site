@@ -51,9 +51,14 @@
 }
 
 .chipsContainer {
-    display: flex;
-    gap: 8px;
-    margin-top: 8px;
+  /* Mantén tus estilos actuales como display: flex; */
+  display: flex;
+  
+  /* Agrega esta línea para que los chips se envuelvan en la siguiente fila */
+  flex-wrap: wrap; 
+  
+  /* Puedes agregar un poco de espacio entre las filas si lo necesitas */
+  gap: 8px; /* o cualquier valor que prefieras */
 }
 
 .productContainer {
