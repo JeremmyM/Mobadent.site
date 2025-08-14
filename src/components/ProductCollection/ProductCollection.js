@@ -7,8 +7,7 @@ const ProductCollection = (props) => {
   const { image, title, text, categorySlug } = props;
 
   const handleNavigation = () => {
-    // Usamos 'navigate' para ir a la página de la tienda y pasamos el slug de la categoría
-    // en el 'state' de la navegación. Esto es lo que permite que el filtro funcione.
+    // Navegamos a la página de productos y pasamos el slug
     navigate('/shop', { state: { category: categorySlug } });
   };
 

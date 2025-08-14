@@ -63,7 +63,7 @@ const IndexPage = () => {
         <Container>
           <Title name={'Descubre Nuestros Productos'} link={'/shop'} textLink={'ver todo'} />
           <ProductCardGrid
-            spacing={true}
+            spacing={true}  
             showSlider
             height={480}
             columns={3}
