@@ -26,6 +26,10 @@ const IndexPage = () => {
     navigate('/shop');
   };
 
+  const goToBlog = () => {
+    navigate('/blog');
+  };
+
   return (
     <Layout disablePaddingBottom>
       {/* Hero Container */}
@@ -122,7 +126,9 @@ const IndexPage = () => {
           subtitle={'Soporte posventa, capacitación básica de producto y entregas el mismo día en Santo Domingo.'}
           ctaText={'conoce más'}
           maxWidth={'660px'}
+          ctaAction={goToBlog}
           ctaStyle={styles.ctaCustomButton}
+          
         />
       </div>
 

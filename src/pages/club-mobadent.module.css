@@ -1,0 +1,101 @@
+.heroContainer {
+    background-image: linear-gradient(
+      to bottom,
+      var(--primary-dark),
+      var(--primary-darker)
+    );
+    padding: 60px 20px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
+  .heroContainer h1 {
+    font-size: 2.5em;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+  .heroContainer h2 {
+    font-size: 1.2em;
+    font-weight: 300;
+    color: var(--standard-light-grey);
+  }
+  .content {
+    padding: 40px 0;
+  }
+  .intro {
+    font-size: 1.1em;
+    line-height: 1.6;
+    text-align: center;
+    margin-bottom: 40px;
+    color: var(--primary-text);
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .intro strong {
+    color: var(--primary);
+  }
+  .levelsGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+    margin-bottom: 60px;
+  }
+  .levelCard {
+    background-color: var(--standard-light-grey);
+    border-radius: 8px;
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    min-height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .levelCard:hover {
+    transform: translateY(-5px);
+  }
+  .levelCard h3 {
+    font-size: 1.5em;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+  }
+  .bronze {
+    color: #c0840c; /* Color bronce */
+  }
+  .oro {
+    color: #e5c100; /* Color oro */
+  }
+  .diamante {
+    color: #00d0ff; /* Color diamante */
+  }
+  .levelCard p {
+    font-size: 0.9em;
+    color: var(--standard-dark-grey);
+    margin-bottom: 15px;
+  }
+  .levelCard ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    font-size: 0.9em;
+    color: var(--primary-text);
+  }
+  .levelCard ul li {
+    margin-bottom: 5px;
+  }
+  .ctaSection {
+    text-align: center;
+    padding: 40px;
+    background-color: #f7f9fc;
+    border-radius: 8px;
+    margin-bottom: 40px;
+  }
+  .ctaSection h2 {
+    font-size: 1.5em;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: var(--primary-dark);
+  }
