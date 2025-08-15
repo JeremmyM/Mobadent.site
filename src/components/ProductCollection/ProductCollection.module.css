@@ -78,7 +78,7 @@
 
 @media (max-width: 800px) {
     .root {
-        min-height: 330px;
+        min-height: 130px;
     }
 
     .content {
