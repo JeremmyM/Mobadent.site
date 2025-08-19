@@ -1,0 +1,114 @@
+{
+  "currencyList": [
+    { "value": "USD", "label": "Dólares (US $)" }
+  ],
+  "languageList": [
+    { "value": "spanish", "label": "Español" }
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/mobadent",
+    "instagram": "https://www.instagram.com/mobadent_ec",
+    "whatsapp": "https://wa.me/593999999999"
+  },
+  "paymentOptions": {
+    "visa": true,
+    "mastercard": true,
+    "amex": false
+  },
+  "footerLinks": [
+    {
+      "subTitle": "Mobadent",
+      "links": [
+        {
+          "text": "Sobre nosotros",
+          "link": "/about"
+        },
+        {
+          "text": "Blog",
+          "link": "/blog"
+        },
+        {
+          "text": "Política de privacidad",
+          "link": "/support#policy"
+        }
+      ]
+    },
+    {
+      "subTitle": "Soporte",
+      "links": [
+        {
+          "text": "Preguntas frecuentes",
+          "link": "/faq"
+        },
+        {
+          "text": "Contáctanos",
+          "link": "/support#contact"
+        },
+        {
+          "text": "Envíos y devoluciones",
+          "link": "/support#returns"
+        }
+      ]
+    }
+  ],
+  "headerLinks": [
+    {
+      "menuLabel": "Productos",
+      "menuLink": "/shop",
+      "category": [
+        
+        {
+          "categoryLabel": "Consumibles",
+          "submenu": [
+            { "menuLabel": "Guantes", "menuLink": "/shop" },
+            { "menuLabel": "Jeringas", "menuLink": "/shop" },
+            { "menuLabel": "Torundas", "menuLink": "/shop" }
+          ]
+        },
+        {
+          "categoryLabel": "Instrumental",
+          "submenu": [
+            { "menuLabel": "Espejos", "menuLink": "/shop" },
+            { "menuLabel": "Porta agujas", "menuLink": "/shop" },
+            { "menuLabel": "Bisturí", "menuLink": "/shop" }
+          ]
+        },
+    
+        {
+          "categoryLabel": "Protección",
+          "submenu": [
+            { "menuLabel": "Babetes", "menuLink": "/shop" },
+            { "menuLabel": "Cubrebocas", "menuLink": "/shop" }
+          ]
+        }
+      ]
+    },
+    {
+      "menuLabel": "Blog",
+      "menuLink": "/blog",
+      "category": null
+    },
+    {
+      "menuLabel": "Nosotros",
+      "menuLink": "/about",
+      "category": null
+    },
+    {
+      "menuLabel": "CLUB MOBADENT",
+      "menuLink": "/club-mobadent",
+      "category": null
+    }
+  ],
+  "filters": [
+    {
+      "category": "categoría",
+      "items": [
+        { "name": "Consumibles", "value": false },
+        { "name": "Instrumental", "value": false },
+        { "name": "Protección", "value": false },
+        { "name": "Anestesia", "value": false },
+        { "name": "Suturas", "value": false }
+      ]
+    }
+  ]
+}

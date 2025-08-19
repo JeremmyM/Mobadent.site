@@ -132,6 +132,13 @@
     flex-direction: column;
   }
 
+
+.vendorStyle {
+  color: red; /* O utiliza una variable de color si ya tienes una para rojo, por ejemplo: var(--standard-red); */
+  font-size: 14px; /* Mantén el mismo tamaño de fuente para consistencia */
+  line-height: 17px;
+}
+
 @media (max-width: 800px) {
     .bagContainer {
         opacity: 1;

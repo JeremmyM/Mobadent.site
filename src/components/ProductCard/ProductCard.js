@@ -75,7 +75,7 @@ const ProductCard = (props) => {
         <span className={styles.productName}>{name}</span>
         <div className={styles.pricesLayout}>
           {/* Muestra el nombre del proveedor en su propia línea */}
-          <span>{vendor}</span>
+          <span className={styles.vendorStyle}>{vendor}</span>
           {/* Muestra originalPrice en la siguiente línea si existe, sin dejar espacio en blanco si no */}
           {originalPrice && (
             <span className={styles.salePrice}>
