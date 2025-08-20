@@ -13,6 +13,8 @@ const ProductCardGrid = (props) => {
     gridTemplateColumns: `repeat(${columns}, 1fr)`,
   };
 
+const sortedData = data.sort((a, b) => a.orden - b.orden);
+
   const renderCards = () => {
     return data.map((product, index) => {
       return (

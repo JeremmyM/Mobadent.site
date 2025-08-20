@@ -1,6 +1,6 @@
-
 [
   {
+    "orden": 10,
     "id": "CEPI002",
     "productCode": "CEPI002",
     "name": "CEPILLO JIFFY DIAMANTADO EN PELO DE CABRA",
@@ -9,7 +9,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "PROMOCION",
     "image": "/products/main/CEPI002.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CEPI002.jpg"
+    ],
     "description": "Pulido preciso con pasta diamantada en zonas difíciles",
     "specs": "",
     "shipping": "",
@@ -18,6 +20,7 @@
     "meta": "CEPILLO JIFFY DIAMANTADO EN PELO DE CABRA x unidad"
   },
   {
+    "orden": 2,
     "id": "CEPI003",
     "productCode": "CEPI003",
     "name": "CEPILLO JIFFY DIAMANTADO EN PUNTA",
@@ -26,7 +29,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/CEPI003.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CEPI003.jpg"
+    ],
     "description": "Pulido preciso con pasta diamantada en zonas difíciles",
     "specs": "",
     "shipping": "",
@@ -35,6 +40,7 @@
     "meta": "CEPILLO JIFFY DIAMANTADO EN PUNTA x unidad"
   },
   {
+    "orden": 3,
     "id": "PIED004",
     "productCode": "PIED004",
     "name": "PIEDRAS ARKANSA FG ",
@@ -43,7 +49,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/PIED004.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PIED004.jpg"
+    ],
     "description": "Acabado fino en áreas profundas",
     "specs": "",
     "shipping": "",
@@ -52,6 +60,7 @@
     "meta": "PIEDRA ARKANSA FG BLANCA TOBOOM CONICA"
   },
   {
+    "orden": 4,
     "id": "PUNT005",
     "productCode": "PUNT005",
     "name": "PUNTAS DE PULIDO JIFFY",
@@ -60,7 +69,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/PUNT005.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PUNT005.jpg"
+    ],
     "description": "Grano fino, brillo final",
     "specs": "",
     "shipping": "",
@@ -69,6 +80,7 @@
     "meta": "PUNTAS DE PULIDO JIFFY x unidad (copa blanca) "
   },
   {
+    "orden": 5,
     "id": "PULI006",
     "productCode": "PULI006",
     "name": "PULIDORES DIATECH ",
@@ -77,7 +89,9 @@
     "vendor": "COLTENE",
     "originalPrice": "",
     "image": "/products/main/PULI006.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PULI006.jpg"
+    ],
     "description": "Sistema de 3 pasos para cerámica y metal",
     "specs": "",
     "shipping": "",
@@ -86,15 +100,18 @@
     "meta": "pulidores Diatech Coltene x CAJA"
   },
   {
+    "orden": 6,
     "id": "FRES007",
     "productCode": "FRES007",
-    "name": "FRESAS PARA PULIR FORMA BALON ORTHOTECHNOLOGY X UNIDAD",
+    "name": "FRESAS PARA PULIR FORMA BALON ORTHOTECHNOLOGY",
     "category": "Terminado",
-    "slug": "fresas-para-pulir-forma-balon-orthotechnology-x-unidad",
+    "slug": "fresas-para-pulir-forma-balon-orthotechnology",
     "vendor": "ORTHOTECNOLOGY",
     "originalPrice": "",
     "image": "/products/main/FRES007.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FRES007.jpg"
+    ],
     "description": "Fresas para pulir con forma de balón, ideales para acabado de resina. Se venden por unidad.",
     "specs": "",
     "shipping": "",
@@ -103,15 +120,18 @@
     "meta": "FRESAS para pulir forma balon ORTHOTECHNOLOGY X UNIDAD"
   },
   {
+    "orden": 7,
     "id": "KIT 008",
-    "productCode": "KIT-008",
+    "productCode": "KIT 008",
     "name": "KIT FRESA PULIR RESINA DORADAS FAVA X KIT",
     "category": "Terminado",
     "slug": "kit-fresa-pulir-resina-doradas-fava-x-kit",
     "vendor": "FAVA",
     "originalPrice": "",
     "image": "/products/main/KIT 008.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/KIT 008.jpg"
+    ],
     "description": "Kit de fresas doradas para pulido de resina, marca FAVA.",
     "specs": "",
     "shipping": "",
@@ -120,6 +140,7 @@
     "meta": "kit fresa pulir resina doradas FAVA x kit"
   },
   {
+    "orden": 8,
     "id": "DIAM009",
     "productCode": "DIAM009",
     "name": "DIAMOND POLISH MINT 0.5 PULIMENTO RESINA",
@@ -128,7 +149,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/DIAM009.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/DIAM009.jpg"
+    ],
     "description": "Pulimento para resina con partículas de diamante, sabor menta, en concentraciones 0.5 y 1.0.",
     "specs": "",
     "shipping": "",
@@ -137,6 +160,7 @@
     "meta": "DIAMOND POLISH MINT 0.5 PULIMENTO RESINA "
   },
   {
+    "orden": 9,
     "id": "DIAM010",
     "productCode": "DIAM010",
     "name": "DIAMOND POLISH MINT 1 PULIMENTO RESINA",
@@ -145,7 +169,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/DIAM010.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/DIAM010.jpg"
+    ],
     "description": "Sellante de composite para sellado marginal, en presentación individual.",
     "specs": "",
     "shipping": "",
@@ -154,6 +180,7 @@
     "meta": "DIAMOND POLISH MINT 1 PULIMENTO RESINA "
   },
   {
+    "orden": 1,
     "id": "PERM011",
     "productCode": "PERM011",
     "name": "PERMASEAL SNGLE KIT SELLANTE DE COMPOSITE",
@@ -162,7 +189,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/PERM011.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PERM011.jpg"
+    ],
     "description": "Barrera gingival fotopolimerizable, ideal para procedimientos de blanqueamiento.",
     "specs": "",
     "shipping": "",
@@ -171,6 +200,7 @@
     "meta": "PERMASEAL SNGLE KIT SELLANTE DE COMPOSITE"
   },
   {
+    "orden": 11,
     "id": "TOPD012",
     "productCode": "TOPD012",
     "name": "TOPDAM PROTECTOR GINGIVAL 5G",
@@ -179,7 +209,9 @@
     "vendor": "FGM",
     "originalPrice": "",
     "image": "/products/main/TOPD012.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TOPD012.jpg"
+    ],
     "description": "Gel grabador de ácido fosfórico al 37%, pack con 3 jeringas.",
     "specs": "",
     "shipping": "",
@@ -188,15 +220,18 @@
     "meta": "TOPDAM PROTECTOR GINGIVAL 5G"
   },
   {
+    "orden": 12,
     "id": "ACID013",
     "productCode": "ACID013",
-    "name": "ACIDO FGM CONDAC 37% (PACK X 3 JERINGAS)",
+    "name": "ACIDO FGM CONDAC 37%",
     "category": "Grabado y Adhesion",
-    "slug": "acido-fgm-condac-37-pack-x-3-jeringas-",
+    "slug": "acido-fgm-condac-37-",
     "vendor": "FGM",
     "originalPrice": "",
     "image": "/products/main/ACID013.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ACID013.jpg"
+    ],
     "description": "Gel grabador de ácido fosfórico al 35%, en presentación de 30ml.",
     "specs": "",
     "shipping": "",
@@ -205,6 +240,7 @@
     "meta": "ACIDO FGM CONDAC 37% (PACK X 3 JERINGAS)"
   },
   {
+    "orden": 13,
     "id": "ACID014",
     "productCode": "ACID014",
     "name": "ACIDO ULTRAETCH 30ML",
@@ -213,7 +249,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/ACID014.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ACID014.jpg"
+    ],
     "description": "Ácido fosfórico al 37%, en gel, presentación de 4g.",
     "specs": "",
     "shipping": "",
@@ -222,6 +260,7 @@
     "meta": "ACIDO ULTRAETCH 30ML"
   },
   {
+    "orden": 14,
     "id": "ACID015",
     "productCode": "ACID015",
     "name": "ACIDO GEL ALPHA-ETCH 37% 4GR",
@@ -230,7 +269,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/ACID015.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ACID015.jpg"
+    ],
     "description": "Agente de unión para cerámica y composite, presentación de 1.2ml.",
     "specs": "",
     "shipping": "",
@@ -239,6 +280,7 @@
     "meta": "ACIDO GEL ALPHA-ETCH 37% 4GR"
   },
   {
+    "orden": 15,
     "id": "SILA016",
     "productCode": "SILA016",
     "name": "SILANE 1.2ML ULTRADENT",
@@ -247,7 +289,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/SILA016.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/SILA016.jpg"
+    ],
     "description": "Ácido grabador de 3M, compatible con sistemas adhesivos.",
     "specs": "",
     "shipping": "",
@@ -256,6 +300,7 @@
     "meta": "SILANE 1.2ml ULTRADENT"
   },
   {
+    "orden": 16,
     "id": "SCOT017",
     "productCode": "SCOT017",
     "name": "SCOTCHBOND 3M ETCHANT",
@@ -264,7 +309,9 @@
     "vendor": "3M",
     "originalPrice": "",
     "image": "/products/main/SCOT017.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/SCOT017.jpg"
+    ],
     "description": "Ácido fluorhídrico para grabado de porcelana, presentación individual.",
     "specs": "",
     "shipping": "",
@@ -273,6 +320,7 @@
     "meta": "SCOTCHBOND 3M ETCHANT"
   },
   {
+    "orden": 17,
     "id": "PORC018",
     "productCode": "PORC018",
     "name": "PORCELAIN ETCH SINGLE ACIDO FLUORHIDRICO",
@@ -281,7 +329,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/PORC018.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PORC018.jpg"
+    ],
     "description": "Agujas dentales cortas, alta penetración, marca Septodont.",
     "specs": "",
     "shipping": "",
@@ -290,15 +340,18 @@
     "meta": "PORCELAIN ETCH SINGLE ACIDO FLUORHIDRICO"
   },
   {
+    "orden": 18,
     "id": "SEPT019",
     "productCode": "SEPT019",
-    "name": "SEPTOJECT XL CORTAS",
+    "name": "AGUJAS SEPTOJECT",
     "category": "Miscelaneo",
-    "slug": "septoject-xl-cortas",
+    "slug": "agujas-septoject",
     "vendor": "SEPTODONT",
     "originalPrice": "",
     "image": "/products/main/SEPT019.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/SEPT019.jpg"
+    ],
     "description": "Suturas de seda negra con aguja curva cortante de 19mm.",
     "specs": "",
     "shipping": "",
@@ -307,15 +360,18 @@
     "meta": "SEPTOJECT XL CORTAS"
   },
   {
+    "orden": 19,
     "id": "SMI 020",
-    "productCode": "SMI-020",
+    "productCode": "SMI 020",
     "name": "SMI SILK BLACK 3/0 AGUJA 3/8 REV CORTANTE 19MM",
     "category": "Miscelaneo",
     "slug": "smi-silk-black-3-0-aguja-3-8-rev-cortante-19mm",
     "vendor": "SMI",
     "originalPrice": "",
     "image": "/products/main/SMI 020.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/SMI 020.jpg"
+    ],
     "description": "Agujas finas para anestesia pediátrica, calibre 30G.",
     "specs": "",
     "shipping": "",
@@ -324,6 +380,7 @@
     "meta": "SMI SILK BLACK 3/0 AGUJA 3/8 REV CORTANTE 19MM"
   },
   {
+    "orden": 20,
     "id": "AGUJ021",
     "productCode": "AGUJ021",
     "name": "AGUJAS PEDIATRICAS 30G MISAWA",
@@ -332,7 +389,9 @@
     "vendor": "MISAWA",
     "originalPrice": "",
     "image": "/products/main/AGUJ021.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/AGUJ021.jpg"
+    ],
     "description": "Agujas largas calibre 27G, presentación de 100 unidades.",
     "specs": "",
     "shipping": "",
@@ -341,6 +400,7 @@
     "meta": "AGUJAS PEDIATRICAS 30G MISAWA"
   },
   {
+    "orden": 21,
     "id": "AGUJ022",
     "productCode": "AGUJ022",
     "name": "AGUJAS LARGAS 27G NOP 0.4X30MMX100",
@@ -349,7 +409,9 @@
     "vendor": "NOP",
     "originalPrice": "",
     "image": "/products/main/AGUJ022.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/AGUJ022.jpg"
+    ],
     "description": "Abreboca doble para adultos, marca Maquira.",
     "specs": "",
     "shipping": "",
@@ -358,6 +420,7 @@
     "meta": "AGUJAS LARGAS 27G NOP 0.4X30MMX100"
   },
   {
+    "orden": 22,
     "id": "ABRE023",
     "productCode": "ABRE023",
     "name": "ABRE-BOCA MAQUIRA ADULTO DOBLE",
@@ -366,7 +429,9 @@
     "vendor": "MAQUIRA",
     "originalPrice": "",
     "image": "/products/main/ABRE023.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ABRE023.jpg"
+    ],
     "description": "Gasa estéril para uso odontológico, marca Magic-Dent.",
     "specs": "",
     "shipping": "",
@@ -375,6 +440,7 @@
     "meta": "ABRE-BOCA MAQUIRA ADULTO DOBLE"
   },
   {
+    "orden": 23,
     "id": "GASA024",
     "productCode": "GASA024",
     "name": "GASA MAGIC-DENT",
@@ -383,7 +449,9 @@
     "vendor": "MAGIC-DENT",
     "originalPrice": "",
     "image": "/products/main/GASA024.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/GASA024.jpg"
+    ],
     "description": "Retractor transparente reutilizable para adultos.",
     "specs": "",
     "shipping": "",
@@ -392,6 +460,7 @@
     "meta": "GASA MAGIC-DENT "
   },
   {
+    "orden": 24,
     "id": "KLEE025",
     "productCode": "KLEE025",
     "name": "KLEERVIEW",
@@ -400,7 +469,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/KLEE025.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/KLEE025.jpg"
+    ],
     "description": "Versión infantil del KleerView, cómodo y esterilizable.",
     "specs": "",
     "shipping": "",
@@ -409,6 +480,7 @@
     "meta": "abre boca Kleerview Adult size"
   },
   {
+    "orden": 25,
     "id": "ABRE026",
     "productCode": "ABRE026",
     "name": "ABRE BOCA Y RETRACTOR DE LENGUA UMBRELLA ULTRADENT",
@@ -417,7 +489,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/ABRE026.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ABRE026.jpg"
+    ],
     "description": "Lidocaína al 2% con epinefrina, 50 cartuchos de vidrio.",
     "specs": "",
     "shipping": "",
@@ -426,6 +500,7 @@
     "meta": "abre boca y retractor de lengua Umbrella Ultradent"
   },
   {
+    "orden": 26,
     "id": "ANES027",
     "productCode": "ANES027",
     "name": "ANESTESICO LIDOCAINA VIDRIO X CAJA",
@@ -434,7 +509,9 @@
     "vendor": "NOP",
     "originalPrice": "",
     "image": "/products/main/ANES027.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ANES027.jpg"
+    ],
     "description": "Mepivacaína sin vasoconstrictor, presentación individual.",
     "specs": "",
     "shipping": "",
@@ -443,15 +520,18 @@
     "meta": "ANESTESICO LIDOCAINA VIDRIO X CAJA"
   },
   {
+    "orden": 27,
     "id": "SCAN028",
     "productCode": "SCAN028",
-    "name": "SCANDONEST 3% (POR UNIDAD)",
+    "name": "SCANDONEST 3%",
     "category": "Miscelaneo",
-    "slug": "scandonest-3-por-unidad-",
+    "slug": "scandonest-3-",
     "vendor": "SEPTODONT",
     "originalPrice": "",
     "image": "/products/main/SCAN028.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/SCAN028.jpg"
+    ],
     "description": "Caja con 50 carpules de Scandonest 3%, sin epinefrina.",
     "specs": "",
     "shipping": "",
@@ -460,32 +540,18 @@
     "meta": "SCANDONEST 3% (por unidad) "
   },
   {
-    "id": "SCAN029",
-    "productCode": "SCAN029",
-    "name": "SCANDONEST 3% (POR CAJA)",
-    "category": "Miscelaneo",
-    "slug": "scandonest-3-por-caja-",
-    "vendor": "SEPTODONT",
-    "originalPrice": "",
-    "image": "/products/main/SCAN029.jpg",
-    "gallery": [],
-    "description": "Carpules de Scandonest 3%, sin epinefrina, se venden por blister",
-    "specs": "",
-    "shipping": "",
-    "support": "",
-    "alt": "SCANDONEST 3% (por caja)",
-    "meta": "SCANDONEST 3% (por caja)"
-  },
-  {
+    "orden": 28,
     "id": "PAPE030",
     "productCode": "PAPE030",
-    "name": "PAPEL DE ARTICULAR BETCH RECTC X CAJA X 12 UNIDADES",
+    "name": "PAPEL DE ARTICULAR BETCH RECTC",
     "category": "Terminado",
-    "slug": "papel-de-articular-betch-rectc-x-caja-x-12-unidades",
+    "slug": "papel-de-articular-betch-rectc",
     "vendor": "BECHT",
     "originalPrice": "",
     "image": "/products/main/PAPE030.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PAPE030.jpg"
+    ],
     "description": "Papel bicolor recto, marca Becht, caja con 12 blocks.",
     "specs": "",
     "shipping": "",
@@ -494,6 +560,7 @@
     "meta": "PAPEL DE ARTICULAR BETCH RECTC x caja x 12 Unidades"
   },
   {
+    "orden": 29,
     "id": "PAPE031",
     "productCode": "PAPE031",
     "name": "PAPEL ARTICULAR ACCUFILM",
@@ -502,7 +569,9 @@
     "vendor": "PARKELL",
     "originalPrice": "",
     "image": "/products/main/PAPE031.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PAPE031.jpg"
+    ],
     "description": "Papel ultradelgado para oclusión precisa, 280 láminas.",
     "specs": "",
     "shipping": "",
@@ -511,6 +580,7 @@
     "meta": "papel articular ACCUFILM"
   },
   {
+    "orden": 30,
     "id": "DESE032",
     "productCode": "DESE032",
     "name": "DESENSIBILIZANTE FGM KT 2%",
@@ -519,7 +589,9 @@
     "vendor": "FGM",
     "originalPrice": "",
     "image": "/products/main/DESE032.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/DESE032.jpg"
+    ],
     "description": "Gel con nitrato de potasio y fluoruro de sodio, uso profesional.",
     "specs": "",
     "shipping": "",
@@ -528,6 +600,7 @@
     "meta": "DESENSIBILIZANTE FGM KT 2%"
   },
   {
+    "orden": 31,
     "id": "ULTR033",
     "productCode": "ULTR033",
     "name": "ULTRAEZ GEL DESENSIBILIZANTE",
@@ -536,7 +609,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/ULTR033.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ULTR033.jpg"
+    ],
     "description": "Gel con nitrato de potasio y flúor, alivio inmediato.",
     "specs": "",
     "shipping": "",
@@ -545,6 +620,7 @@
     "meta": "ULTRAEZ GEL DESENSIBILIZANTE"
   },
   {
+    "orden": 32,
     "id": "OPAL034",
     "productCode": "OPAL034",
     "name": "OPALECENSE ENDO",
@@ -553,7 +629,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/OPAL034.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/OPAL034.jpg"
+    ],
     "description": "Gel blanqueador para dientes no vitales, técnica “walking bleach”.",
     "specs": "",
     "shipping": "",
@@ -562,6 +640,7 @@
     "meta": "OPALECENSE ENDO "
   },
   {
+    "orden": 33,
     "id": "OPAL035",
     "productCode": "OPAL035",
     "name": "OPALECENSE BOOST",
@@ -570,7 +649,9 @@
     "vendor": "ULTRADENT ",
     "originalPrice": "",
     "image": "/products/main/OPAL035.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/OPAL035.jpg"
+    ],
     "description": "Blanqueamientos en consultorio, 40% peróxido de hidrógeno.",
     "specs": "",
     "shipping": "",
@@ -579,6 +660,7 @@
     "meta": "OPALECENSE BOOST"
   },
   {
+    "orden": 34,
     "id": "OPAL036",
     "productCode": "OPAL036",
     "name": "OPALUSTRE SINGLE",
@@ -587,7 +669,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/OPAL036.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/OPAL036.jpg"
+    ],
     "description": "Pasta abrasiva para manchas de fluorosis, con carburo de silicio.",
     "specs": "",
     "shipping": "",
@@ -596,6 +680,7 @@
     "meta": "OPALUSTRE SINGLE"
   },
   {
+    "orden": 35,
     "id": "WHIT037",
     "productCode": "WHIT037",
     "name": "WHITENESS HP 35% + TOPDAM",
@@ -604,7 +689,9 @@
     "vendor": "FGM",
     "originalPrice": "",
     "image": "/products/main/WHIT037.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/WHIT037.jpg"
+    ],
     "description": "Blanqueamientos clínico con peróxido de hidrógeno y barrera gingival.",
     "specs": "",
     "shipping": "",
@@ -613,6 +700,7 @@
     "meta": "WHITENESS HP 35% + TOPDAM"
   },
   {
+    "orden": 36,
     "id": "OPAL038",
     "productCode": "OPAL038",
     "name": "OPALECENSE 20% PF MENTA REFILL KIT X 2",
@@ -621,7 +709,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/OPAL038.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/OPAL038.jpg"
+    ],
     "description": "Kit de recarga con 4 jeringas de gel blanqueador al 20%.",
     "specs": "",
     "shipping": "",
@@ -630,6 +720,7 @@
     "meta": "OPALECENSE 20% PF MENTA REFILL KIT X 2 "
   },
   {
+    "orden": 37,
     "id": "OPAL039",
     "productCode": "OPAL039",
     "name": "OPALECENSE GO 10%",
@@ -638,7 +729,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/OPAL039.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/OPAL039.jpg"
+    ],
     "description": "Kit de bandejas precargadas con gel al 10%, uso ambulatorio.",
     "specs": "",
     "shipping": "",
@@ -647,6 +740,7 @@
     "meta": "OPALECENSE GO 10%"
   },
   {
+    "orden": 38,
     "id": "OXID040",
     "productCode": "OXID040",
     "name": "OXIDO DE ZINC EUFAR",
@@ -655,7 +749,9 @@
     "vendor": "EUFAR",
     "originalPrice": "",
     "image": "/products/main/OXID040.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/OXID040.jpg"
+    ],
     "description": "Polvo fino para preparar cemento con eugenol, frasco de 175g.",
     "specs": "",
     "shipping": "",
@@ -664,6 +760,7 @@
     "meta": "OXIDO DE ZINC EUFAR "
   },
   {
+    "orden": 39,
     "id": "HOJA041",
     "productCode": "HOJA041",
     "name": "HOJA DE BISTURI",
@@ -672,7 +769,9 @@
     "vendor": "SMI",
     "originalPrice": "",
     "image": "/products/main/HOJA041.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/HOJA041.jpg"
+    ],
     "description": "Hojas estériles de acero inoxidable, caja con 100 unidades.",
     "specs": "",
     "shipping": "",
@@ -681,6 +780,7 @@
     "meta": "HOJA DE BISTURI SMI #11 X CAJA"
   },
   {
+    "orden": 40,
     "id": "VISC042",
     "productCode": "VISC042",
     "name": "VISCOSTAR CLEAR JERINGA HEMOSTATICO",
@@ -689,7 +789,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/VISC042.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/VISC042.jpg"
+    ],
     "description": "Gel hemostático de cloruro de aluminio al 25%, ideal para zonas estéticas.",
     "specs": "",
     "shipping": "",
@@ -698,6 +800,7 @@
     "meta": "VISCOSTAR CLEAR JERINGA HEMOSTATICO "
   },
   {
+    "orden": 41,
     "id": "VISC043",
     "productCode": "VISC043",
     "name": "VISCOSTAR HEMOSTATICO SINGLE",
@@ -706,7 +809,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/VISC043.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/VISC043.jpg"
+    ],
     "description": "Gel hemostático de sulfato férrico, presentación individual.",
     "specs": "",
     "shipping": "",
@@ -715,6 +820,7 @@
     "meta": "VISCOSTAR HEMOSTATICO SINGLE"
   },
   {
+    "orden": 42,
     "id": "SEDA044",
     "productCode": "SEDA044",
     "name": "SEDA 3/0 SMI X UNIDAD",
@@ -723,7 +829,9 @@
     "vendor": "SMI",
     "originalPrice": "",
     "image": "/products/main/SEDA044.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/SEDA044.jpg"
+    ],
     "description": "Sutura de seda negra 3/0, esterilizada, con aguja curva.",
     "specs": "",
     "shipping": "",
@@ -732,6 +840,7 @@
     "meta": "SEDA 3/0 SMI X unidad"
   },
   {
+    "orden": 43,
     "id": "TIRA045",
     "productCode": "TIRA045",
     "name": "TIRAS DE LIJA PROFIDENT 4MM",
@@ -740,7 +849,9 @@
     "vendor": "POFIDENT",
     "originalPrice": "",
     "image": "/products/main/TIRA045.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TIRA045.jpg"
+    ],
     "description": "Tiras abrasivas de 4mm para acabado interproximal, marca Profident.",
     "specs": "",
     "shipping": "",
@@ -749,6 +860,7 @@
     "meta": "TIRAS DE LIJA PROFIDENT 4mm"
   },
   {
+    "orden": 44,
     "id": "TIRA046",
     "productCode": "TIRA046",
     "name": "TIRAS DE LIJA DE POLIESTER AIRON X PAQUETE",
@@ -757,7 +869,9 @@
     "vendor": "AIRON",
     "originalPrice": "",
     "image": "/products/main/TIRA046.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TIRA046.jpg"
+    ],
     "description": "Tiras flexibles de poliéster para contorneado y pulido, paquete surtido.",
     "specs": "",
     "shipping": "",
@@ -766,6 +880,7 @@
     "meta": "TIRAS DE LIJA DE POLIESTER AIRON x paquete"
   },
   {
+    "orden": 45,
     "id": "TIRA047",
     "productCode": "TIRA047",
     "name": "TIRAS DE LIJA COLTENE 4MM X PAQUETE",
@@ -774,7 +889,9 @@
     "vendor": "COLTENE",
     "originalPrice": "",
     "image": "/products/main/TIRA047.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TIRA047.jpg"
+    ],
     "description": "Tiras abrasivas de 4mm, doble cara, marca Coltene.",
     "specs": "",
     "shipping": "",
@@ -783,6 +900,7 @@
     "meta": "TIRAS DE LIJA COLTENE 4MM x paquete"
   },
   {
+    "orden": 46,
     "id": "TIRA048",
     "productCode": "TIRA048",
     "name": "TIRA AVRASIVA AIRON 125 MM X 4.0",
@@ -791,7 +909,9 @@
     "vendor": "AIRON",
     "originalPrice": "",
     "image": "/products/main/TIRA048.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TIRA048.jpg"
+    ],
     "description": "Tira larga de 125mm y 4mm de ancho, para acabado interproximal.",
     "specs": "",
     "shipping": "",
@@ -800,6 +920,7 @@
     "meta": "TIRA AVRASIVA AIRON 125 mm x 4.0"
   },
   {
+    "orden": 47,
     "id": "TIRA049",
     "productCode": "TIRA049",
     "name": "TIRAS DE LIJA COLTENE 6MM X PAQUETE",
@@ -808,7 +929,9 @@
     "vendor": "COLTENE",
     "originalPrice": "",
     "image": "/products/main/TIRA049.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TIRA049.jpg"
+    ],
     "description": "Tiras de 6mm para espacios amplios, doble cara, alta flexibilidad.",
     "specs": "",
     "shipping": "",
@@ -817,6 +940,7 @@
     "meta": "TIRAS DE LIJA COLTENE 6MM x paquete"
   },
   {
+    "orden": 48,
     "id": "DISC050",
     "productCode": "DISC050",
     "name": "DISCOS SOFLEX (3M) X20",
@@ -825,7 +949,9 @@
     "vendor": "3M",
     "originalPrice": "",
     "image": "/products/main/DISC050.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/DISC050.jpg"
+    ],
     "description": "Discos abrasivos para pulido y acabado, sistema de 4 granos, paquete de 20 unidades.",
     "specs": "",
     "shipping": "",
@@ -834,6 +960,7 @@
     "meta": "DISCOS SOFLEX (3m) X20"
   },
   {
+    "orden": 49,
     "id": "CAVE051",
     "productCode": "CAVE051",
     "name": "CAVEX CEMENTO TEMPORAL",
@@ -842,7 +969,9 @@
     "vendor": "CAVEX",
     "originalPrice": "",
     "image": "/products/main/CAVE051.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CAVE051.jpg"
+    ],
     "description": "Cemento temporal para restauraciones provisionales, fácil remoción.",
     "specs": "",
     "shipping": "",
@@ -851,6 +980,7 @@
     "meta": "CAVEX CEMENTO TEMPORAL "
   },
   {
+    "orden": 50,
     "id": "CEME052",
     "productCode": "CEME052",
     "name": "CEMENTO DUAL ALLCEM A2 C/ PTAS",
@@ -859,7 +989,9 @@
     "vendor": "FGM",
     "originalPrice": "",
     "image": "/products/main/CEME052.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CEME052.jpg"
+    ],
     "description": "Cemento resinoso dual (químico y foto), tono A2, incluye puntas de mezcla.",
     "specs": "",
     "shipping": "",
@@ -868,6 +1000,7 @@
     "meta": "CEMENTO DUAL ALLCEM A2 C/ PTAS"
   },
   {
+    "orden": 51,
     "id": "FUJI053",
     "productCode": "FUJI053",
     "name": "FUJI GOLD LABEL 1 MINI KIT 15G+10G",
@@ -876,7 +1009,9 @@
     "vendor": "GC",
     "originalPrice": "",
     "image": "/products/main/FUJI053.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FUJI053.jpg"
+    ],
     "description": "Ionómero de vidrio de alta resistencia, polvo 15g + líquido 10g.",
     "specs": "",
     "shipping": "",
@@ -885,6 +1020,7 @@
     "meta": "FUJI GOLD LABEL 1 MINI KIT 15G+10G"
   },
   {
+    "orden": 52,
     "id": "CEME054",
     "productCode": "CEME054",
     "name": "CEMENTO ALLCEM CORE A1",
@@ -893,7 +1029,9 @@
     "vendor": "FGM",
     "originalPrice": "",
     "image": "/products/main/CEME054.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CEME054.jpg"
+    ],
     "description": "Cemento dual para reconstrucción de muñones, tono A1.",
     "specs": "",
     "shipping": "",
@@ -902,15 +1040,18 @@
     "meta": "CEMENTO  ALLCEM CORE A1"
   },
   {
+    "orden": 53,
     "id": "GC S055",
-    "productCode": "GC-S055",
+    "productCode": "GC S055",
     "name": "GC SOLARE DIRECT P-A2 4.7GR (2.7ML)",
     "category": "Composites",
     "slug": "gc-solare-direct-p-a2-4-7gr-2-7ml-",
     "vendor": "GC",
     "originalPrice": "",
     "image": "/products/main/GC S055.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/GC S055.jpg"
+    ],
     "description": "Composites fotopolimerizable para posterior, tono A2, alta resistencia.",
     "specs": "",
     "shipping": "",
@@ -919,6 +1060,7 @@
     "meta": "GC SOLARE DIRECT P-A2 4.7GR (2.7ML)"
   },
   {
+    "orden": 54,
     "id": "RESI056",
     "productCode": "RESI056",
     "name": "RESINA GRANDIO",
@@ -927,7 +1069,9 @@
     "vendor": "VOCO",
     "originalPrice": "",
     "image": "/products/main/RESI056.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/RESI056.jpg"
+    ],
     "description": "Composites nanohíbrido de alta carga, tono A2, excelente estética.",
     "specs": "",
     "shipping": "",
@@ -936,6 +1080,7 @@
     "meta": "RESINA GRANDIO 4G A2"
   },
   {
+    "orden": 55,
     "id": "TETR057",
     "productCode": "TETR057",
     "name": "TETRIC-N-CERAMIC",
@@ -944,7 +1089,9 @@
     "vendor": "IVOCLAR",
     "originalPrice": "",
     "image": "/products/main/TETR057.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TETR057.jpg"
+    ],
     "description": "Composites universal con nanotecnología, tono A1, incluye 2 jeringas.",
     "specs": "",
     "shipping": "",
@@ -953,6 +1100,7 @@
     "meta": "TETRIC-N-CERAMIC 2 JERINGAS A1"
   },
   {
+    "orden": 56,
     "id": "FILT058",
     "productCode": "FILT058",
     "name": "FILTEK P60",
@@ -961,7 +1109,9 @@
     "vendor": "3M",
     "originalPrice": "",
     "image": "/products/main/FILT058.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FILT058.jpg"
+    ],
     "description": "Composites para posteriores, tono B2, alta resistencia al desgaste.",
     "specs": "",
     "shipping": "",
@@ -970,6 +1120,7 @@
     "meta": "RESINA FILTEK P60 B2"
   },
   {
+    "orden": 57,
     "id": "VIT-059",
     "productCode": "VIT-059",
     "name": "VIT-L-ESCENCE",
@@ -978,7 +1129,9 @@
     "vendor": " ULTRADENT ",
     "originalPrice": "",
     "image": "/products/main/VIT-059.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/VIT-059.jpg"
+    ],
     "description": "Composites estético con alta fluorescencia, tono A2.",
     "specs": "",
     "shipping": "",
@@ -987,6 +1140,7 @@
     "meta": "VIT-L-ESCENCE A2"
   },
   {
+    "orden": 58,
     "id": "FILT060",
     "productCode": "FILT060",
     "name": "FILTEK BULK ONE A1 (3M)",
@@ -995,7 +1149,9 @@
     "vendor": "3M",
     "originalPrice": "",
     "image": "/products/main/FILT060.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FILT060.jpg"
+    ],
     "description": "Composites de relleno en bloque, tono A1, aplicación en una sola capa.",
     "specs": "",
     "shipping": "",
@@ -1004,6 +1160,7 @@
     "meta": "FILTEK BULK ONE A1 (3M)"
   },
   {
+    "orden": 59,
     "id": "PERM061",
     "productCode": "PERM061",
     "name": "PERMAFLOO PINK FLUIDA",
@@ -1012,7 +1169,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/PERM061.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PERM061.jpg"
+    ],
     "description": "Composites fluido rosa para restauraciones gingivales estéticas.",
     "specs": "",
     "shipping": "",
@@ -1021,6 +1180,7 @@
     "meta": "PERMAFLOO PINK FLUIDA"
   },
   {
+    "orden": 60,
     "id": "WETT062",
     "productCode": "WETT062",
     "name": "WETTING RESIN SINGLE HUMECTANTE",
@@ -1029,7 +1189,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/WETT062.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/WETT062.jpg"
+    ],
     "description": "Resina humectante para modelado de capas de composite, mejora la adhesión.",
     "specs": "",
     "shipping": "",
@@ -1038,6 +1200,7 @@
     "meta": "WETTING RESIN SINGLE HUMECTANTE "
   },
   {
+    "orden": 61,
     "id": "ADHE063",
     "productCode": "ADHE063",
     "name": "ADHESIVO SINGLE BOND 2 - 6 GR",
@@ -1046,7 +1209,9 @@
     "vendor": "3M",
     "originalPrice": "",
     "image": "/products/main/ADHE063.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ADHE063.jpg"
+    ],
     "description": "Adhesivo universal de 3M, con nanorelleno, compatible con dentina húmeda.",
     "specs": "",
     "shipping": "",
@@ -1055,6 +1220,7 @@
     "meta": "ADHESIVO SINGLE BOND 2 - 6 gr "
   },
   {
+    "orden": 62,
     "id": "NAVI064",
     "productCode": "NAVI064",
     "name": "NAVITIP CELESTES X UNIDAD",
@@ -1063,7 +1229,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/NAVI064.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/NAVI064.jpg"
+    ],
     "description": "Punta aplicadora flexible, calibre fino, color celeste.",
     "specs": "",
     "shipping": "",
@@ -1072,6 +1240,7 @@
     "meta": "NAVITIP CELESTES X UNIDAD"
   },
   {
+    "orden": 63,
     "id": "LIMA065",
     "productCode": "LIMA065",
     "name": "LIMAS NITIFLEX 15-40 25MM",
@@ -1080,7 +1249,9 @@
     "vendor": "MAILLEFER",
     "originalPrice": "",
     "image": "/products/main/LIMA065.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/LIMA065.jpg"
+    ],
     "description": "Limas endodónticas flexibles de NiTi, rango 15–40, longitud 25mm.",
     "specs": "",
     "shipping": "",
@@ -1089,6 +1260,7 @@
     "meta": "LIMAS NITIFLEX 15-40 25MM"
   },
   {
+    "orden": 64,
     "id": "LIMA066",
     "productCode": "LIMA066",
     "name": "LIMAS TDK FILLES 008 X 25 MM X CAJA",
@@ -1097,7 +1269,9 @@
     "vendor": "MAILLEFER",
     "originalPrice": "",
     "image": "/products/main/LIMA066.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/LIMA066.jpg"
+    ],
     "description": "Limas manuales calibre 008, longitud 25mm, caja surtida.",
     "specs": "",
     "shipping": "",
@@ -1106,6 +1280,7 @@
     "meta": "LIMAS TDK FILLES 008 X 25 MM X CAJA"
   },
   {
+    "orden": 65,
     "id": "LIMA067",
     "productCode": "LIMA067",
     "name": "LIMAS K M-ACCES 15-45 X 31 MM X CAJA",
@@ -1114,7 +1289,9 @@
     "vendor": "MAILLEFER",
     "originalPrice": "",
     "image": "/products/main/LIMA067.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/LIMA067.jpg"
+    ],
     "description": "Limas tipo K, rango 15–45, longitud 31mm, alta resistencia.",
     "specs": "",
     "shipping": "",
@@ -1123,6 +1300,7 @@
     "meta": "LIMAS K M-ACCES 15-45 X 31 mm X CAJA"
   },
   {
+    "orden": 66,
     "id": "LIMA068",
     "productCode": "LIMA068",
     "name": "LIMAS K FLEXOFILE ACCES 15 -25MM X CAJA",
@@ -1131,7 +1309,9 @@
     "vendor": "MAILLEFER",
     "originalPrice": "",
     "image": "/products/main/LIMA068.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/LIMA068.jpg"
+    ],
     "description": "Limas Flexofile, rango 15–25, longitud 25mm, excelente flexibilidad.",
     "specs": "",
     "shipping": "",
@@ -1140,6 +1320,7 @@
     "meta": "LIMAS K FLEXOFILE ACCES 15 -25mm X CAJA"
   },
   {
+    "orden": 67,
     "id": "LIMA069",
     "productCode": "LIMA069",
     "name": "LIMAS K FLEXOFILE ACCES 31MM X CAJA",
@@ -1148,7 +1329,9 @@
     "vendor": "MAILLEFER",
     "originalPrice": "",
     "image": "/products/main/LIMA069.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/LIMA069.jpg"
+    ],
     "description": "Mismo sistema, longitud 31mm, para conductos largos.",
     "specs": "",
     "shipping": "",
@@ -1157,6 +1340,7 @@
     "meta": "LIMAS K FLEXOFILE ACCES 31MM X CAJA"
   },
   {
+    "orden": 68,
     "id": "CAPI070",
     "productCode": "CAPI070",
     "name": "CAPILLARY TIPS X UNIDAD VERDE 0.19 0.48MM",
@@ -1165,7 +1349,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/CAPI070.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CAPI070.jpg"
+    ],
     "description": "Puntas capilares verdes, diámetro 0.19–0.48mm, para aplicación precisa.",
     "specs": "",
     "shipping": "",
@@ -1174,6 +1360,7 @@
     "meta": "CAPILLARY TIPS X UNIDAD VERDE 0.19 0.48mm"
   },
   {
+    "orden": 69,
     "id": "LIMA071",
     "productCode": "LIMA071",
     "name": "LIMAS K-FILE ACCES",
@@ -1182,7 +1369,9 @@
     "vendor": "MAILLEFER",
     "originalPrice": "",
     "image": "/products/main/LIMA071.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/LIMA071.jpg"
+    ],
     "description": "Limas tipo K, calibre 10, longitud 25mm, caja completa.",
     "specs": "",
     "shipping": "",
@@ -1191,6 +1380,7 @@
     "meta": "LIMAS K-FILE ACCES 10 X 25 mm x caja"
   },
   {
+    "orden": 70,
     "id": "LIMA072",
     "productCode": "LIMA072",
     "name": "LIMAS KENDO TIPO 15 - 40 X 31 MM",
@@ -1199,7 +1389,9 @@
     "vendor": "KENDO",
     "originalPrice": "",
     "image": "/products/main/LIMA072.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/LIMA072.jpg"
+    ],
     "description": "Limas tipo Kendo, rango 15–40, longitud 31mm, alta eficiencia de corte.",
     "specs": "",
     "shipping": "",
@@ -1208,6 +1400,7 @@
     "meta": "LIMAS KENDO TIPO 15 - 40 X 31 mm"
   },
   {
+    "orden": 71,
     "id": "FRES073",
     "productCode": "FRES073",
     "name": "FRESAS ENDO Z",
@@ -1216,7 +1409,9 @@
     "vendor": " ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/FRES073.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FRES073.jpg"
+    ],
     "description": "Fresa de carburo con punta inactiva y corte helicoidal, ideal para la apertura pulpar.",
     "specs": "",
     "shipping": "",
@@ -1225,6 +1420,7 @@
     "meta": "FRESAS ENDO Z"
   },
   {
+    "orden": 72,
     "id": "ENDO074",
     "productCode": "ENDO074",
     "name": "ENDO EZE X CAJA X 22 U",
@@ -1233,7 +1429,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/ENDO074.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ENDO074.jpg"
+    ],
     "description": "Puntas de irrigación lateral, diseñadas para evitar la extrusión apical. Son compatibles con las puntas NaviTip.",
     "specs": "",
     "shipping": "",
@@ -1242,6 +1440,7 @@
     "meta": "ENDO EZE X CAJA X 22 U"
   },
   {
+    "orden": 73,
     "id": "SPID075",
     "productCode": "SPID075",
     "name": "SPIDENT CONOS DE PAPEL ISO #15 / CAJA X 200",
@@ -1250,7 +1449,9 @@
     "vendor": "SEPTODONT",
     "originalPrice": "",
     "image": "/products/main/SPID075.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/SPID075.jpg"
+    ],
     "description": "Puntas absorbentes ISO #15–40, elaboradas a mano para una alta capacidad de absorción.",
     "specs": "",
     "shipping": "",
@@ -1259,6 +1460,7 @@
     "meta": "SPIDENT CONOS DE PAPEL ISO #15 / CAJA X 200"
   },
   {
+    "orden": 74,
     "id": "CONO076",
     "productCode": "CONO076",
     "name": "CONOS DE GUTAPERCHA ",
@@ -1267,7 +1469,9 @@
     "vendor": "SPIDENT",
     "originalPrice": "",
     "image": "/products/main/CONO076.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CONO076.jpg"
+    ],
     "description": "Conos ISO estandarizados con alta precisión y radiopacidad, perfectos para la obturación del conducto.",
     "specs": "",
     "shipping": "",
@@ -1276,6 +1480,7 @@
     "meta": "CONOS DE GUTAPERCHA ISO 15-40  x caja X 120"
   },
   {
+    "orden": 75,
     "id": "BLIS077",
     "productCode": "BLIS077",
     "name": "BLISTER ENDODONCIA TIRA NERVIOS 0-6 21MMX BLISTER",
@@ -1284,7 +1489,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/BLIS077.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/BLIS077.jpg"
+    ],
     "description": "Blíster con 10 instrumentos metálicos flexibles para la extirpación pulpar.",
     "specs": "",
     "shipping": "",
@@ -1293,6 +1500,7 @@
     "meta": "BLISTER ENDODONCIA TIRA NERVIOS 0-6 21mmX BLISTER"
   },
   {
+    "orden": 76,
     "id": "LIMA078",
     "productCode": "LIMA078",
     "name": "LIMAS K FILE A012 0.25X21MM X CAJA",
@@ -1301,7 +1509,9 @@
     "vendor": "MAILLEFER",
     "originalPrice": "",
     "image": "/products/main/LIMA078.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/LIMA078.jpg"
+    ],
     "description": "Limas de acero inoxidable ISO 25, con punta inactiva y alta resistencia.",
     "specs": "",
     "shipping": "",
@@ -1310,6 +1520,7 @@
     "meta": "LIMAS K FILE A012 0.25X21mm x caja"
   },
   {
+    "orden": 77,
     "id": "EUGE079",
     "productCode": "EUGE079",
     "name": "EUGENOL MAQUIRA RESTAURADOR",
@@ -1318,7 +1529,9 @@
     "vendor": "MAQUIRA",
     "originalPrice": "",
     "image": "/products/main/EUGE079.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/EUGE079.jpg"
+    ],
     "description": "Líquido oleoso con propiedades antisépticas, que se usa comúnmente en combinación con óxido de zinc.",
     "specs": "",
     "shipping": "",
@@ -1327,6 +1540,7 @@
     "meta": "Eugenol Maquira restaurador "
   },
   {
+    "orden": 78,
     "id": "ULTR080",
     "productCode": "ULTR080",
     "name": "ULTRATEC GAFAS PROTECTORAS LUZ ALOGENA",
@@ -1335,7 +1549,9 @@
     "vendor": " ULTRADENT ",
     "originalPrice": "",
     "image": "/products/main/ULTR080.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ULTR080.jpg"
+    ],
     "description": "Lentes de protección con filtro naranja que bloquean la luz UV de las lámparas de fotopolimerización.",
     "specs": "",
     "shipping": "",
@@ -1344,6 +1560,7 @@
     "meta": "ULTRATEC GAFAS PROTECTORAS LUZ ALOGENA "
   },
   {
+    "orden": 79,
     "id": "ULTR081",
     "productCode": "ULTR081",
     "name": "ULTRATEC GAFAS PROTECTORAS",
@@ -1352,7 +1569,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/ULTR081.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ULTR081.jpg"
+    ],
     "description": "Gafas de policarbonato con protección lateral para los ojos, cómodas y resistentes.",
     "specs": "",
     "shipping": "",
@@ -1361,6 +1580,7 @@
     "meta": "ULTRATEC GAFAS PROTECTORAS"
   },
   {
+    "orden": 80,
     "id": "MICR082",
     "productCode": "MICR082",
     "name": "MICROMOTOR NSK EX-203C SET",
@@ -1369,7 +1589,9 @@
     "vendor": "NSK",
     "originalPrice": "",
     "image": "/products/main/MICR082.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/MICR082.jpg"
+    ],
     "description": "Un set completo que incluye contraángulo, pieza recta y un motor neumático, todo autoclavable.",
     "specs": "",
     "shipping": "",
@@ -1378,6 +1600,7 @@
     "meta": "MICROMOTOR NSK EX-203C SET"
   },
   {
+    "orden": 81,
     "id": "PRIM083",
     "productCode": "PRIM083",
     "name": "PRIMA DENTAL - FRESA ZEKRYA 151 23MM / ZEK151",
@@ -1386,7 +1609,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/PRIM083.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PRIM083.jpg"
+    ],
     "description": "Fresa quirúrgica para seccionar raíces, que proporciona un corte suave con mínima vibración.",
     "specs": "",
     "shipping": "",
@@ -1395,6 +1620,7 @@
     "meta": "PRIMA DENTAL - FRESA ZEKRYA 151 23MM / ZEK151"
   },
   {
+    "orden": 82,
     "id": "FRES084",
     "productCode": "FRES084",
     "name": "FRESA TALLADO INTERPROXIMAL",
@@ -1403,7 +1629,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/FRES084.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FRES084.jpg"
+    ],
     "description": "Fresa diamantada ideal para el contorneado interdental y el stripping.",
     "specs": "",
     "shipping": "",
@@ -1412,6 +1640,7 @@
     "meta": "FRESA TALLADO INTERPROXIMAL"
   },
   {
+    "orden": 83,
     "id": "FRES085",
     "productCode": "FRES085",
     "name": "FRESAS PEESO",
@@ -1420,7 +1649,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/FRES085.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FRES085.jpg"
+    ],
     "description": "Fresas de acero inoxidable de 32 mm de longitud para ensanchamiento cervical.",
     "specs": "",
     "shipping": "",
@@ -1429,6 +1660,7 @@
     "meta": "FRESAS PEESO No 1 X CAJA "
   },
   {
+    "orden": 84,
     "id": "FRES086",
     "productCode": "FRES086",
     "name": "FRESAS GATES",
@@ -1437,7 +1669,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/FRES086.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FRES086.jpg"
+    ],
     "description": "Ensanchadores Gates de acero inoxidable para la apertura coronal.",
     "specs": "",
     "shipping": "",
@@ -1446,6 +1680,7 @@
     "meta": "FRESAS GATES LARGAS No 3 X 32 mm"
   },
   {
+    "orden": 85,
     "id": "ULTR087",
     "productCode": "ULTR087",
     "name": "ULTRA CAL XS SINGLE KIT HIDROXIDO DE CALCIO",
@@ -1454,7 +1689,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/ULTR087.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ULTR087.jpg"
+    ],
     "description": "Pasta de hidróxido de calcio al 35% con un pH de 12.5 y propiedades antibacterianas, que incluye puntas NaviTip.",
     "specs": "",
     "shipping": "",
@@ -1463,6 +1700,7 @@
     "meta": "ULTRA CAL XS SINGLE KIT HIDROXIDO DE CALCIO"
   },
   {
+    "orden": 86,
     "id": "FRES088",
     "productCode": "FRES088",
     "name": "FRESA DTE REDONDA 1012 FAVA X UNIDAD",
@@ -1471,7 +1709,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/FRES088.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FRES088.jpg"
+    ],
     "description": "Fresa diamantada esférica de grano medio, ideal para acceso a la cavidad.",
     "specs": "",
     "shipping": "",
@@ -1480,6 +1720,7 @@
     "meta": "FRESA DTE redonda 1012 FAVA X unidad"
   },
   {
+    "orden": 87,
     "id": "FRES089",
     "productCode": "FRES089",
     "name": "FRESA DTE REDONDA GRANDE 1014 FAVA X UNIDAD",
@@ -1488,7 +1729,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/FRES089.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FRES089.jpg"
+    ],
     "description": "Fresa esférica de diamante de grano medio, para preparaciones dentales generales.",
     "specs": "",
     "shipping": "",
@@ -1497,6 +1740,7 @@
     "meta": "FRESA DTE REDONDA GRANDE 1014 FAVA x unidad"
   },
   {
+    "orden": 88,
     "id": "FRES090",
     "productCode": "FRES090",
     "name": "FRESA DTE REDONDA 3071 X UNIDAD",
@@ -1505,7 +1749,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/FRES090.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FRES090.jpg"
+    ],
     "description": "Fresa redonda diamantada MDT con alta exposición de diamante y grano medio.",
     "specs": "",
     "shipping": "",
@@ -1514,6 +1760,7 @@
     "meta": "FRESA DTE REDONDA 3071 X unidad"
   },
   {
+    "orden": 89,
     "id": "FRES091",
     "productCode": "FRES091",
     "name": "FRESAS ULTRADENT X UNIDAD",
@@ -1522,7 +1769,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/FRES091.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FRES091.jpg"
+    ],
     "description": "Fresa UniCore Drill, revestida en diamante, con punta que genera calor para un corte más rápido.",
     "specs": "",
     "shipping": "",
@@ -1531,15 +1780,18 @@
     "meta": "FRESAS ULTRADENT X UNIDAD"
   },
   {
+    "orden": 90,
     "id": "KIT 092",
-    "productCode": "KIT-092",
+    "productCode": "KIT 092",
     "name": "KIT KENDO FRESAS TALLADO ANTERIOR X KIT",
     "category": "Preparacion",
     "slug": "kit-kendo-fresas-tallado-anterior-x-kit",
     "vendor": "KENDO",
     "originalPrice": "",
     "image": "/products/main/KIT 092.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/KIT 092.jpg"
+    ],
     "description": "Kit de 10 fresas diamantadas superfinas, diseñadas para el tallado de cerámica y composite.",
     "specs": "",
     "shipping": "",
@@ -1548,6 +1800,7 @@
     "meta": "Kit kendo fresas tallado anterior x kit"
   },
   {
+    "orden": 91,
     "id": "FRES093",
     "productCode": "FRES093",
     "name": "FRESAS MULTILAMINADAS SSWHITE GW-2",
@@ -1556,7 +1809,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/FRES093.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FRES093.jpg"
+    ],
     "description": "Fresa de carburo Great White, con un corte eficiente en materiales duros.",
     "specs": "",
     "shipping": "",
@@ -1565,6 +1820,7 @@
     "meta": "Fresas multilaminadas SSWHITE GW-2"
   },
   {
+    "orden": 92,
     "id": "FRES094",
     "productCode": "FRES094",
     "name": "FRESAS DIAMANTE FISURA X UNIDAD",
@@ -1573,7 +1829,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/FRES094.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FRES094.jpg"
+    ],
     "description": "Fresa diamantada para fisuras, que proporciona un corte preciso y duradero.",
     "specs": "",
     "shipping": "",
@@ -1582,6 +1840,7 @@
     "meta": "FRESAS DIAMANTE FISURA X UNIDAD"
   },
   {
+    "orden": 93,
     "id": "FRES095",
     "productCode": "FRES095",
     "name": "FRESAS DIAMANTE CONO INVERTIDO GRANDE X UNIDAD",
@@ -1590,7 +1849,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/FRES095.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FRES095.jpg"
+    ],
     "description": "Fresa MDT con forma de cono invertido y alta exposición de diamante.",
     "specs": "",
     "shipping": "",
@@ -1599,6 +1860,7 @@
     "meta": "FRESAS DIAMANTE CONO INVERTIDO GRANDE X UNIDAD"
   },
   {
+    "orden": 94,
     "id": "FRES096",
     "productCode": "FRES096",
     "name": "FRESAS DIAMANTE CONO INVERTIDO PEQUEÑO X UNIDAD",
@@ -1607,7 +1869,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/FRES096.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FRES096.jpg"
+    ],
     "description": "Fresa Edenta de 1.4 mm, con diamantado multicapa para una alta precisión.",
     "specs": "",
     "shipping": "",
@@ -1616,6 +1880,7 @@
     "meta": "FRESAS DIAMANTE CONO INVERTIDO PEQUEÑO X UNIDAD"
   },
   {
+    "orden": 95,
     "id": "FRES097",
     "productCode": "FRES097",
     "name": "FRESAS DIAMANTE REDONDA 0.16",
@@ -1624,7 +1889,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/FRES097.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FRES097.jpg"
+    ],
     "description": "Fresa Kerr de grano grueso con doble densidad de diamante y alto rendimiento.",
     "specs": "",
     "shipping": "",
@@ -1633,6 +1900,7 @@
     "meta": "FRESAS DIAMANTE REDONDA 0.16"
   },
   {
+    "orden": 96,
     "id": "FRES098",
     "productCode": "FRES098",
     "name": "FRESA DE CARBURO TUGSTENO",
@@ -1641,7 +1909,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/FRES098.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FRES098.jpg"
+    ],
     "description": "Fresa redonda FG2, ideal para perforación y excavación de caries.",
     "specs": "",
     "shipping": "",
@@ -1650,6 +1920,7 @@
     "meta": "FRESA CARBURO No 2 REDONDAS X UNIDAD"
   },
   {
+    "orden": 97,
     "id": "FRES099",
     "productCode": "FRES099",
     "name": "FRESAS JOTA CARBURO FG-023 X UNIDAD",
@@ -1658,7 +1929,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/FRES099.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FRES099.jpg"
+    ],
     "description": "Fresa redonda Jota FG023 para turbina, que ofrece una alta precisión.",
     "specs": "",
     "shipping": "",
@@ -1667,6 +1940,7 @@
     "meta": "FRESAS JOTA CARBURO FG-023 X UNIDAD"
   },
   {
+    "orden": 98,
     "id": "ULTR100",
     "productCode": "ULTR100",
     "name": "ULTRA BLEND PLUS DENTIN HIDROXIDO DE CALCIO",
@@ -1675,7 +1949,9 @@
     "vendor": " ULTRADENT ",
     "originalPrice": "",
     "image": "/products/main/ULTR100.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ULTR100.jpg"
+    ],
     "description": "Forro cavitario fotopolimerizable con una adhesión de 3-5 MPa, no se disuelve con el tiempo.",
     "specs": "",
     "shipping": "",
@@ -1684,6 +1960,7 @@
     "meta": "ULTRA BLEND PLUS DENTIN HIDROXIDO DE CALCIO "
   },
   {
+    "orden": 99,
     "id": "ESPE101",
     "productCode": "ESPE101",
     "name": "ESPEJO ECONOMICO HAHNENKRAFT/PLANO X CAJA",
@@ -1692,7 +1969,9 @@
     "vendor": "HAHNENKRAFT",
     "originalPrice": "",
     "image": "/products/main/ESPE101.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ESPE101.jpg"
+    ],
     "description": "Espejo Hahnenkratt Economy que ofrece una alta calidad de imagen y se vende en una caja de 12 unidades.",
     "specs": "",
     "shipping": "",
@@ -1701,6 +1980,7 @@
     "meta": "ESPEJO ECONOMICO HAHNENKRAFT/PLANO x CAJA"
   },
   {
+    "orden": 100,
     "id": "SACA102",
     "productCode": "SACA102",
     "name": "SACA FRESAS MAAWA",
@@ -1709,7 +1989,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/SACA102.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/SACA102.jpg"
+    ],
     "description": "Turbina NSK con un sistema push para facilitar la extracción de las fresas.",
     "specs": "",
     "shipping": "",
@@ -1718,6 +2000,7 @@
     "meta": "Saca fresas MAAWA"
   },
   {
+    "orden": 101,
     "id": "FORC103",
     "productCode": "FORC103",
     "name": "FORCEP PICO DE LORO FINO (ADULTO)",
@@ -1726,7 +2009,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/FORC103.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FORC103.jpg"
+    ],
     "description": "Fórcep fino para la extracción de dientes anteriores superiores.",
     "specs": "",
     "shipping": "",
@@ -1735,6 +2020,7 @@
     "meta": "FORCEP PICO DE LORO FINO (ADULTO)"
   },
   {
+    "orden": 102,
     "id": "ESPE104",
     "productCode": "ESPE104",
     "name": "ESPEJO BUCAL MANGO HANKEKRAT",
@@ -1743,7 +2029,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/ESPE104.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ESPE104.jpg"
+    ],
     "description": "Mango Ergoform Hahnenkratt, fabricado en fibra de vidrio, esterilizable y con un diseño ergonómico.",
     "specs": "",
     "shipping": "",
@@ -1752,6 +2040,7 @@
     "meta": "ESPEJO BUCAL MANGO HANKEKRAT"
   },
   {
+    "orden": 103,
     "id": "CALI105",
     "productCode": "CALI105",
     "name": "CALIBRADOR DENTAL 10 CM DIAMOND",
@@ -1760,7 +2049,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/CALI105.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CALI105.jpg"
+    ],
     "description": "Calibrador Iwanson de 10 cm, hecho de acero inoxidable, para medir restauraciones.",
     "specs": "",
     "shipping": "",
@@ -1769,6 +2060,7 @@
     "meta": "calibrador dental 10 cm DIAMOND"
   },
   {
+    "orden": 104,
     "id": "BLOQ106",
     "productCode": "BLOQ106",
     "name": "BLOQUE CERA AMARILLA TOPWAX X UNIDAD",
@@ -1777,7 +2069,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/BLOQ106.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/BLOQ106.jpg"
+    ],
     "description": "Cera dental amarilla Topwax, utilizada como base para modelado, con alta durabilidad.",
     "specs": "",
     "shipping": "",
@@ -1786,6 +2080,7 @@
     "meta": "bloque cera amarilla TOPWAX x unidad"
   },
   {
+    "orden": 105,
     "id": "META107",
     "productCode": "META107",
     "name": "METAL VERA PDN CROMO X 200GR",
@@ -1794,7 +2089,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/META107.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/META107.jpg"
+    ],
     "description": "Aleación de cromo-cobalto Vera PDN, de alta resistencia, utilizada para prótesis dentales.",
     "specs": "",
     "shipping": "",
@@ -1803,6 +2100,7 @@
     "meta": "METAL VERA PDN CROMO X 200GR"
   },
   {
+    "orden": 106,
     "id": "T-RE108",
     "productCode": "T-RE108",
     "name": "T-REAL DIENTES",
@@ -1811,7 +2109,9 @@
     "vendor": "NEW STETIC",
     "originalPrice": "",
     "image": "/products/main/T-RE108.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/T-RE108.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -1820,6 +2120,7 @@
     "meta": "T-REAL MUELA 30L UP 66"
   },
   {
+    "orden": 107,
     "id": "VASO109",
     "productCode": "VASO109",
     "name": "VASO DAPPEN",
@@ -1828,7 +2129,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/VASO109.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/VASO109.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -1837,6 +2140,7 @@
     "meta": "VASO DAPPEN"
   },
   {
+    "orden": 108,
     "id": "CUCH110",
     "productCode": "CUCH110",
     "name": "CUCHILLO PARA CERA FAHENSTOCK 13 CM DIAMOND",
@@ -1845,7 +2149,9 @@
     "vendor": "FAHENSTOCK ",
     "originalPrice": "",
     "image": "/products/main/CUCH110.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CUCH110.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -1854,6 +2160,7 @@
     "meta": "Cuchillo para cera FAHENSTOCK 13 cm DIAMOND"
   },
   {
+    "orden": 109,
     "id": "PAST111",
     "productCode": "PAST111",
     "name": "PASTA P/PULIR ALTO BRILLO TIGER",
@@ -1862,7 +2169,9 @@
     "vendor": "TIGER",
     "originalPrice": "",
     "image": "/products/main/PAST111.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PAST111.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -1871,15 +2180,18 @@
     "meta": "PASTA P/PULIR ALTO BRILLO TIGER"
   },
   {
+    "orden": 110,
     "id": "LÁMI112",
-    "productCode": "L-MI112",
+    "productCode": "LÁMI112",
     "name": "LÁMINA CERA ROSADA X UNIDAD",
     "category": "Laboratorio",
     "slug": "l-mina-cera-rosada-x-unidad",
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/LÁMI112.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/LÁMI112.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -1888,6 +2200,7 @@
     "meta": "Lámina cera rosada x unidad"
   },
   {
+    "orden": 111,
     "id": "CERA113",
     "productCode": "CERA113",
     "name": "CERA MALLA DE CONTENCIÓN X UNIDAD",
@@ -1896,7 +2209,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/CERA113.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CERA113.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -1905,6 +2220,7 @@
     "meta": "cera malla de contención x unidad"
   },
   {
+    "orden": 112,
     "id": "MODE114",
     "productCode": "MODE114",
     "name": "MODELO DENTAL OM 869",
@@ -1913,7 +2229,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/MODE114.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/MODE114.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -1922,6 +2240,7 @@
     "meta": "Modelo Dental OM 869"
   },
   {
+    "orden": 113,
     "id": "PIED115",
     "productCode": "PIED115",
     "name": "PIEDRA AZUL CILINDRICAS PARA METAL O ACRILICO",
@@ -1930,7 +2249,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/PIED115.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PIED115.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -1939,6 +2260,7 @@
     "meta": "piedra azul cilindricas para metal o acrilico"
   },
   {
+    "orden": 114,
     "id": "PIED116",
     "productCode": "PIED116",
     "name": "PIEDRA ROSADAS CILINDRICAS PARA PULIR ACRILICO",
@@ -1947,7 +2269,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/PIED116.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PIED116.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -1956,6 +2280,7 @@
     "meta": "piedra rosadas cilindricas para pulir acrilico"
   },
   {
+    "orden": 115,
     "id": "PIED117",
     "productCode": "PIED117",
     "name": "PIEDRAS BLANCAS MONTADAS PARA PULIR CERAMICA",
@@ -1964,7 +2289,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/PIED117.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PIED117.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -1973,6 +2300,7 @@
     "meta": "piedras blancas montadas para pulir ceramica"
   },
   {
+    "orden": 116,
     "id": "PIED118",
     "productCode": "PIED118",
     "name": "PIEDRA VERDE PARA PULIR METALES DISCO PEQUEÑO",
@@ -1981,7 +2309,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/PIED118.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PIED118.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -1990,6 +2320,7 @@
     "meta": "piedra verde para pulir metales disco pequeño"
   },
   {
+    "orden": 117,
     "id": "PIED119",
     "productCode": "PIED119",
     "name": "PIEDRA VERDE PARA PULIR METALES DISCO X UNIDAD",
@@ -1998,7 +2329,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/PIED119.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PIED119.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2007,6 +2340,7 @@
     "meta": "piedra verde para pulir metales disco x unidad"
   },
   {
+    "orden": 118,
     "id": "PIED120",
     "productCode": "PIED120",
     "name": "PIEDRA MONTADA VERDE CONICA",
@@ -2015,7 +2349,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/PIED120.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PIED120.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2024,15 +2360,18 @@
     "meta": "piedra montada verde conica"
   },
   {
+    "orden": 119,
     "id": "KIT 121",
-    "productCode": "KIT-121",
+    "productCode": "KIT 121",
     "name": "KIT PARA PULIR ACRILICO",
     "category": "Laboratorio",
     "slug": "kit-para-pulir-acrilico",
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/KIT 121.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/KIT 121.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2041,6 +2380,7 @@
     "meta": "kit para pulir acrilico"
   },
   {
+    "orden": 120,
     "id": "CERA122",
     "productCode": "CERA122",
     "name": "CERA AZUL X BARRA",
@@ -2049,7 +2389,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/CERA122.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CERA122.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2058,6 +2400,7 @@
     "meta": "Cera Azul x Barra"
   },
   {
+    "orden": 121,
     "id": "DISC123",
     "productCode": "DISC123",
     "name": "DISCO DE PULIDO DE DIAMANTE VERDE NTI",
@@ -2066,7 +2409,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/DISC123.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/DISC123.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2075,6 +2420,7 @@
     "meta": "Disco de pulido de diamante verde NTI"
   },
   {
+    "orden": 122,
     "id": "DISC124",
     "productCode": "DISC124",
     "name": "DISCO DE FIELTRO PARA PULIDO (BLANCO) KEYSTONE",
@@ -2083,7 +2429,9 @@
     "vendor": "KEYSTONE",
     "originalPrice": "",
     "image": "/products/main/DISC124.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/DISC124.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2092,6 +2440,7 @@
     "meta": "disco de fieltro para pulido (blanco) Keystone"
   },
   {
+    "orden": 123,
     "id": "MALL125",
     "productCode": "MALL125",
     "name": "MALLA METÁLICA X UNIDAD",
@@ -2100,7 +2449,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/MALL125.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/MALL125.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2109,6 +2460,7 @@
     "meta": "Malla metálica x unidad "
   },
   {
+    "orden": 124,
     "id": "HILO126",
     "productCode": "HILO126",
     "name": "HILO RETRACTOR ULTRAPACK",
@@ -2117,7 +2469,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/HILO126.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/HILO126.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2126,15 +2480,18 @@
     "meta": "HILO RETRACTOR ULTRAPACK No 1"
   },
   {
+    "orden": 125,
     "id": "CA 3127",
-    "productCode": "CA-3127",
+    "productCode": "CA 3127",
     "name": "CA 37 NORMAL ALGINATO CAVEX",
     "category": "Impresion",
     "slug": "ca-37-normal-alginato-cavex",
     "vendor": "CAVEX",
     "originalPrice": "",
     "image": "/products/main/CA 3127.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CA 3127.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2143,6 +2500,7 @@
     "meta": "CA 37 Normal ALGINATO CaVEX"
   },
   {
+    "orden": 126,
     "id": "CUBE128",
     "productCode": "CUBE128",
     "name": "CUBETAS PARA IMPRESION",
@@ -2151,7 +2509,9 @@
     "vendor": "MEDIDENT",
     "originalPrice": "",
     "image": "/products/main/CUBE128.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CUBE128.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2160,6 +2520,7 @@
     "meta": "CUBETAS X 6 SIN PERFORAR S S MEDIDENT"
   },
   {
+    "orden": 127,
     "id": "ZHER129",
     "productCode": "ZHER129",
     "name": "ZHERMACK ALGINATO HYDROGUM 1 PAQ X 453GR",
@@ -2168,7 +2529,9 @@
     "vendor": "ZHERMACK ",
     "originalPrice": "",
     "image": "/products/main/ZHER129.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ZHER129.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2177,6 +2540,7 @@
     "meta": "ZHERMACK ALGINATO HYDROGUM 1 PAQ X 453GR"
   },
   {
+    "orden": 128,
     "id": "ZHER130",
     "productCode": "ZHER130",
     "name": "ZHERMACK ALGINATO ORTHOPRINT 1 PAQ X 453GR",
@@ -2185,7 +2549,9 @@
     "vendor": "ZHERMACK ",
     "originalPrice": "",
     "image": "/products/main/ZHER130.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ZHER130.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2194,6 +2560,7 @@
     "meta": "ZHERMACK ALGINATO ORTHOPRINT 1 PAQ X 453GR"
   },
   {
+    "orden": 129,
     "id": "ZHER131",
     "productCode": "ZHER131",
     "name": "ZHERMACK PASTA PESADA ELITE HD+ PUTTY",
@@ -2202,7 +2569,9 @@
     "vendor": "ZHERMACK ",
     "originalPrice": "",
     "image": "/products/main/ZHER131.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ZHER131.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2211,6 +2580,7 @@
     "meta": "ZHERMACK PASTA PESADA ELITE HD+ PUTTY"
   },
   {
+    "orden": 130,
     "id": "ZHER132",
     "productCode": "ZHER132",
     "name": "ZHERMACK PASTA LIVIANA ELITE HD+ HT/BODY/NORMALSET 2X50MLCARTRDGES +12 MIXING TIPS",
@@ -2219,7 +2589,9 @@
     "vendor": "ZHERMACK ",
     "originalPrice": "",
     "image": "/products/main/ZHER132.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ZHER132.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2228,6 +2600,7 @@
     "meta": "ZHERMACK PASTA LIVIANA ELITE HD+ HT/BODY/NORMALSET 2X50MLCARTRDGES +12 MIXING TIPS"
   },
   {
+    "orden": 131,
     "id": "ZHER133",
     "productCode": "ZHER133",
     "name": "ZHERMACK PASTA LIVIANA ELITE HD+ HT/BODY/NORMAL",
@@ -2236,7 +2609,9 @@
     "vendor": "ZHERMACK ",
     "originalPrice": "",
     "image": "/products/main/ZHER133.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ZHER133.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2245,6 +2620,7 @@
     "meta": "ZHERMACK PASTA LIVIANA ELITE HD+ HT/BODY/NORMAL "
   },
   {
+    "orden": 132,
     "id": "ZHEM134",
     "productCode": "ZHEM134",
     "name": "ZHEMARC ZETALABOR",
@@ -2253,7 +2629,9 @@
     "vendor": "ZHERMACK ",
     "originalPrice": "",
     "image": "/products/main/ZHEM134.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ZHEM134.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2262,6 +2640,7 @@
     "meta": "ZHEMARC ZETALABOR "
   },
   {
+    "orden": 133,
     "id": "ZHEM135",
     "productCode": "ZHEM135",
     "name": "ZHEMARC ZETAPLUS MIN KIT",
@@ -2270,7 +2649,9 @@
     "vendor": "ZHERMACK ",
     "originalPrice": "",
     "image": "/products/main/ZHEM135.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ZHEM135.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2279,6 +2660,7 @@
     "meta": "ZHEMARC ZETAPLUS MIN KIT "
   },
   {
+    "orden": 134,
     "id": "ZHEM136",
     "productCode": "ZHEM136",
     "name": "ZHEMARC ZETAPLUS NORMAL SET 1 TUB 900ML",
@@ -2287,7 +2669,9 @@
     "vendor": "ZHERMACK ",
     "originalPrice": "",
     "image": "/products/main/ZHEM136.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ZHEM136.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2296,6 +2680,7 @@
     "meta": "ZHEMARC ZETAPLUS NORMAL SET 1 TUB 900ML"
   },
   {
+    "orden": 135,
     "id": "EXPR137",
     "productCode": "EXPR137",
     "name": "EXPRESS PUTTY STD (ROJO)",
@@ -2304,7 +2689,9 @@
     "vendor": "3M",
     "originalPrice": "",
     "image": "/products/main/EXPR137.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/EXPR137.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2313,6 +2700,7 @@
     "meta": "EXPRESS PUTTY STD (ROJO)"
   },
   {
+    "orden": 136,
     "id": "EXPR138",
     "productCode": "EXPR138",
     "name": "EXPRESS LIVIANO VERDE REG LIGHT BODY",
@@ -2321,7 +2709,9 @@
     "vendor": "3M",
     "originalPrice": "",
     "image": "/products/main/EXPR138.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/EXPR138.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2330,6 +2720,7 @@
     "meta": "EXPRESS LIVIANO VERDE REG LIGHT BODY "
   },
   {
+    "orden": 137,
     "id": "PUNT139",
     "productCode": "PUNT139",
     "name": "PUNTAS MEZCLADORAS CAFES MAGIC DENT",
@@ -2338,7 +2729,9 @@
     "vendor": "MAGIC DENT",
     "originalPrice": "",
     "image": "/products/main/PUNT139.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PUNT139.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2347,6 +2740,7 @@
     "meta": "puntas mezcladoras cafes Magic dent "
   },
   {
+    "orden": 138,
     "id": "ZHER140",
     "productCode": "ZHER140",
     "name": "ZHERMACK PUNTAS MEZCLADORAS SMALL",
@@ -2355,7 +2749,9 @@
     "vendor": "ZHERMACK ",
     "originalPrice": "",
     "image": "/products/main/ZHER140.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ZHER140.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2364,6 +2760,7 @@
     "meta": "ZHERMACK PUNTAS MEZCLADORAS Small"
   },
   {
+    "orden": 139,
     "id": "ALGO141",
     "productCode": "ALGO141",
     "name": "ALGODON TRENZADO MAGIC DENT X 1000 UNIDADES",
@@ -2372,7 +2769,9 @@
     "vendor": "MAGIC DENT",
     "originalPrice": "",
     "image": "/products/main/ALGO141.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ALGO141.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2381,6 +2780,7 @@
     "meta": "ALGODON TRENZADO MAGIC DENT X 1000 UNIDADES"
   },
   {
+    "orden": 140,
     "id": "ALGO142",
     "productCode": "ALGO142",
     "name": "ALGODON TRENZADO KOMPITOS X 1000 UNIDADES",
@@ -2389,7 +2789,9 @@
     "vendor": "KMPITOS",
     "originalPrice": "",
     "image": "/products/main/ALGO142.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ALGO142.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2398,6 +2800,7 @@
     "meta": "ALGODON TRENZADO KOMPITOS X 1000 UNIDADES"
   },
   {
+    "orden": 141,
     "id": "ZAPA143",
     "productCode": "ZAPA143",
     "name": "ZAPATONES ANTIDESLIZANTE X UNIDAD",
@@ -2406,7 +2809,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/ZAPA143.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ZAPA143.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2415,6 +2820,7 @@
     "meta": "ZAPATONES ANTIDESLIZANTE x unidad"
   },
   {
+    "orden": 142,
     "id": "BATA144",
     "productCode": "BATA144",
     "name": "BATA DESECHABLE MANGA LARGA X UNIDAD",
@@ -2423,7 +2829,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/BATA144.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/BATA144.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2432,6 +2840,7 @@
     "meta": "Bata desechable manga larga x unidad"
   },
   {
+    "orden": 143,
     "id": "GORR145",
     "productCode": "GORR145",
     "name": "GORRO PAQUETE X UNIDAD",
@@ -2440,7 +2849,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/GORR145.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/GORR145.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2449,6 +2860,7 @@
     "meta": "GORRO PAQUETE X unidad"
   },
   {
+    "orden": 144,
     "id": "GORR146",
     "productCode": "GORR146",
     "name": "GORRO INDIVIDUAL X UNIDAD",
@@ -2457,7 +2869,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/GORR146.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/GORR146.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2466,6 +2880,7 @@
     "meta": "Gorro individual X UNIDAD"
   },
   {
+    "orden": 145,
     "id": "MASC147",
     "productCode": "MASC147",
     "name": "MASCARILLA ZOGEAR (ROSA) X 50",
@@ -2474,7 +2889,9 @@
     "vendor": "ZOGEAR",
     "originalPrice": "",
     "image": "/products/main/MASC147.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/MASC147.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2483,6 +2900,7 @@
     "meta": "Mascarilla ZOGEAR (Rosa) X 50"
   },
   {
+    "orden": 146,
     "id": "GUAN148",
     "productCode": "GUAN148",
     "name": "GUANTES",
@@ -2491,7 +2909,9 @@
     "vendor": "SRITRANG ",
     "originalPrice": "",
     "image": "/products/main/GUAN148.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/GUAN148.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2500,6 +2920,7 @@
     "meta": "GUANTES LATEX NEGROS SRITRANG M"
   },
   {
+    "orden": 147,
     "id": "SUEL149",
     "productCode": "SUEL149",
     "name": "SUELDA UNIVERSAL",
@@ -2508,7 +2929,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/SUEL149.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/SUEL149.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2517,6 +2940,7 @@
     "meta": "SUELDA UNIVERSAL"
   },
   {
+    "orden": 148,
     "id": "CRIM150",
     "productCode": "CRIM150",
     "name": "CRIMPABLE",
@@ -2525,7 +2949,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/CRIM150.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CRIM150.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2534,6 +2960,7 @@
     "meta": "CRIMPABLE"
   },
   {
+    "orden": 149,
     "id": "HELI151",
     "productCode": "HELI151",
     "name": "HELIOSIT ORTHODONTIC JERINGA 2,5 G",
@@ -2542,7 +2969,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/HELI151.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/HELI151.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2551,6 +2980,7 @@
     "meta": "HELIOSIT ORTHODONTIC JERINGA 2,5 G"
   },
   {
+    "orden": 150,
     "id": "OXID152",
     "productCode": "OXID152",
     "name": "OXIDO DE ALUMINIO DENTAURUM",
@@ -2559,7 +2989,9 @@
     "vendor": "DENTAURUM",
     "originalPrice": "",
     "image": "/products/main/OXID152.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/OXID152.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2568,6 +3000,7 @@
     "meta": "OXIDO DE ALUMINIO DENTAURUM"
   },
   {
+    "orden": 151,
     "id": "BRAC153",
     "productCode": "BRAC153",
     "name": "BRACKETS EURO",
@@ -2576,7 +3009,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/BRAC153.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/BRAC153.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2585,6 +3020,7 @@
     "meta": "BRACKETS EURO"
   },
   {
+    "orden": 152,
     "id": "PINZ154",
     "productCode": "PINZ154",
     "name": "PINZA PARA BRACKETS DIAMOND",
@@ -2593,7 +3029,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/PINZ154.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PINZ154.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2602,6 +3040,7 @@
     "meta": "Pinza para brackets DIAMOND"
   },
   {
+    "orden": 153,
     "id": "BARR155",
     "productCode": "BARR155",
     "name": "BARRA PALATINA",
@@ -2610,7 +3049,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/BARR155.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/BARR155.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2619,6 +3060,7 @@
     "meta": "BARRA PALATINA"
   },
   {
+    "orden": 154,
     "id": "CAJA156",
     "productCode": "CAJA156",
     "name": "CAJA LINGUAL",
@@ -2627,7 +3069,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/CAJA156.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CAJA156.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2636,6 +3080,7 @@
     "meta": "CAJA LINGUAL"
   },
   {
+    "orden": 155,
     "id": "DOMA157",
     "productCode": "DOMA157",
     "name": "DOMADOR DE LENGUA",
@@ -2644,7 +3089,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/DOMA157.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/DOMA157.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2653,6 +3100,7 @@
     "meta": "DOMADOR DE LENGUA"
   },
   {
+    "orden": 156,
     "id": "MICR158",
     "productCode": "MICR158",
     "name": "MICROIMPLANTES 2.5 X 1.6 X 6MM MOSSAS",
@@ -2661,7 +3109,9 @@
     "vendor": "MOSSAS",
     "originalPrice": "",
     "image": "/products/main/MICR158.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/MICR158.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2670,6 +3120,7 @@
     "meta": "MICROIMPLANTES 2.5 X 1.6 X 6mm MOSSAS"
   },
   {
+    "orden": 157,
     "id": "BOTO159",
     "productCode": "BOTO159",
     "name": "BOTONES",
@@ -2678,7 +3129,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/BOTO159.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/BOTO159.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2687,6 +3140,7 @@
     "meta": "BOTONES"
   },
   {
+    "orden": 158,
     "id": "TOPE160",
     "productCode": "TOPE160",
     "name": "TOPES",
@@ -2695,7 +3149,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/TOPE160.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TOPE160.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2704,6 +3160,7 @@
     "meta": "TOPES"
   },
   {
+    "orden": 159,
     "id": "CAJA161",
     "productCode": "CAJA161",
     "name": "CAJA LINGUAL",
@@ -2712,7 +3169,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/CAJA161.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CAJA161.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2721,6 +3180,7 @@
     "meta": "CAJA LINGUAL"
   },
   {
+    "orden": 160,
     "id": "TUBO162",
     "productCode": "TUBO162",
     "name": "TUBO SIMPLE",
@@ -2729,7 +3189,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/TUBO162.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO162.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2738,6 +3200,7 @@
     "meta": "TUBO SIMPLE PARA SOLDAR LL6"
   },
   {
+    "orden": 161,
     "id": "TUBO163",
     "productCode": "TUBO163",
     "name": "TUBO TRIPLE",
@@ -2746,7 +3209,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/TUBO163.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO163.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2755,6 +3220,7 @@
     "meta": "TUBO TRIPLE UR6"
   },
   {
+    "orden": 162,
     "id": "TUBO164",
     "productCode": "TUBO164",
     "name": "TUBO DOBLE",
@@ -2763,7 +3229,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/TUBO164.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO164.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2772,6 +3240,7 @@
     "meta": "TUBO DOBLE LL6"
   },
   {
+    "orden": 163,
     "id": "TUBO165",
     "productCode": "TUBO165",
     "name": "TUBO PARA ADHERIR UR6",
@@ -2780,7 +3249,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/TUBO165.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO165.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2789,6 +3260,7 @@
     "meta": "TUBO PARA ADHERIR UR6"
   },
   {
+    "orden": 164,
     "id": "TUBO166",
     "productCode": "TUBO166",
     "name": "TUBO PARA ADHERIR UL6",
@@ -2797,7 +3269,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/TUBO166.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO166.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2806,6 +3280,7 @@
     "meta": "TUBO PARA ADHERIR UL6"
   },
   {
+    "orden": 165,
     "id": "TUBO167",
     "productCode": "TUBO167",
     "name": "TUBO 47",
@@ -2814,7 +3289,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/TUBO167.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO167.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2823,6 +3300,7 @@
     "meta": "TUBO 47"
   },
   {
+    "orden": 166,
     "id": "TUBO168",
     "productCode": "TUBO168",
     "name": "TUBO 37",
@@ -2831,7 +3309,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/TUBO168.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO168.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2840,6 +3320,7 @@
     "meta": "TUBO 37"
   },
   {
+    "orden": 167,
     "id": "TUBO169",
     "productCode": "TUBO169",
     "name": "TUBO 27",
@@ -2848,7 +3329,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/TUBO169.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO169.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2857,6 +3340,7 @@
     "meta": "TUBO 27"
   },
   {
+    "orden": 168,
     "id": "TUBO170",
     "productCode": "TUBO170",
     "name": "TUBO 17",
@@ -2865,7 +3349,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/TUBO170.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO170.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2874,6 +3360,7 @@
     "meta": "TUBO 17"
   },
   {
+    "orden": 169,
     "id": "TUBO171",
     "productCode": "TUBO171",
     "name": "TUBO EURODONTO UL6",
@@ -2882,7 +3369,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/TUBO171.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO171.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2891,6 +3380,7 @@
     "meta": "TUBO EURODONTO UL6"
   },
   {
+    "orden": 170,
     "id": "TUBO172",
     "productCode": "TUBO172",
     "name": "TUBO EURODONTO UR6",
@@ -2899,7 +3389,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/TUBO172.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO172.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2908,6 +3400,7 @@
     "meta": "TUBO EURODONTO UR6"
   },
   {
+    "orden": 171,
     "id": "TUBO173",
     "productCode": "TUBO173",
     "name": "TUBO SIMPLE ORTHOTECHNOLOGY LL6",
@@ -2916,7 +3409,9 @@
     "vendor": "ORTHOTECHNOLOGY ",
     "originalPrice": "",
     "image": "/products/main/TUBO173.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO173.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2925,6 +3420,7 @@
     "meta": "TUBO SIMPLE ORTHOTECHNOLOGY LL6"
   },
   {
+    "orden": 172,
     "id": "TUBO174",
     "productCode": "TUBO174",
     "name": "TUBO SIMPLE ORTHOTECHNOLOGY UL6",
@@ -2933,7 +3429,9 @@
     "vendor": "ORTHOTECHNOLOGY ",
     "originalPrice": "",
     "image": "/products/main/TUBO174.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO174.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2942,6 +3440,7 @@
     "meta": "TUBO SIMPLE ORTHOTECHNOLOGY UL6"
   },
   {
+    "orden": 173,
     "id": "TUBO175",
     "productCode": "TUBO175",
     "name": "TUBO SIMPLE ORTHOTECHNOLOGY UR6",
@@ -2950,7 +3449,9 @@
     "vendor": "ORTHOTECHNOLOGY ",
     "originalPrice": "",
     "image": "/products/main/TUBO175.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO175.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2959,6 +3460,7 @@
     "meta": "TUBO SIMPLE ORTHOTECHNOLOGY UR6"
   },
   {
+    "orden": 174,
     "id": "TUBO176",
     "productCode": "TUBO176",
     "name": "TUBO ORTHOTECHNOLOGY LL6",
@@ -2967,7 +3469,9 @@
     "vendor": "ORTHOTECHNOLOGY ",
     "originalPrice": "",
     "image": "/products/main/TUBO176.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO176.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2976,6 +3480,7 @@
     "meta": "TUBO ORTHOTECHNOLOGY LL6"
   },
   {
+    "orden": 175,
     "id": "TUBO177",
     "productCode": "TUBO177",
     "name": "TUBO ORTHOTECHNOLOGY LR6",
@@ -2984,7 +3489,9 @@
     "vendor": "ORTHOTECHNOLOGY ",
     "originalPrice": "",
     "image": "/products/main/TUBO177.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO177.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -2993,6 +3500,7 @@
     "meta": "TUBO ORTHOTECHNOLOGY LR6"
   },
   {
+    "orden": 176,
     "id": "TUBO178",
     "productCode": "TUBO178",
     "name": "TUBO ORTHOTECHNOLOGY UL6",
@@ -3001,7 +3509,9 @@
     "vendor": "ORTHOTECHNOLOGY ",
     "originalPrice": "",
     "image": "/products/main/TUBO178.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO178.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3010,6 +3520,7 @@
     "meta": "TUBO ORTHOTECHNOLOGY UL6"
   },
   {
+    "orden": 177,
     "id": "TUBO179",
     "productCode": "TUBO179",
     "name": "TUBO ORTHOTECHNOLOGY UR6",
@@ -3018,7 +3529,9 @@
     "vendor": "ORTHOTECHNOLOGY ",
     "originalPrice": "",
     "image": "/products/main/TUBO179.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO179.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3027,6 +3540,7 @@
     "meta": "TUBO ORTHOTECHNOLOGY UR6"
   },
   {
+    "orden": 178,
     "id": "TUBO180",
     "productCode": "TUBO180",
     "name": "TUBO GAC LL6",
@@ -3035,7 +3549,9 @@
     "vendor": "GAC",
     "originalPrice": "",
     "image": "/products/main/TUBO180.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO180.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3044,6 +3560,7 @@
     "meta": "TUBO GAC LL6"
   },
   {
+    "orden": 179,
     "id": "TUBO181",
     "productCode": "TUBO181",
     "name": "TUBO GAC UL6",
@@ -3052,7 +3569,9 @@
     "vendor": "GAC",
     "originalPrice": "",
     "image": "/products/main/TUBO181.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO181.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3061,6 +3580,7 @@
     "meta": "TUBO GAC UL6"
   },
   {
+    "orden": 180,
     "id": "TUBO182",
     "productCode": "TUBO182",
     "name": "TUBO GAC UR6",
@@ -3069,7 +3589,9 @@
     "vendor": "GAC",
     "originalPrice": "",
     "image": "/products/main/TUBO182.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO182.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3078,6 +3600,7 @@
     "meta": "TUBO GAC UR6"
   },
   {
+    "orden": 181,
     "id": "TUBO183",
     "productCode": "TUBO183",
     "name": "TUBO GAC UL7",
@@ -3086,7 +3609,9 @@
     "vendor": "GAC",
     "originalPrice": "",
     "image": "/products/main/TUBO183.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO183.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3095,6 +3620,7 @@
     "meta": "TUBO GAC UL7"
   },
   {
+    "orden": 182,
     "id": "TUBO184",
     "productCode": "TUBO184",
     "name": "TUBO GAC UR7",
@@ -3103,7 +3629,9 @@
     "vendor": "GAC",
     "originalPrice": "",
     "image": "/products/main/TUBO184.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO184.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3112,6 +3640,7 @@
     "meta": "TUBO GAC UR7"
   },
   {
+    "orden": 183,
     "id": "TUBO185",
     "productCode": "TUBO185",
     "name": "TUBO #6 GAC",
@@ -3120,7 +3649,9 @@
     "vendor": "GAC",
     "originalPrice": "",
     "image": "/products/main/TUBO185.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TUBO185.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3129,6 +3660,7 @@
     "meta": "TUBO #6 GAC"
   },
   {
+    "orden": 184,
     "id": "BRAC186",
     "productCode": "BRAC186",
     "name": "BRACKETS INDIVIDUALES",
@@ -3137,7 +3669,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/BRAC186.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/BRAC186.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3146,6 +3680,7 @@
     "meta": "BRACKETS SUELTOS LR2"
   },
   {
+    "orden": 185,
     "id": "BRAC187",
     "productCode": "BRAC187",
     "name": "BRACKET CERAMICO LL1 Y LL2 NO 31 NO 32",
@@ -3154,7 +3689,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/BRAC187.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/BRAC187.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3163,6 +3700,7 @@
     "meta": "BRACKET CERAMICO LL1 Y LL2 No 31 No 32"
   },
   {
+    "orden": 186,
     "id": "BRAC188",
     "productCode": "BRAC188",
     "name": "BRACKET CERAMICO LR1 Y LR2 NO 41 NO 42",
@@ -3171,7 +3709,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/BRAC188.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/BRAC188.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3180,6 +3720,7 @@
     "meta": "BRACKET CERAMICO LR1 y LR2 No 41 No 42"
   },
   {
+    "orden": 187,
     "id": "ARCO189",
     "productCode": "ARCO189",
     "name": "ARCO BETA III TITANIUM",
@@ -3188,7 +3729,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/ARCO189.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ARCO189.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3197,6 +3740,7 @@
     "meta": "ARCO BETA III TITANIUM 16X22 SUPERIOR"
   },
   {
+    "orden": 188,
     "id": "ARCO190",
     "productCode": "ARCO190",
     "name": "ARCOS NITI",
@@ -3205,7 +3749,9 @@
     "vendor": "EURODONTO",
     "originalPrice": "",
     "image": "/products/main/ARCO190.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ARCO190.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3214,6 +3760,7 @@
     "meta": "ARCO NITI SUPERIOR 17X25 Eurodonto"
   },
   {
+    "orden": 189,
     "id": "ARCO191",
     "productCode": "ARCO191",
     "name": "ARCO TERMO ACTIVADOS",
@@ -3222,7 +3769,9 @@
     "vendor": "GAC",
     "originalPrice": "",
     "image": "/products/main/ARCO191.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ARCO191.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3231,6 +3780,7 @@
     "meta": "ARCO TERMO ACT. 16 X 16 SUPERIOR GAC"
   },
   {
+    "orden": 190,
     "id": "ARCO192",
     "productCode": "ARCO192",
     "name": "ARCOS BRAIDENT",
@@ -3239,7 +3789,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/ARCO192.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ARCO192.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3248,6 +3800,7 @@
     "meta": "ARCO BRAIDENT 16X16 SUPERIOR"
   },
   {
+    "orden": 191,
     "id": "ARCO193",
     "productCode": "ARCO193",
     "name": "ARCOS NITI",
@@ -3256,7 +3809,9 @@
     "vendor": "ORTHOTECNOLOGY",
     "originalPrice": "",
     "image": "/products/main/ARCO193.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ARCO193.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3265,6 +3820,7 @@
     "meta": "ARCO NITI 16 X22 SUPERIOR ORTHOTECHNOLOGY"
   },
   {
+    "orden": 192,
     "id": "ARCO194",
     "productCode": "ARCO194",
     "name": "ARCOS T COPPER",
@@ -3273,7 +3829,9 @@
     "vendor": "ORTHOTECNOLOGY",
     "originalPrice": "",
     "image": "/products/main/ARCO194.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ARCO194.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3282,6 +3840,7 @@
     "meta": "ARCO T COPPER 0,14 SUPERIOR ORTHOTECHNOLOGY"
   },
   {
+    "orden": 193,
     "id": "ARCO195",
     "productCode": "ARCO195",
     "name": "ARCOS CURVA REVERSA NITI",
@@ -3290,7 +3849,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/ARCO195.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ARCO195.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3299,6 +3860,7 @@
     "meta": "ARCO CURVA REVERSA NITI INFERIOR 0.16"
   },
   {
+    "orden": 194,
     "id": "ARCO196",
     "productCode": "ARCO196",
     "name": "ARCOS 4KL ACERO",
@@ -3307,7 +3869,9 @@
     "vendor": "GAC",
     "originalPrice": "",
     "image": "/products/main/ARCO196.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ARCO196.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3316,6 +3880,7 @@
     "meta": "ARCO 4KL ACERO 19X25 36mm GAC"
   },
   {
+    "orden": 195,
     "id": "ARCO197",
     "productCode": "ARCO197",
     "name": "ARCOS ACERO",
@@ -3324,7 +3889,9 @@
     "vendor": "GAC",
     "originalPrice": "",
     "image": "/products/main/ARCO197.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ARCO197.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3333,6 +3900,7 @@
     "meta": "ARCO ACERO 19 X 25 INFERIOR GAC"
   },
   {
+    "orden": 196,
     "id": "BAND198",
     "productCode": "BAND198",
     "name": "BANDAS SIN TUBO",
@@ -3341,7 +3909,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/BAND198.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/BAND198.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3350,6 +3920,7 @@
     "meta": "BANDAS SIN TUBO U25"
   },
   {
+    "orden": 197,
     "id": "BAND199",
     "productCode": "BAND199",
     "name": "BANDAS PREMOLARES L6R1",
@@ -3358,7 +3929,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/BAND199.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/BAND199.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3367,6 +3940,7 @@
     "meta": "BANDAS PREMOLARES L6R1"
   },
   {
+    "orden": 198,
     "id": "BAND200",
     "productCode": "BAND200",
     "name": "BANDAS PREMOLARES L6L1",
@@ -3375,7 +3949,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/BAND200.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/BAND200.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3384,6 +3960,7 @@
     "meta": "BANDAS PREMOLARES L6L1"
   },
   {
+    "orden": 199,
     "id": "BAND201",
     "productCode": "BAND201",
     "name": "BANDAS CON TUBO",
@@ -3392,7 +3969,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/BAND201.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/BAND201.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3401,6 +3980,7 @@
     "meta": "BANDAS CON TUBO U6L36"
   },
   {
+    "orden": 200,
     "id": "BITE202",
     "productCode": "BITE202",
     "name": "BITE BUILDING",
@@ -3409,7 +3989,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/BITE202.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/BITE202.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3418,6 +4000,7 @@
     "meta": "BITE BUILDING"
   },
   {
+    "orden": 201,
     "id": "FERU203",
     "productCode": "FERU203",
     "name": "FERULAS",
@@ -3426,7 +4009,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/FERU203.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FERU203.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3435,6 +4020,7 @@
     "meta": "Ferulas"
   },
   {
+    "orden": 202,
     "id": "LIGA204",
     "productCode": "LIGA204",
     "name": "LIGADURA KOBAYASHI",
@@ -3443,7 +4029,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/LIGA204.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/LIGA204.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3452,6 +4040,7 @@
     "meta": "ligadura kobayashi"
   },
   {
+    "orden": 203,
     "id": "LIGA205",
     "productCode": "LIGA205",
     "name": "LIGADURA PREFORMADA PEQUEÑA",
@@ -3460,7 +4049,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/LIGA205.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/LIGA205.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3469,6 +4060,7 @@
     "meta": "Ligadura preformada pequeña"
   },
   {
+    "orden": 204,
     "id": "POST206",
     "productCode": "POST206",
     "name": "POSTE FIBRA VIDRIO",
@@ -3477,7 +4069,9 @@
     "vendor": "CONTEC",
     "originalPrice": "",
     "image": "/products/main/POST206.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/POST206.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3486,6 +4080,7 @@
     "meta": "POSTE FIBRA VIDRIO AMARILLO CONTEC "
   },
   {
+    "orden": 205,
     "id": "PIN-207",
     "productCode": "PIN-207",
     "name": "PIN-JET",
@@ -3494,7 +4089,9 @@
     "vendor": "ANGELUS",
     "originalPrice": "",
     "image": "/products/main/PIN-207.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PIN-207.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3503,6 +4100,7 @@
     "meta": "PIN-JET POSTES SOBRE X 50 U"
   },
   {
+    "orden": 206,
     "id": "PARA208",
     "productCode": "PARA208",
     "name": "PARAPOST TITANIO",
@@ -3511,7 +4109,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/PARA208.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PARA208.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3520,6 +4120,7 @@
     "meta": "PDM5T PARAPOST TITANIO No3"
   },
   {
+    "orden": 207,
     "id": "CONS209",
     "productCode": "CONS209",
     "name": "CONSEPSIS INDISPENSE REFILL CLORHEXIDINA 2%",
@@ -3528,7 +4129,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/CONS209.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CONS209.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3537,6 +4140,7 @@
     "meta": "CONSEPSIS INDISPENSE REFILL CLORHEXIDINA 2%"
   },
   {
+    "orden": 208,
     "id": "SIER210",
     "productCode": "SIER210",
     "name": "SIERRA PROXIMAL JIFFY X UNIDAD",
@@ -3545,7 +4149,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/SIER210.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/SIER210.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3554,15 +4160,18 @@
     "meta": "SIERRA PROXIMAL JIFFY x unidad"
   },
   {
+    "orden": 209,
     "id": "TDV 211",
-    "productCode": "TDV-211",
+    "productCode": "TDV 211",
     "name": "TDV CORONAS SURTIDAS INFANT/TRANSP PAQ X 64 UND",
     "category": "Preparacion",
     "slug": "tdv-coronas-surtidas-infant-transp-paq-x-64-und",
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/TDV 211.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/TDV 211.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3571,6 +4180,7 @@
     "meta": "TDV CORONAS SURTIDAS INFANT/TRANSP PAQ X 64 UND"
   },
   {
+    "orden": 210,
     "id": "CORO212",
     "productCode": "CORO212",
     "name": "CORONAS ST 5K FRASACO",
@@ -3579,7 +4189,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/CORO212.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CORO212.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3588,6 +4200,7 @@
     "meta": "coronas ST 5K Frasaco"
   },
   {
+    "orden": 211,
     "id": "APLI213",
     "productCode": "APLI213",
     "name": "APLICADORES MAGIC-DENT",
@@ -3596,7 +4209,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/APLI213.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/APLI213.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3605,6 +4220,7 @@
     "meta": "APLICADORES MAGIC-DENT FINOS (AMARILLO) X 100"
   },
   {
+    "orden": 212,
     "id": "OMNI214",
     "productCode": "OMNI214",
     "name": "OMNIMATRIX",
@@ -3613,7 +4229,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/OMNI214.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/OMNI214.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3622,6 +4240,7 @@
     "meta": "OMNIMATRIX PURPURA PEDIATRICA"
   },
   {
+    "orden": 213,
     "id": "ENJU215",
     "productCode": "ENJU215",
     "name": "ENJUAGUE BUCAL ENCIDENT GALON",
@@ -3630,7 +4249,9 @@
     "vendor": "ENCIDENT",
     "originalPrice": "",
     "image": "/products/main/ENJU215.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ENJU215.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3639,6 +4260,7 @@
     "meta": "ENJUAGUE BUCAL ENCIDENT GALON "
   },
   {
+    "orden": 214,
     "id": "CLOR216",
     "productCode": "CLOR216",
     "name": "CLORHEXIDINA 2% 475ML",
@@ -3647,7 +4269,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/CLOR216.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CLOR216.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3656,6 +4280,7 @@
     "meta": "CLORHEXIDINA 2% 475ml"
   },
   {
+    "orden": 215,
     "id": "PAST217",
     "productCode": "PAST217",
     "name": "PASTA PROFILACTICA INDIVIDUAL",
@@ -3664,7 +4289,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/PAST217.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PAST217.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3673,6 +4300,7 @@
     "meta": "PASTA PROFILACTICA INDIVIDUAL "
   },
   {
+    "orden": 216,
     "id": "ENAM218",
     "productCode": "ENAM218",
     "name": "ENAMELAST FLUOR BARNIZ JERINGA 1.2 ML",
@@ -3681,7 +4309,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/ENAM218.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ENAM218.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3690,6 +4320,7 @@
     "meta": "ENAMELAST FLUOR BARNIZ JERINGA 1.2 ML"
   },
   {
+    "orden": 217,
     "id": "ENAM219",
     "productCode": "ENAM219",
     "name": "ENAMELAST FLUOR BARNIZ DOSIS UNITARIA 0.4ML",
@@ -3698,7 +4329,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/ENAM219.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ENAM219.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3707,6 +4340,7 @@
     "meta": "ENAMELAST FLUOR BARNIZ DOSIS UNITARIA 0.4ML"
   },
   {
+    "orden": 218,
     "id": "PAST220",
     "productCode": "PAST220",
     "name": "PASTA OPALECENSE 4.7 GR",
@@ -3715,7 +4349,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/PAST220.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PAST220.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3724,6 +4360,7 @@
     "meta": "PASTA OPALECENSE 4.7 gr"
   },
   {
+    "orden": 219,
     "id": "CEPI221",
     "productCode": "CEPI221",
     "name": "CEPILLO INTERDENTAL",
@@ -3732,7 +4369,9 @@
     "vendor": "CURAPROX",
     "originalPrice": "",
     "image": "/products/main/CEPI221.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CEPI221.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3741,6 +4380,7 @@
     "meta": "CEPILLO interdental 07 X unidad"
   },
   {
+    "orden": 220,
     "id": "PIED222",
     "productCode": "PIED222",
     "name": "PIEDRA POMEZ",
@@ -3749,7 +4389,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/PIED222.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PIED222.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3758,6 +4400,7 @@
     "meta": "PIEDRA POMEZ"
   },
   {
+    "orden": 221,
     "id": "CEPI223",
     "productCode": "CEPI223",
     "name": "CEPILLO PROFILACTICO",
@@ -3766,7 +4409,9 @@
     "vendor": "VARIAS MARCAS",
     "originalPrice": "",
     "image": "/products/main/CEPI223.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CEPI223.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3775,6 +4420,7 @@
     "meta": "CEPILLO PROFILACTICO ultradent X UNIDAD"
   },
   {
+    "orden": 222,
     "id": "REVE224",
     "productCode": "REVE224",
     "name": "REVELADOR DE PLACA BACTERIANA PROQUIDENT",
@@ -3783,7 +4429,9 @@
     "vendor": "PROQUIDENT",
     "originalPrice": "",
     "image": "/products/main/REVE224.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/REVE224.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3792,6 +4440,7 @@
     "meta": "revelador de placa bacteriana PROQUIDENT"
   },
   {
+    "orden": 223,
     "id": "BAND225",
     "productCode": "BAND225",
     "name": "BANDA MATRIZ MAQUIRA 5MM",
@@ -3800,7 +4449,9 @@
     "vendor": "MAQUIRA",
     "originalPrice": "",
     "image": "/products/main/BAND225.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/BAND225.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3809,6 +4460,7 @@
     "meta": "BANDA MATRIZ MAQUIRA 5mm"
   },
   {
+    "orden": 224,
     "id": "ASPI226",
     "productCode": "ASPI226",
     "name": "ASPIRADORES QUIRÚRGICOS X 25 PREHMA",
@@ -3817,7 +4469,9 @@
     "vendor": "PREHMA",
     "originalPrice": "",
     "image": "/products/main/ASPI226.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ASPI226.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3826,6 +4480,7 @@
     "meta": "Aspiradores quirúrgicos X 25 PREHMA"
   },
   {
+    "orden": 225,
     "id": "EYEC227",
     "productCode": "EYEC227",
     "name": "EYECTORES DE SALIVA",
@@ -3834,7 +4489,9 @@
     "vendor": "VARIAS MARCAS",
     "originalPrice": "",
     "image": "/products/main/EYEC227.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/EYEC227.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3843,15 +4500,18 @@
     "meta": "Aspirasaliva EM15 EURONDA x 100 Un"
   },
   {
+    "orden": 226,
     "id": "HP M228",
-    "productCode": "HP-M228",
+    "productCode": "HP M228",
     "name": "HP MIXING TIP (BROWN) X UNIDAD",
     "category": "Impresion",
     "slug": "hp-mixing-tip-brown-x-unidad",
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/HP M228.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/HP M228.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3860,6 +4520,7 @@
     "meta": "HP Mixing Tip (BROWN) x unidad"
   },
   {
+    "orden": 227,
     "id": "MANG229",
     "productCode": "MANG229",
     "name": "MANGO DE BISTURÍ NO 3",
@@ -3868,7 +4529,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/MANG229.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/MANG229.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3877,6 +4540,7 @@
     "meta": "Mango de bisturí No 3"
   },
   {
+    "orden": 228,
     "id": "INDU230",
     "productCode": "INDU230",
     "name": "INDURENT GEL ZHEMARK",
@@ -3885,7 +4549,9 @@
     "vendor": "ZHERMARK",
     "originalPrice": "",
     "image": "/products/main/INDU230.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/INDU230.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3894,6 +4560,7 @@
     "meta": "indurent gel Zhemark"
   },
   {
+    "orden": 229,
     "id": "ADHE231",
     "productCode": "ADHE231",
     "name": "ADHESIVO EN POLVO PARA DENTADURAS DENTAFIRME",
@@ -3902,7 +4569,9 @@
     "vendor": "DENTAFIRME",
     "originalPrice": "",
     "image": "/products/main/ADHE231.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ADHE231.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3911,6 +4580,7 @@
     "meta": "Adhesivo en polvo para dentaduras DENTAFIRME"
   },
   {
+    "orden": 230,
     "id": "JERI232",
     "productCode": "JERI232",
     "name": "JERINGA 5 ML ULTRADENT X UNIDAD",
@@ -3919,7 +4589,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/JERI232.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/JERI232.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3928,6 +4600,7 @@
     "meta": "jeringa 5 ml Ultradent x unidad"
   },
   {
+    "orden": 231,
     "id": "JERI233",
     "productCode": "JERI233",
     "name": "JERINGA 1 1/4 ULTRADENT X UNIDAD",
@@ -3936,7 +4609,9 @@
     "vendor": "ULTRADENT",
     "originalPrice": "",
     "image": "/products/main/JERI233.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/JERI233.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3945,6 +4620,7 @@
     "meta": "jeringa 1 1/4 Ultradent x unidad"
   },
   {
+    "orden": 232,
     "id": "FUND234",
     "productCode": "FUND234",
     "name": "FUNDAS PARA ESTERILIZAR",
@@ -3953,7 +4629,9 @@
     "vendor": "EHROS",
     "originalPrice": "",
     "image": "/products/main/FUND234.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FUND234.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3962,6 +4640,7 @@
     "meta": "FUNDAS P/ESTERILIZAR ENDODONCIA EHROS 2 1/4 X 4"
   },
   {
+    "orden": 233,
     "id": "CONT235",
     "productCode": "CONT235",
     "name": "CONTRANGULO DESECHABLE KEYSTONE",
@@ -3970,7 +4649,9 @@
     "vendor": "KEYSTONE",
     "originalPrice": "",
     "image": "/products/main/CONT235.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CONT235.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3979,6 +4660,7 @@
     "meta": "contrangulo desechable keystone"
   },
   {
+    "orden": 234,
     "id": "OXID236",
     "productCode": "OXID236",
     "name": "OXIDO DE ZINC 180 GR",
@@ -3987,7 +4669,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/OXID236.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/OXID236.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -3996,6 +4680,7 @@
     "meta": "OXIDO DE ZINC 180 gr"
   },
   {
+    "orden": 235,
     "id": "PARA237",
     "productCode": "PARA237",
     "name": "PARAPOS PARAPULPAR",
@@ -4004,7 +4689,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/PARA237.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PARA237.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -4013,6 +4700,7 @@
     "meta": "PARAPOS PARAPULPAR"
   },
   {
+    "orden": 236,
     "id": "OPTR238",
     "productCode": "OPTR238",
     "name": "OPTRAGATE REGULAR IVOCLAR X UNIDAD",
@@ -4021,7 +4709,9 @@
     "vendor": "IVOCLAR",
     "originalPrice": "",
     "image": "/products/main/OPTR238.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/OPTR238.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -4030,6 +4720,7 @@
     "meta": "optragate Regular Ivoclar X unidad"
   },
   {
+    "orden": 237,
     "id": "AGUJ239",
     "productCode": "AGUJ239",
     "name": "AGUJAS PEDIATRICAS 30G MISAWA X UNIDAD",
@@ -4038,7 +4729,9 @@
     "vendor": "MISAWA",
     "originalPrice": "",
     "image": "/products/main/AGUJ239.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/AGUJ239.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -4047,6 +4740,7 @@
     "meta": "AGUJAS PEDIATRICAS 30G MISAWA x unidad"
   },
   {
+    "orden": 238,
     "id": "CEPI240",
     "productCode": "CEPI240",
     "name": "CEPILLO PROFILÁCTICO",
@@ -4055,7 +4749,9 @@
     "vendor": "ZOGEAR",
     "originalPrice": "",
     "image": "/products/main/CEPI240.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CEPI240.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -4064,6 +4760,7 @@
     "meta": "cepillo profiláctico zogear color x unidad"
   },
   {
+    "orden": 239,
     "id": "CEPI241",
     "productCode": "CEPI241",
     "name": "CEPILLO PROFILACTICO",
@@ -4072,7 +4769,9 @@
     "vendor": "BECHT",
     "originalPrice": "",
     "image": "/products/main/CEPI241.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CEPI241.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -4081,6 +4780,7 @@
     "meta": "CEPILLO PROFILACTICO BETCH x unidad"
   },
   {
+    "orden": 240,
     "id": "DISC242",
     "productCode": "DISC242",
     "name": "DISCO DE CORTE 22X0.6 X UNIDAD",
@@ -4089,7 +4789,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/DISC242.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/DISC242.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -4098,6 +4800,7 @@
     "meta": "disco de corte 22x0.6 x unidad"
   },
   {
+    "orden": 241,
     "id": "FIBR243",
     "productCode": "FIBR243",
     "name": "FIBRA OPTICA PARA LAMPARA DE FOTOCURADO",
@@ -4106,7 +4809,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/FIBR243.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/FIBR243.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -4115,6 +4820,7 @@
     "meta": "Fibra optica para lampara de fotocurado"
   },
   {
+    "orden": 242,
     "id": "CEPI244",
     "productCode": "CEPI244",
     "name": "CEPILLO DE PULIDO ESCOBA X UNIDAD",
@@ -4123,7 +4829,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/CEPI244.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CEPI244.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -4132,6 +4840,7 @@
     "meta": "cepillo de pulido escoba x unidad"
   },
   {
+    "orden": 243,
     "id": "CEPI245",
     "productCode": "CEPI245",
     "name": "CEPILLO DE PULIDO RUEDA X UNIDAD",
@@ -4140,7 +4849,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/CEPI245.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CEPI245.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -4149,6 +4860,7 @@
     "meta": "cepillo de pulido rueda x unidad"
   },
   {
+    "orden": 244,
     "id": "CEPI246",
     "productCode": "CEPI246",
     "name": "CEPILLO DE PULIDO ESTRELLA X UNIDAD",
@@ -4157,7 +4869,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/CEPI246.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/CEPI246.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -4166,6 +4880,7 @@
     "meta": "cepillo de pulido estrella x unidad"
   },
   {
+    "orden": 245,
     "id": "MAND247",
     "productCode": "MAND247",
     "name": "MANDRIL PEQUEÑO",
@@ -4174,7 +4889,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/MAND247.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/MAND247.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -4183,6 +4900,7 @@
     "meta": "mandril pequeño"
   },
   {
+    "orden": 246,
     "id": "MAND248",
     "productCode": "MAND248",
     "name": "MANDRIL GRANDE",
@@ -4191,7 +4909,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/MAND248.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/MAND248.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -4200,6 +4920,7 @@
     "meta": "mandril grande"
   },
   {
+    "orden": 247,
     "id": "PUNT249",
     "productCode": "PUNT249",
     "name": "PUNTAS DE CAAUCHO",
@@ -4208,7 +4929,9 @@
     "vendor": "",
     "originalPrice": "",
     "image": "/products/main/PUNT249.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/PUNT249.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -4217,6 +4940,7 @@
     "meta": "Puntas de caaucho"
   },
   {
+    "orden": 248,
     "id": "ORAN250",
     "productCode": "ORAN250",
     "name": "ORANWASH L NORMAL SET 1 TUBE 140ML",
@@ -4225,7 +4949,9 @@
     "vendor": "ZHERMARK",
     "originalPrice": "",
     "image": "/products/main/ORAN250.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/ORAN250.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
@@ -4234,6 +4960,7 @@
     "meta": "ORANWASH L NORMAL SET 1 TUBE 140ml"
   },
   {
+    "orden": 249,
     "id": "INDU251",
     "productCode": "INDU251",
     "name": "INDURENT GEL 60 ML",
@@ -4242,7 +4969,9 @@
     "vendor": "ZHERMARK",
     "originalPrice": "",
     "image": "/products/main/INDU251.jpg",
-    "gallery": [],
+    "gallery": [
+      "/products/main/INDU251.jpg"
+    ],
     "description": "",
     "specs": "",
     "shipping": "",
