@@ -186,8 +186,8 @@ const ShopPage = () => {
                   className={styles.sortSelect || undefined}
                 >
                   <option value="relevance">Relevancia</option>
-                  <option value="price-asc">Precio: más bajo a más alto</option>
-                  <option value="price-desc">Precio: más alto a más bajo</option>
+{/*                  <option value="price-asc">Precio: más bajo a más alto</option>*/}
+{/*                  <option value="price-desc">Precio: más alto a más bajo</option>*/}
                   <option value="name-asc">Nombre: A-Z</option>
                   <option value="name-desc">Nombre: Z-A</option>
                 </select>
