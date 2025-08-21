@@ -211,6 +211,15 @@
     font-size: 9px;
 }
 
+
+.navBadge {
+    font-size: 9px; /* Un tamaño un poco más pequeño */
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-left: 5px; /* Ajusta el espacio a la izquierda */
+    vertical-align: super; /* Hace que el texto se eleve */
+  }
+
 @media (max-width: 1300px) {
     .mobileMenuContainer {
         display: block;

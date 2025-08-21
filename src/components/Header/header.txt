@@ -1,9 +1,6 @@
 import React, { useState, useEffect, createRef } from 'react';
 import { Link, navigate } from 'gatsby';
 
-import { isAuth } from '../../helpers/general';
-
-import AddNotification from '../AddNotification';
 import Brand from '../Brand';
 import Container from '../Container';
 import Config from '../../config.json';
@@ -11,12 +8,11 @@ import Drawer from '../Drawer';
 import ExpandedMenu from '../ExpandedMenu';
 import FormInputField from '../FormInputField/FormInputField';
 import Icon from '../Icons/Icon';
-import MiniCart from '../MiniCart';
 import MobileNavigation from '../MobileNavigation';
 import * as styles from './Header.module.css';
 
 const Header = (prop) => {
-  const [showMiniCart, setShowMiniCart] = useState(false);
+  // Eliminado: showMiniCart
   const [mobileMenu, setMobileMenu] = useState(false);
   const [showMenu, setShowMenu] = useState(true);
 
@@ -27,12 +23,8 @@ const Header = (prop) => {
   const [search, setSearch] = useState('');
 
   const searchRef = createRef();
-  const bannerMessage = 'Free shipping worldwide';
-  const searchSuggestions = [
-    'Oversize sweaters',
-    'Lama Pajamas',
-    'Candles Cinnamon',
-  ];
+  const bannerMessage = 'Envios gratuitos por todo Santo Domingo';
+  const searchSuggestions = ['Boost', 'Cementos', 'Puntas'];
 
   const handleHover = (navObject) => {
     if (navObject.category) {
@@ -47,7 +39,7 @@ const Header = (prop) => {
 
   const handleSearch = (e) => {
     e.preventDefault();
-    navigate(`/search?q=${search}`);
+    navigate(`/search?q=${encodeURIComponent(search)}`);
     setShowSearch(false);
   };
 
@@ -68,21 +60,21 @@ const Header = (prop) => {
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
 
-  //listen for show search and delay trigger of focus due to CSS visiblity property
+  // focus search input after it becomes visible
   useEffect(() => {
     if (showSearch === true) {
       setTimeout(() => {
-        searchRef.current.focus();
+        searchRef.current?.focus();
       }, 250);
     }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [showSearch]);
+  }, [showSearch, searchRef]);
 
   return (
     <div className={styles.root}>
       <div className={styles.headerMessageContainer}>
         <span>{bannerMessage}</span>
       </div>
+
       <Container size={'large'} spacing={'min'}>
         {/* header container */}
         <div className={styles.header}>
@@ -105,19 +97,23 @@ const Header = (prop) => {
                   {navObject.menuLabel}
                 </Link>
               ))}
+              
             </nav>
           </div>
+
           <div
             role={'presentation'}
             onClick={() => {
               setMobileMenu(!mobileMenu);
-              // setDepth(0);
             }}
             className={styles.burgerIcon}
           >
-            <Icon symbol={`${mobileMenu === true ? 'cross' : 'burger'}`}></Icon>
+            <Icon symbol={`${mobileMenu === true ? 'cross' : 'burger'}`} />
           </div>
+
           <Brand />
+
+          {/* Acciones: dejamos SOLO la lupa */}
           <div className={styles.actionContainers}>
             <button
               aria-label="Search"
@@ -126,49 +122,20 @@ const Header = (prop) => {
                 setShowSearch(!showSearch);
               }}
             >
-              <Icon symbol={'search'}></Icon>
+              <Icon symbol={'search'} />
             </button>
-            <Link
-              aria-label="Favorites"
-              href="/account/favorites"
-              className={`${styles.iconContainer} ${styles.hideOnMobile}`}
-            >
-              <Icon symbol={'heart'}></Icon>
-            </Link>
-            <Link
-              aria-label="Orders"
-              href={isAuth() ? '/login' : '/account/orders/'}
-              className={`${styles.iconContainer} ${styles.hideOnMobile}`}
-            >
-              <Icon symbol={'user'}></Icon>
-            </Link>
-            <button
-              aria-label="Cart"
-              className={`${styles.iconButton} ${styles.iconContainer} ${styles.bagIconContainer}`}
-              onClick={() => {
-                setShowMiniCart(true);
-                setMobileMenu(false);
-              }}
-            >
-              <Icon symbol={'bag'}></Icon>
-              <div className={styles.bagNotification}>
-                <span>1</span>
-              </div>
-            </button>
-            <div className={styles.notificationContainer}>
-              <AddNotification openCart={() => setShowMiniCart(true)} />
-            </div>
+            {/* Eliminado: Favoritos (heart) */}
+            {/* Eliminado: Mi cuenta (user) */}
+            {/* Eliminado: Carrito (bag), contador y AddNotification */}
           </div>
         </div>
 
         {/* search container */}
         <div
-          className={`${styles.searchContainer} ${
-            showSearch === true ? styles.show : styles.hide
-          }`}
+          className={`${styles.searchContainer} ${showSearch === true ? styles.show : styles.hide}`}
         >
-          <h4>What are you looking for?</h4>
-          <form className={styles.searchForm} onSubmit={(e) => handleSearch(e)}>
+          <h4>¿Que estás buscando?</h4>
+          <form className={styles.searchForm} onSubmit={handleSearch}>
             <FormInputField
               ref={searchRef}
               icon={'arrow'}
@@ -185,7 +152,7 @@ const Header = (prop) => {
                 role={'presentation'}
                 onClick={() => {
                   setShowSearch(false);
-                  navigate(`/search?q=${suggestion}`);
+                  navigate(`/search?q=${encodeURIComponent(suggestion)}`);
                 }}
                 key={index}
                 className={styles.suggestion}
@@ -205,24 +172,17 @@ const Header = (prop) => {
         </div>
       </Container>
 
-      {/* menu container */}
+      {/* menú desplegable desktop */}
       <div
         role={'presentation'}
         onMouseLeave={() => setShowMenu(false)}
         onMouseEnter={() => setShowMenu(true)}
-        className={`${styles.menuContainer} ${
-          showMenu === true ? styles.show : ''
-        }`}
+        className={`${styles.menuContainer} ${showMenu === true ? styles.show : ''}`}
       >
         <Container size={'large'} spacing={'min'}>
           <ExpandedMenu menu={menu} />
         </Container>
       </div>
-
-      {/* minicart container */}
-      <Drawer visible={showMiniCart} close={() => setShowMiniCart(false)}>
-        <MiniCart />
-      </Drawer>
 
       {/* mobile menu */}
       <div className={styles.mobileMenuContainer}>

@@ -94,9 +94,15 @@ const Header = (prop) => {
                   }`}
                   to={navObject.menuLink}
                 >
-                  {navObject.menuLabel}
+                  <span>{navObject.menuLabel}</span>
+                  {navObject.badge && (
+                    <span className={styles.navBadge} style={{ color: navObject.badgeColor }}>
+                      {navObject.badge}
+                    </span>
+                  )}
                 </Link>
               ))}
+              
             </nav>
           </div>
 

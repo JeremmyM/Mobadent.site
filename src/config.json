@@ -59,6 +59,13 @@
       "menuLabel": "Nosotros",
       "menuLink": "/about",
       "category": null
+    },
+    {
+      "menuLabel": "CLUB MOBADENT",
+      "menuLink": "/",
+      "category": null,
+      "badge": " Próximamente",
+      "badgeColor": "red"
     }
   ],
   "filters": [
