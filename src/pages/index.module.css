@@ -51,6 +51,19 @@
     margin: 88px 0px;
 }
 
+.videoStyle {
+    width: 20%;
+    height: auto;
+    object-fit: cover;
+    display: block;
+  }
+  
+  /* Puedes ajustar el tamaño del contenedor si lo necesitas */
+  .highlightContainer {
+    /* Por ejemplo, si quieres un alto fijo */
+    /* height: 400px; */ 
+  }
+
 .linkContainers {
     display: flex;
     position: absolute;

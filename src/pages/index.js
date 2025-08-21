@@ -4,7 +4,7 @@ import AttributeGrid from '../components/AttributeGrid';
 import Container from '../components/Container';
 import Hero from '../components/Hero';
 import BlogPreviewGrid from '../components/BlogPreviewGrid';
-import Highlight from '../components/Highlight';
+import Highlight from '../components/Highlight'; // El componente Highlight sigue importado
 import Layout from '../components/Layout/Layout';
 import ProductCollectionGrid from '../components/ProductCollectionGrid';
 import ProductCardGrid from '../components/ProductCardGrid';
@@ -80,7 +80,7 @@ const IndexPage = () => {
       <div className={styles.highlightContainer}>
         <Container size={'large'} fullMobile>
           <Highlight
-            image={'/highlight.png'}
+            videoSrc={'/0821.mp4'} // <-- Usar el nuevo prop
             altImage={'imagen de resina y adhesivos'}
             miniImage={'/highlightmin.png'}
             miniImageAlt={'mini imagen de resina'}
@@ -88,7 +88,7 @@ const IndexPage = () => {
             description={`Mantenimiento, reparación y calibración de equipos odontológicos, realizado por nuestro ingeniero biomédico para garantizar un funcionamiento óptimo y seguro.`}
             textLink={'CONTACTAR AHORA'}
             link={'https://wa.me/593960044111?text=Hola, quisiera recibir informacion sobre el servicio tecnico para equipos dentales.'}
-            />
+          />
         </Container>
       </div>
 
@@ -128,7 +128,6 @@ const IndexPage = () => {
           maxWidth={'660px'}
           ctaAction={goToBlog}
           ctaStyle={styles.ctaCustomButton}
-          
         />
       </div>
 
