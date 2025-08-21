@@ -80,10 +80,10 @@ const IndexPage = () => {
       <div className={styles.highlightContainer}>
         <Container size={'large'} fullMobile>
           <Highlight
-            videoSrc={'/0821.mp4'} // <-- Usar el nuevo prop
-            altImage={'imagen de resina y adhesivos'}
+            videoSrc={'/gabriel.mp4'} // <-- Usar el nuevo prop
+            altImage={'video msc gabriel'}
             miniImage={'/highlightmin.png'}
-            miniImageAlt={'mini imagen de resina'}
+            miniImageAlt={'video biomedico'}
             title={'Servicio técnico especializado en equipos dentales'}
             description={`Mantenimiento, reparación y calibración de equipos odontológicos, realizado por nuestro ingeniero biomédico para garantizar un funcionamiento óptimo y seguro.`}
             textLink={'CONTACTAR AHORA'}
