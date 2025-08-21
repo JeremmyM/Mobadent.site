@@ -23,10 +23,7 @@
           "text": "Sobre nosotros",
           "link": "/about"
         },
-        {
-          "text": "Blog",
-          "link": "/blog"
-        },
+
         {
           "text": "Política de privacidad",
           "link": "/support#policy"
@@ -57,11 +54,7 @@
       "menuLink": "/shop",
       "category": null
     },
-    {
-      "menuLabel": "Blog",
-      "menuLink": "/blog",
-      "category": null
-    },
+
     {
       "menuLabel": "Nosotros",
       "menuLink": "/about",
