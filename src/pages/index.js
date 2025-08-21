@@ -96,8 +96,8 @@ const IndexPage = () => {
       <div className={styles.promotionContainer}>
         <Hero image={toOptimizedImage('/banner2.png')} title={`-15% en combos\n Instrumental y descarte`} />
         <div className={styles.linkContainers}>
-          <Link to={'/shop'}>ENDODONCIA</Link>
-          <Link to={'/shop'}>ODONTOLOGÍA GENERAL</Link>
+{/*           <Link to={'/shop'}>ENDODONCIA</Link>      */}
+{/*           <Link to={'/shop'}>ODONTOLOGÍA GENERAL</Link>   */}
         </div>
       </div>
 
