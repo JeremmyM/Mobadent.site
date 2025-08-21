@@ -295,7 +295,7 @@ const ShopPage = () => {
           </div>
         </Container>
       </div>
-      <LayoutOption />
+      
     </Layout>
   );
 };
