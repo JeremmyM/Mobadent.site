@@ -45,7 +45,7 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          Somos <span className={styles.gold}>MOBADENT</span>: empresa familiar y joven que
+          Somos <span className={styles.gold}>MOBADENT</span>: empresa familiar con muchos años de experiencia que
           distribuye <strong>productos originales</strong> con respaldo profesional.
         </p>
         <p>

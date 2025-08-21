@@ -24,7 +24,7 @@ const Header = (prop) => {
 
   const searchRef = createRef();
   const bannerMessage = 'Envios gratuitos por todo Santo Domingo';
-  const searchSuggestions = ['Oversize sweaters', 'Lama Pajamas', 'Candles Cinnamon'];
+  const searchSuggestions = ['Boost', 'Cementos', 'Puntas'];
 
   const handleHover = (navObject) => {
     if (navObject.category) {
@@ -133,7 +133,7 @@ const Header = (prop) => {
         <div
           className={`${styles.searchContainer} ${showSearch === true ? styles.show : styles.hide}`}
         >
-          <h4>What are you looking for?</h4>
+          <h4>¿Que estás buscando?</h4>
           <form className={styles.searchForm} onSubmit={handleSearch}>
             <FormInputField
               ref={searchRef}

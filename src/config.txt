@@ -55,33 +55,7 @@
     {
       "menuLabel": "Productos",
       "menuLink": "/shop",
-      "category": [
-        
-        {
-          "categoryLabel": "Consumibles",
-          "submenu": [
-            { "menuLabel": "Guantes", "menuLink": "/shop" },
-            { "menuLabel": "Jeringas", "menuLink": "/shop" },
-            { "menuLabel": "Torundas", "menuLink": "/shop" }
-          ]
-        },
-        {
-          "categoryLabel": "Instrumental",
-          "submenu": [
-            { "menuLabel": "Espejos", "menuLink": "/shop" },
-            { "menuLabel": "Porta agujas", "menuLink": "/shop" },
-            { "menuLabel": "Bisturí", "menuLink": "/shop" }
-          ]
-        },
-    
-        {
-          "categoryLabel": "Protección",
-          "submenu": [
-            { "menuLabel": "Babetes", "menuLink": "/shop" },
-            { "menuLabel": "Cubrebocas", "menuLink": "/shop" }
-          ]
-        }
-      ]
+      "category": null
     },
     {
       "menuLabel": "Blog",

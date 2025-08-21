@@ -6,9 +6,9 @@
     { "value": "spanish", "label": "Español" }
   ],
   "social": {
-    "facebook": "https://www.facebook.com/mobadent",
-    "instagram": "https://www.instagram.com/mobadent_ec",
-    "whatsapp": "https://wa.me/593999999999"
+    "instagram": "https://www.instagram.com/mobadent.ec/",
+    "facebook": "https://www.facebook.com/your_page",
+    "whatsapp": "https://wa.me/593960044111"
   },
   "paymentOptions": {
     "visa": true,
@@ -18,7 +18,7 @@
   "footerLinks": [
     {
       "subTitle": "Mobadent",
-      "links": [
+      "links": [  
         {
           "text": "Sobre nosotros",
           "link": "/about"
@@ -65,11 +65,6 @@
     {
       "menuLabel": "Nosotros",
       "menuLink": "/about",
-      "category": null
-    },
-    {
-      "menuLabel": "CLUB MOBADENT",
-      "menuLink": "/club-mobadent",
       "category": null
     }
   ],

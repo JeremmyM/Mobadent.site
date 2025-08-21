@@ -68,70 +68,7 @@ const Footer = (prop) => {
               );
             })}
             
-            {/* >>> CAMBIO AQUÍ: La sección de Newsletter ha sido comentada */}
-            {/* <div className={styles.newsLetter}>
-              <div className={styles.newsLetterContent}>
-                <span className={styles.linkTitle}>Newsletter</span>
-                <p className={styles.promoMessage}>
-                  Get 15% off your first purchase! Plus, be the first to know
-                  about sales, new product launches and exclusive offers!
-                </p>
-                <form
-                  className={styles.newsLetterForm}
-                  onSubmit={(e) => subscribeHandler(e)}
-                >
-                  <FormInputField
-                    icon={'arrow'}
-                    id={'newsLetterInput'}
-                    value={email}
-                    placeholder={'Email'}
-                    handleChange={(_, e) => setEmail(e)}
-                  />
-                </form>
-                <div className={styles.socialContainer}>
-                  {Config.social.youtube && (
-                    <div
-                      onClick={() => handleSocialClick('youtube')}
-                      role={'presentation'}
-                      className={styles.socialIconContainer}
-                    >
-                      <Icon symbol={'youtube'}></Icon>
-                    </div>
-                  )}
-
-                  {Config.social.instagram && (
-                    <div
-                      onClick={() => handleSocialClick('instagram')}
-                      role={'presentation'}
-                      className={styles.socialIconContainer}
-                    >
-                      <Icon symbol={'instagram'}></Icon>
-                    </div>
-                  )}
-
-                  {Config.social.facebook && (
-                    <div
-                      onClick={() => handleSocialClick('facebook')}
-                      role={'presentation'}
-                      className={styles.socialIconContainer}
-                    >
-                      <Icon symbol={'facebook'}></Icon>
-                    </div>
-                  )}
-
-                  {Config.social.twitter && (
-                    <div
-                      onClick={() => handleSocialClick('twitter')}
-                      role={'presentation'}
-                      className={styles.socialIconContainer}
-                    >
-                      <Icon symbol={'twitter'}></Icon>
-                    </div>
-                  )}
-                </div>
-              </div>
-            </div>
-            */}
+            {/* ... other code for social media ... */}
             <div className={styles.socialContainer} style={{ marginLeft: 'auto', display: 'flex', alignItems: 'flex-start', justifyContent: 'flex-end', gap: '20px' }}>
               <div className={styles.newsLetterContent}>
                 <span className={styles.linkTitle}>Síguenos en redes sociales</span>
@@ -175,9 +112,21 @@ const Footer = (prop) => {
                       <Icon symbol={'twitter'}></Icon>
                     </div>
                   )}
+
+                  {/* Add the new WhatsApp icon here */}
+                  {Config.social.whatsapp && (
+                    <div
+                      onClick={() => handleSocialClick('whatsapp')}
+                      role={'presentation'}
+                      className={styles.socialIconContainer}
+                    >
+                      <Icon symbol={'whatsapp'}></Icon>
+                    </div>
+                  )}
                 </div>
               </div>
             </div>
+            
           </div>
         </div>
       </Container>
