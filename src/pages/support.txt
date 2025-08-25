@@ -11,7 +11,10 @@ import Container from '../components/Container';
 
 const SupportPage = (props) => {
   const subpages = [
-    { title: 'Envíos y Devoluciones', key: 'returns' },
+    { title: 'Envíos y Entregas', key: 'shipping' },
+    { title: 'Devoluciones', key: 'returns' },
+    { title: 'Pagos y Seguridad', key: 'payments' },
+    { title: 'Términos y Condiciones', key: 'terms' },
     { title: 'Contáctanos', key: 'contact' },
     { title: 'Política de Privacidad', key: 'policy' },
   ];

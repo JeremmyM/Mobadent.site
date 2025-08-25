@@ -1,65 +1,100 @@
+/* Estilos generales para el contenedor principal */
 .root {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 24px;
+    font-family: sans-serif;
+    color: #333;
 }
 
-.section:first-child {
-    margin-top: 0px;
-}
-
+/* Estilos para cada sección de información */
 .section {
     margin-top: 48px;
+    padding: 0 16px;
+}
+
+/* Estilo para el primer .section para eliminar el margen superior */
+.section:first-of-type {
+    margin-top: 0;
 }
 
 .section h4 {
-    font-weight: normal;
-    font-size: 32px;
-    line-height: 26px;
-    margin-bottom: 32px;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 1.2;
+    margin-bottom: 16px;
+    color: #1a1a1a;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 8px;
 }
 
 .section p {
-    font-weight: normal;
+    font-weight: 400;
     font-size: 16px;
-    line-height: 26px
+    line-height: 1.6;
+    margin-bottom: 12px;
+}
+
+/* Estilos para el contenedor del formulario */
+.contactContainer {
+    margin-top: 48px;
+    background-color: #f9f9f9;
+    padding: 32px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .contactForm {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 0px 24px;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 24px;
 }
 
+/* Estilos para el campo de comentarios */
 .commentInput {
-    margin-top: 32px;
-    grid-column: 1 / span 2;
+    grid-column: 1 / -1;
 }
 
+/* Estilos para el botón de envío */
 .customButton {
+    margin-top: 24px;
     width: 220px;
+    height: 48px;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
 }
 
-.contactContainer {
-    margin-top: 32px;
+.customButton:hover {
+    background-color: #0056b3;
 }
 
-@media (max-width: 800px) {
-    .contactForm {
-        grid-template-columns: 1fr;
+/* Media queries para dispositivos móviles */
+@media (max-width: 768px) {
+    .root {
+        padding: 16px;
     }
 
-    .commentInput {
-        grid-column: 1; 
+    .section {
+        margin-top: 32px;
+    }
+
+    .section h4 {
+        font-size: 24px;
+    }
+
+    .contactContainer {
+        padding: 24px;
     }
 
     .customButton {
         width: 100%;
-    }
-
-    .commentInput {
-        margin-top: 0px;
-    }
-
-    .section h4 {
-        font-size: 22px;
-        line-height: 26px;
     }
 }
