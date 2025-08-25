@@ -220,7 +220,7 @@
     vertical-align: super; /* Hace que el texto se eleve */
   }
 
-@media (max-width: 1300px) {
+@media (max-width: 1450px) {
     .mobileMenuContainer {
         display: block;
     }
@@ -266,4 +266,6 @@
         font-size: 32px;
         line-height: 42px;
     }    
+
+    
 }

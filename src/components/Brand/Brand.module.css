@@ -20,7 +20,7 @@
     }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1450px) {
     .logo {
         height: 60px; /* aumenta aquí el tamaño del logo */
         width: auto;
