@@ -111,15 +111,15 @@ const IndexPage = () => {
       />
 
       {/* Blog Grid */}
-      <div className={styles.blogsContainer}>
+   {/*   <div className={styles.blogsContainer}>
         <Container size={'large'}>
           <Title name={'Noticias y Consejos'} subtitle={'Actualizaciones y tips clínicos'} />
           <BlogPreviewGrid data={blogData} />
         </Container>
-      </div>
+      </div>*/}
 
       {/* Promotion */}
-      <div className={styles.sustainableContainer}>
+ {/*     <div className={styles.sustainableContainer}>
         <Hero
           image={toOptimizedImage('/banner3.png')}
           title={'Compromiso con tu práctica'}
@@ -129,7 +129,7 @@ const IndexPage = () => {
           ctaAction={goToBlog}
           ctaStyle={styles.ctaCustomButton}
         />
-      </div>
+      </div>*/}
 
       {/* Social Media */}
       <div className={styles.socialContainer}>
